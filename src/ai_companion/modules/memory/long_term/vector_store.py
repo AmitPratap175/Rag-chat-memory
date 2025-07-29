@@ -48,7 +48,7 @@ class VectorStore:
         if not self._initialized:
             # self._validate_env_vars()
             self.model = SentenceTransformer(self.EMBEDDING_MODEL)
-            self.client = QdrantClient(url="localhost", port=6333)  #(url=settings.QDRANT_URL, api_key=settings.QDRANT_API_KEY)
+            self.client = QdrantClient(url="localhost", port=settings.QDRANT_PORT)  #(url=settings.QDRANT_URL, api_key=settings.QDRANT_API_KEY)
             self._initialized = True
 
     def _validate_env_vars(self) -> None:

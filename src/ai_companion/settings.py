@@ -11,11 +11,8 @@ class Settings(BaseSettings):
 
     QDRANT_API_KEY: str | None
     QDRANT_URL: str
-    # QDRANT_PORT: str = "6333"
+    QDRANT_PORT: str = "6333"
     # QDRANT_HOST: str | None = None
-    WHATSAPP_PHONE_NUMBER_ID: str = "737836732745461"
-    WHATSAPP_TOKEN: str= "EAAWkndygUyIBPJ1aNdwMgR2ghggdbKmlEDigyarGtGtW2hUnwZADDCPICgTJFGUMAqqHmQHF0UZCQJqL4fxUd9L0wf61iwZA17NwizROSI9MkdMQ4K4oRAJpZCdfD2AyxfqThXGtKBDImk7vnGpGaYDydefhk8GujwtGdwJZAzTt0WZAJoftTZBgd2d5iFOggm9vZAXhgQrUzZBiBZAZAXiNSwTvRHRCf85QXbuzPfb3XeAYLtQpAZDZD"
-    WHATSAPP_VERIFY_TOKEN: str = "Brahmware2025"
 
 
     TEXT_MODEL_NAME: str = "gemini-2.0-flash"

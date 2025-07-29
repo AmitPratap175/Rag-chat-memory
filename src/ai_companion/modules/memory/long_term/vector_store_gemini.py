@@ -52,7 +52,7 @@ class VectorStore:
                 model=self.EMBEDDING_MODEL,
                 api_key=settings.GOOGLE_API_KEY
             )
-            self.client = QdrantClient(url="localhost", port=6333)
+            self.client = QdrantClient(url="localhost", port=settings.QDRANT_PORT)
             self._initialized = True
 
     def _validate_env_vars(self) -> None:
