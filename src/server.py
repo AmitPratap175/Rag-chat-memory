@@ -1,6 +1,7 @@
 import json
 import os
 from fastapi import FastAPI, WebSocket, UploadFile, File
+from fastapi.middleware.cors import CORSMiddleware
 from fastapi.staticfiles import StaticFiles
 from fastapi.responses import FileResponse
 from datetime import datetime
@@ -16,13 +17,23 @@ from src.ai_companion.settings import settings as ai_settings
 
 app = FastAPI()
 
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
 # Set log message color for all logs from this file to 'purple' for easier identification in logs
 set_files_message_color('purple')
 
 # Mount static files directory from React frontend build.
 # Enables serving CSS, JS, images etc. at /static path.
-app.mount("/static", StaticFiles(directory=Path(__file__).parent/"frontend/build/static"), name="static")
+# app.mount("/static", StaticFiles(directory=Path(__file__).parent/"frontend/build/static"), name="static")
 
+app.mount("/assets", StaticFiles(directory="frontend/dist/assets"), name="assets")
 
 async def process_input(content: str, user_uuid: str):
     async with AsyncSqliteSaver.from_conn_string(ai_settings.SHORT_TERM_MEMORY_DB_PATH) as short_term_memory:
@@ -55,29 +66,17 @@ async def serve_root():
     FileResponse
         Sends the React app's main index.html file to bootstrap the SPA frontend.
     """
-    return FileResponse(Path(__file__).parent/os.path.join("frontend", "build", "index.html"))
+    return FileResponse(Path(__file__).parent/os.path.join("frontend", "dist", "index.html"))
 
 @app.get("/{full_path:path}")
 async def serve_frontend(full_path: str):
-    """
-    Serve all other GET requests to enable React Router support for deep links.
-
-    Parameters:
-    -----------
-    full_path : str
-        The requested URI path after the root.
-
-    Returns:
-    --------
-    FileResponse
-        Returns the requested static file if it exists,
-        otherwise falls back to sending index.html to let React Router handle routing.
-    """
-    file_path = Path(__file__).parent / os.path.join("frontend", "build", full_path)
+ 
+    file_path = os.path.join("frontend", "dist", full_path)
     # Serve static asset if exists, else fallback to SPA entrypoint
     if os.path.exists(file_path):
         return FileResponse(file_path)
-    return FileResponse(Path(__file__).parent / os.path.join("frontend", "build", "index.html"))
+    return FileResponse(os.path.join("frontend", "dist", "index.html"))
+
 
 @app.websocket("/ws")
 async def websocket_endpoint(websocket: WebSocket):
