@@ -327,4 +327,4 @@ short_term_memory/
 
 .chainlit*
 
-*memory.db*
+memory.db

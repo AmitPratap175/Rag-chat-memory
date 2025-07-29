@@ -40,8 +40,7 @@ def create_workflow_graph():
 
 
     # Define the flow
-    graph_builder.add_edge(START, "memory_extraction_node")
-    graph_builder.add_edge("memory_extraction_node", "context_injection_node")
+    graph_builder.add_edge(START, "context_injection_node")
     graph_builder.add_edge("context_injection_node", "memory_injection_node")
     graph_builder.add_edge("memory_injection_node", "initial_check_node")
 
@@ -53,7 +52,10 @@ def create_workflow_graph():
     graph_builder.add_edge("rewrite_query_node", "rag_node")
 
     # Final response
-    graph_builder.add_conditional_edges("conversation_node", should_summarize_conversation)
+    graph_builder.add_edge("conversation_node", "memory_extraction_node")
+    graph_builder.add_conditional_edges(
+        "memory_extraction_node", should_summarize_conversation
+    )
     graph_builder.add_edge("summarize_conversation_node", END)
 
     return graph_builder

@@ -67,12 +67,19 @@ async def summarize_conversation_node(state: AICompanionState):
 
 
 async def memory_extraction_node(state: AICompanionState):
-    """Extract and store important information from the last message."""
-    if not state["messages"]:
+    """Extract and store important information from the last turn of the conversation."""
+    if not state["messages"] or len(state["messages"]) < 2:
         return {}
 
     memory_manager = get_memory_manager()
-    await memory_manager.extract_and_store_memories(state["messages"][-1])
+    # The last two messages are the user's query and the AI's response
+    last_turn_messages = state["messages"][-2:]
+    conversation_to_memorize = "\n".join(
+        [f"{m.type}: {m.content}" for m in last_turn_messages]
+    )
+    await memory_manager.extract_and_store_memories(
+        HumanMessage(content=conversation_to_memorize)
+    )
     return {}
 
 
