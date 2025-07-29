@@ -2,12 +2,12 @@ from functools import lru_cache
 
 from langgraph.graph import END, START, StateGraph
 
-from ai_companion.graph.edges import (
+from src.ai_companion.graph.edges import (
     should_summarize_conversation,
     route_to_rag,
     evaluate_answer,
 )
-from ai_companion.graph.nodes import (
+from src.ai_companion.graph.nodes import (
     context_injection_node,
     conversation_node,
     memory_extraction_node,
@@ -19,7 +19,7 @@ from ai_companion.graph.nodes import (
     evaluate_answer_node,
     rewrite_query_node,
 )
-from ai_companion.graph.state import AICompanionState
+from src.ai_companion.graph.state import AICompanionState
 
 
 @lru_cache(maxsize=1)

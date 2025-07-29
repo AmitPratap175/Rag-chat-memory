@@ -2,8 +2,8 @@ import os
 import tempfile
 from typing import Optional
 
-from ai_companion.core.exceptions import SpeechToTextError
-from ai_companion.settings import settings
+from src.ai_companion.core.exceptions import SpeechToTextError
+from src.ai_companion.settings import settings
 from langchain_core.messages import HumanMessage
 from langchain_google_genai import ChatGoogleGenerativeAI
 import base64

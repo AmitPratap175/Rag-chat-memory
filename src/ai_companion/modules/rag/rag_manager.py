@@ -1,8 +1,8 @@
 import logging
 from typing import List
 
-from ai_companion.modules.memory.long_term.vector_store import get_vector_store
-from ai_companion.settings import settings
+from src.ai_companion.modules.memory.long_term.vector_store import get_vector_store
+from src.ai_companion.settings import settings
 
 
 class RAGManager:

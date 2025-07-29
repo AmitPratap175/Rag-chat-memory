@@ -3,10 +3,10 @@ import re
 from langchain_core.output_parsers import StrOutputParser
 from langchain_google_genai import ChatGoogleGenerativeAI
 
-from ai_companion.modules.image.image_to_text import ImageToText
-from ai_companion.modules.image.text_to_image import TextToImage
-from ai_companion.modules.speech import TextToSpeech
-from ai_companion.settings import settings
+from src.ai_companion.modules.image.image_to_text import ImageToText
+from src.ai_companion.modules.image.text_to_image import TextToImage
+from src.ai_companion.modules.speech import TextToSpeech
+from src.ai_companion.settings import settings
 
 def get_chat_model(temperature: float = 0.7):
     return ChatGoogleGenerativeAI(

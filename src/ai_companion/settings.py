@@ -1,9 +1,8 @@
 from pydantic_settings import BaseSettings, SettingsConfigDict
-import os
-
+from pathlib import Path
 
 class Settings(BaseSettings):
-    model_config = SettingsConfigDict(env_file="/home/dspratap/Documents/suneater175/whatsapp-bot-best/src/ai_companion/.env", extra="ignore", env_file_encoding="utf-8")
+    model_config = SettingsConfigDict(env_file=Path(__file__).parent.parent.parent/".env", extra="ignore", env_file_encoding="utf-8")
 
     GOOGLE_API_KEY: str
     # ELEVENLABS_API_KEY: str

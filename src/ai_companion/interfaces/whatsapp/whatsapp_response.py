@@ -8,10 +8,10 @@ from fastapi import APIRouter, Request, Response
 from langchain_core.messages import HumanMessage
 from langgraph.checkpoint.sqlite.aio import AsyncSqliteSaver
 
-from ai_companion.graph import graph_builder
-from ai_companion.modules.image import ImageToText
-from ai_companion.modules.speech import SpeechToText, TextToSpeech
-from ai_companion.settings import settings
+from src.ai_companion.graph import graph_builder
+from src.ai_companion.modules.image import ImageToText
+from src.ai_companion.modules.speech import SpeechToText, TextToSpeech
+from src.ai_companion.settings import settings
 
 logger = logging.getLogger(__name__)
 

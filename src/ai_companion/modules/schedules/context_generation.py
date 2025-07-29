@@ -1,7 +1,7 @@
 from datetime import datetime
 from typing import Dict, Optional
 
-from ai_companion.core.schedules import (
+from src.ai_companion.core.schedules import (
     FRIDAY_SCHEDULE,
     MONDAY_SCHEDULE,
     SATURDAY_SCHEDULE,

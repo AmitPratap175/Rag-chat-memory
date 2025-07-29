@@ -15,8 +15,8 @@ sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..',
 from langchain_core.messages import AIMessageChunk, HumanMessage
 from langgraph.checkpoint.sqlite.aio import AsyncSqliteSaver
 
-from ai_companion.graph import graph_builder
-from ai_companion.settings import settings
+from src.ai_companion.graph import graph_builder
+from src.ai_companion.settings import settings
 
 
 # * APP INPUTS ----

@@ -3,8 +3,8 @@ import logging
 import os
 from typing import Optional, Union
 
-from ai_companion.core.exceptions import ImageToTextError
-from ai_companion.settings import settings
+from src.ai_companion.core.exceptions import ImageToTextError
+from src.ai_companion.settings import settings
 from langchain_google_genai import ChatGoogleGenerativeAI
 
 

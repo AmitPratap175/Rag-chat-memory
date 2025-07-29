@@ -9,7 +9,7 @@ import uuid
 from pathlib import Path
 from typing import List
 
-from ai_companion.modules.memory.long_term.vector_store import get_vector_store
+from src.ai_companion.modules.memory.long_term.vector_store import get_vector_store
 from langchain_community.document_loaders import (
     PyPDFLoader,
     UnstructuredMarkdownLoader,

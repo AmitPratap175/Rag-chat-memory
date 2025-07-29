@@ -1,12 +1,12 @@
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
-from ai_companion.core.prompts import (
+from src.ai_companion.core.prompts import (
     CHARACTER_CARD_PROMPT,
     RAG_ROUTER_PROMPT,
     RAG_PROMPT,
     EVALUATE_ANSWER_PROMPT,
 )
-from ai_companion.graph.utils.helpers import AsteriskRemovalParser, get_chat_model
-from ai_companion.graph.utils.schemas import RagRouter, AnswerEvaluator
+from src.ai_companion.graph.utils.helpers import AsteriskRemovalParser, get_chat_model
+from src.ai_companion.graph.utils.schemas import RagRouter, AnswerEvaluator
 from langchain_core.output_parsers import StrOutputParser
 
 

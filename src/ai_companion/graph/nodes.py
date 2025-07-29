@@ -1,20 +1,20 @@
 from langchain_core.messages import AIMessage, HumanMessage, RemoveMessage
 from langchain_core.runnables import RunnableConfig
 
-from ai_companion.graph.state import AICompanionState
-from ai_companion.graph.utils.chains import (
+from src.ai_companion.graph.state import AICompanionState
+from src.ai_companion.graph.utils.chains import (
     get_character_response_chain,
     get_rag_router_chain,
     get_rag_chain,
     get_answer_evaluator_chain,
 )
-from ai_companion.graph.utils.helpers import (
+from src.ai_companion.graph.utils.helpers import (
     get_chat_model,
 )
-from ai_companion.modules.memory.long_term.memory_manager import get_memory_manager
-from ai_companion.modules.rag.rag_manager import get_rag_manager
-from ai_companion.modules.schedules.context_generation import ScheduleContextGenerator
-from ai_companion.settings import settings
+from src.ai_companion.modules.memory.long_term.memory_manager import get_memory_manager
+from src.ai_companion.modules.rag.rag_manager import get_rag_manager
+from src.ai_companion.modules.schedules.context_generation import ScheduleContextGenerator
+from src.ai_companion.settings import settings
 
 
 def context_injection_node(state: AICompanionState):

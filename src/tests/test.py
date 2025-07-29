@@ -5,9 +5,9 @@ from typing import Optional
 import io
 from PIL import Image as PILImage
 
-from ai_companion.core.exceptions import TextToImageError
-from ai_companion.core.prompts import IMAGE_ENHANCEMENT_PROMPT, IMAGE_SCENARIO_PROMPT
-from ai_companion.settings import settings
+from src.ai_companion.core.exceptions import TextToImageError
+from src.ai_companion.core.prompts import IMAGE_ENHANCEMENT_PROMPT, IMAGE_SCENARIO_PROMPT
+from src.ai_companion.settings import settings
 from langchain.prompts import PromptTemplate
 from langchain_core.messages import HumanMessage
 from pydantic import BaseModel, Field

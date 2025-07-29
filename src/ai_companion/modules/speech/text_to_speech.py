@@ -2,8 +2,8 @@ import os
 from typing import Optional
 import base64
 
-from ai_companion.core.exceptions import TextToSpeechError
-from ai_companion.settings import settings
+from src.ai_companion.core.exceptions import TextToSpeechError
+from src.ai_companion.settings import settings
 from google.genai import Client as TTSGenerator
 from google.genai import types
 import wave

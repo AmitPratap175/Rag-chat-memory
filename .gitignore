@@ -328,3 +328,5 @@ short_term_memory/
 .chainlit*
 
 memory.db
+
+*node_modules*

@@ -3,7 +3,7 @@ import wave
 import asyncio # Required for running async functions
 import logging
 from typing import Optional
-from ai_companion.settings import settings
+from src.ai_companion.settings import settings
 
 # --- Mocking external dependencies for demonstration ---
 class TextToSpeechError(Exception):
