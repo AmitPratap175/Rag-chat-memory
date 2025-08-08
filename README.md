@@ -1,6 +1,6 @@
 # Rag-chat-memory
 
-This project is a chat application with memory capabilities, utilizing a RAG (Retrieval-Augmented Generation) architecture. It supports multiple interfaces, including Chainlit, Streamit and React Frontend, and uses a Qdrant vector database for long-term memory as well as the vector store for RAG applications.
+This project is a chat application with memory capabilities, utilizing a RAG (Retrieval-Augmented Generation) architecture. It supports multiple interfaces, including Chainlit, Streamlit and React Frontend, and uses a Qdrant vector database for long-term memory as well as the vector store for RAG applications.
 
 ## Project Structure
 
@@ -32,9 +32,9 @@ The project is structured with a backend Python application and a React frontend
 
 2.  **Install Python dependencies:**
     ```bash
-    python3 -m venv .venv
-    . .venv/bin/activate
-    pip install -r requirements.txt
+    uv venv .venv
+    . .venv/bin/activate 
+    uv pip install -e .
     ```
 
 3.  **Set up environment variables:**

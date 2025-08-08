@@ -1,5 +1,5 @@
-from src.ai_companion.modules.image import TextToImage, ImageToText
-from src.ai_companion.core.exceptions import TextToImageError, ImageToTextError
+from src.chatbot.modules.image import TextToImage, ImageToText
+from src.chatbot.core.exceptions import TextToImageError, ImageToTextError
 
 async def main():
     # Set your Google API Key (ensure it's configured in your environment or settings)

@@ -78,24 +78,36 @@ const App: React.FC = () => {
   };
 
   // Message formatting helper
-  const renderBotMsg = (text: string) => {
+  const renderBotMsg = (text: string): JSX.Element => {
+    const formatText = (str: string) => {
+      const parts = str.split(/(\*.\*.*?\*\*)/g);
+      return parts.map((part, index) => {
+        if (part.startsWith('**') && part.endsWith('**')) {
+          return <strong key={index}>{part.slice(2, -2)}</strong>;
+        }
+        return part;
+      });
+    };
+
     const lines = text.split('\n').filter(l => l.trim() !== '');
     const bulletPattern = /^\s*([*•\-])\s+/;
     const bulletLines = lines.filter(line => bulletPattern.test(line));
+
     if (bulletLines.length > 0 && bulletLines.length >= Math.max(2, lines.length - 1)) {
       return (
         <ul style={{ textAlign: "left", paddingLeft: "1.4em" }}>
           {lines.map((line, idx) =>
             bulletPattern.test(line) ? (
-              <li key={idx}>{line.replace(bulletPattern, '')}</li>
+              <li key={idx}>{formatText(line.replace(bulletPattern, ''))}</li>
             ) : null
           )}
         </ul>
       );
     }
+
     return (
       <span style={{ display: "block", textAlign: "left", whiteSpace: "pre-wrap" }}>
-        {text}
+        {formatText(text)}
       </span>
     );
   };

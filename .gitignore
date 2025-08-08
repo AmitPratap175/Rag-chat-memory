@@ -330,3 +330,5 @@ short_term_memory/
 memory.db
 
 *node_modules*
+
+*git_*

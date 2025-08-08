@@ -80,23 +80,3 @@ class SpeechToText:
 
         except Exception as e:
             raise SpeechToTextError(f"Speech-to-text conversion failed: {str(e)}") from e
-
-
-
-if __name__ == "__main__":
-    import asyncio
-
-    async def main():
-        try:
-            # Load test audio file
-            with open("gemini_tts_output_1.wav", "rb") as f:
-                audio_bytes = f.read()
-
-            stt = SpeechToText()
-            transcript = await stt.transcribe(audio_bytes)
-            print("Transcription:", transcript)
-
-        except Exception as e:
-            print("Error during transcription:", e)
-
-    asyncio.run(main())

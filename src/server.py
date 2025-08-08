@@ -11,8 +11,9 @@ from pathlib import Path
 
 from langchain_core.messages import AIMessageChunk, HumanMessage
 from langgraph.checkpoint.sqlite.aio import AsyncSqliteSaver
-from src.ai_companion.graph import graph_builder
-from src.ai_companion.settings import settings as ai_settings
+from src.chatbot.graph import graph_builder
+from src.chatbot.settings import settings as ai_settings
+from src.ingest_documents import main
 
 app = FastAPI()
 
@@ -172,6 +173,8 @@ async def upload_pdf(file: UploadFile = File(...)):
     file_location = Path(__file__).parent/os.path.join(settings.DATA_DIR, file.filename)
     with open(file_location, "wb") as buffer:
         shutil.copyfileobj(file.file, buffer)
+    
+    await main()
     return {"message": f"File '{file.filename}' uploaded successfully!"}
 
 # Entry point to run the FastAPI app when executing this file directly

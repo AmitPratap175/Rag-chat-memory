@@ -1,15 +1,15 @@
 import asyncio
 import logging
-# import os
-# import sys
-# # Add the project root directory to the Python path
-# sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..', '..')))
+import os
+import sys
+# Add the project root directory to the Python path
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 
 import uuid
 from pathlib import Path
 from typing import List
 
-from src.ai_companion.modules.memory.long_term.vector_store import get_vector_store
+from src.chatbot.modules.memory.long_term.vector_store import get_vector_store
 from langchain_community.document_loaders import (
     PyPDFLoader,
     UnstructuredMarkdownLoader,
@@ -21,7 +21,7 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 
 # Define the path to the data directory
-DATA_DIR = Path("/home/dspratap/Documents/GithubProjects/Rag-chat-memory/src/ai_companion/data")
+DATA_DIR = Path(__file__).parent/"chatbot/data"
 
 # Supported file loaders
 FILE_LOADERS = {
@@ -91,5 +91,5 @@ async def main():
 
 
 if __name__ == "__main__":
-    # To run this script, execute `python -m scripts.ingest_documents` from the `src/ai_companion` directory.
+    # To run this script, execute `python src/ingest_documents.py` from the project root directory.
     asyncio.run(main())

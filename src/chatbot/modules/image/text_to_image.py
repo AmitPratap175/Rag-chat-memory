@@ -42,11 +42,11 @@ class TextToImage:
         self._gemini_client: Optional[ChatGoogleGenerativeAI] = None
         self.logger = logging.getLogger(__name__)
 
-    # def _validate_env_vars(self) -> None:
-    #     """Validate that all required environment variables are set."""
-    #     missing_vars = [var for var in self.REQUIRED_ENV_VARS if not os.getenv(var)]
-    #     if missing_vars:
-    #         raise ValueError(f"Missing required environment variables: {', '.join(missing_vars)}")
+    def _validate_env_vars(self) -> None:
+        """Validate that all required environment variables are set."""
+        missing_vars = [var for var in self.REQUIRED_ENV_VARS if not os.getenv(var)]
+        if missing_vars:
+            raise ValueError(f"Missing required environment variables: {', '.join(missing_vars)}")
 
     @property
     def gemini_client(self) -> ChatGoogleGenerativeAI:
@@ -89,7 +89,6 @@ class TextToImage:
             response = await self.gemini_client.ainvoke( # Use ainvoke for async
                 [message],
                 generation_config=dict(response_modalities=["TEXT", "IMAGE"]),
-
             )
 
             # Extract the image data
@@ -197,44 +196,4 @@ class TextToImage:
         
 
 
-# --- Example Usage (How you would use the TextToImage class) ---
-async def main():
-    # Set your Google API Key (ensure it's configured in your environment or settings)
-    # os.environ["GOOGLE_API_KEY"] = "YOUR_ACTUAL_GOOGLE_API_KEY" # Uncomment and set if not using a settings file
 
-    tti = TextToImage() # Pass the GOOGLE_API_KEY here
-
-    # Test Image Generation
-    try:
-        image_prompt = "A majestic lion standing on a rock overlooking a vast savannah at sunset, photorealistic, cinematic lighting."
-        # Generate and resize to 800x600
-        image_data_bytes = await tti.generate_image(
-            prompt=image_prompt,
-            output_path="generated_lion.png",
-            width=800,
-            height=600
-        )
-        print(f"\nGenerated and resized image (800x600). Size: {len(image_data_bytes)} bytes")
-        # Display the image
-        from IPython.display import Image, display
-        display(Image(data=image_data_bytes, width=800))
-
-        # Test another size
-        image_data_bytes_small = await tti.generate_image(
-            prompt="A whimsical treehouse with glowing windows in a magical forest.",
-            output_path="treehouse_small.png",
-            width=400,
-            height=300
-        )
-        print(f"\nGenerated and resized image (400x300). Size: {len(image_data_bytes_small)} bytes")
-        display(Image(data=image_data_bytes_small, width=400))
-
-    except TextToImageError as e:
-        print(f"Error generating image: {e}")
-    except ValueError as e:
-        print(f"Configuration error: {e}")
-
-# This will run the async main function
-if __name__ == "__main__":
-    import asyncio
-    asyncio.run(main())

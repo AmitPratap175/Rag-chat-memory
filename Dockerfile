@@ -1,39 +1,41 @@
-# Use an appropriate base image
-FROM ghcr.io/astral-sh/uv:python3.12-bookworm-slim
+# Stage 1: Build the frontend
+FROM node:18-slim as frontend-builder
+WORKDIR /app/frontend
+COPY src/frontend/package.json src/frontend/package-lock.json ./
+RUN npm install
+COPY src/frontend/ ./
+RUN npm run build
 
-# Install the project into `/app`
+# Stage 2: Build the Python backend
+FROM python:3.10-slim
+ENV PYTHONUNBUFFERED=1 \
+    PYTHONFAULTHANDLER=1 \
+    PYTHONPATH=/app \
+    PIP_NO_CACHE_DIR=1 \
+    PIP_DISABLE_PIP_VERSION_CHECK=1 \
+    DEBIAN_FRONTEND=noninteractive
+
 WORKDIR /app
 
-# Set environment variables (e.g., set Python to run in unbuffered mode)
-ENV PYTHONUNBUFFERED 1
+# Copy Python requirements and install dependencies
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
 
-# Install system dependencies for building libraries
-RUN apt-get update && apt-get install -y \
-    build-essential \
-    g++ \
-    && rm -rf /var/lib/apt/lists/*
+# Copy the built frontend from the previous stage
+COPY --from=frontend-builder /app/frontend/build ./src/frontend/build
 
-# Copy the dependency management files (lock file and pyproject.toml) first
-COPY uv.lock pyproject.toml README.md /app/
+# Copy the rest of the application code
+COPY . .
 
-# Install the application dependencies
-RUN uv sync --frozen --no-cache
+# Set permissions and logs
+RUN mkdir -p /app/logs && \
+    chmod -R a+r /app && \
+    chmod +x /app/start-local.sh && \
+    find /app -type d -exec chmod a+x {} \;
 
-# Copy your application code into the container
-COPY src/ /app/
+# Expose ports
+EXPOSE 8501
+EXPOSE 8000
 
-# Set the virtual environment environment variables
-ENV VIRTUAL_ENV=/app/.venv \
-    PATH="/app/.venv/bin:$PATH"
-
-# Install the package in editable mode
-RUN uv pip install -e .
-
-# Define volumes
-VOLUME ["/app/data"]
-
-# Expose the port
-EXPOSE 8080
-
-# Run the FastAPI app using uvicorn
-CMD ["/app/.venv/bin/fastapi", "run", "ai_companion/interfaces/whatsapp/webhook_endpoint.py", "--port", "8080", "--host", "0.0.0.0"]
+# Entrypoint script
+CMD ["/bin/bash", "./start.sh"]
