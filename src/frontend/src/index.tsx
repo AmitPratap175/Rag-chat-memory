@@ -1,16 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import App from './App';
-import './index.css'; // Ensure this file exists or update the path if necessary
+import './index.css';
 
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
 );
 
-const TemplateWebsite: React.FC = () => (
-  <div>
+root.render(
+  <React.StrictMode>
     <App />
-  </div>
+  </React.StrictMode>
 );
-
-root.render(<TemplateWebsite />);

@@ -14,6 +14,9 @@ from langgraph.checkpoint.sqlite.aio import AsyncSqliteSaver
 from src.chatbot.graph import graph_builder
 from src.chatbot.settings import settings as ai_settings
 from src.ingest_documents import main
+from src.quiz import database as quiz_database
+
+quiz_database.create_tables()
 
 app = FastAPI()
 
@@ -167,6 +170,99 @@ async def websocket_endpoint(websocket: WebSocket):
                 "uuid": user_uuid,
                 "op": f"WebSocket close error: {e}"
             }))
+
+from src.quiz import crawler, schemas, crud
+from src.quiz.database import SessionLocal, engine
+from fastapi import Depends
+from sqlalchemy.orm import Session
+
+# Dependency
+def get_db():
+    db = SessionLocal()
+    try:
+        yield db
+    finally:
+        db.close()
+
+@app.post("/api/crawl")
+async def crawl(crawl_request: schemas.CrawlRequest):
+    return crawler.crawl_urls(crawl_request)
+
+@app.get("/api/stats")
+async def get_stats(db: Session = Depends(get_db)):
+    stats = crud.get_stats(db)
+    return stats
+
+@app.get("/api/questions")
+async def get_questions(skip: int = 0, limit: int = 100, db: Session = Depends(get_db)):
+    questions = crud.get_questions(db, skip=skip, limit=limit)
+    return questions
+
+@app.put("/api/questions/{question_id}")
+async def update_question(question_id: int, updated_question: dict, db: Session = Depends(get_db)):
+    question = crud.update_question(db, question_id=question_id, updated_question=updated_question)
+    if question is None:
+        return {"error": "Question not found"}
+    return question
+
+@app.delete("/api/questions/{question_id}")
+async def delete_question(question_id: int, db: Session = Depends(get_db)):
+    result = crud.delete_question(db, question_id=question_id)
+    if result is None:
+        return {"error": "Question not found"}
+    return result
+
+@app.get("/api/quiz/new")
+async def new_quiz(limit: int = 10, db: Session = Depends(get_db)):
+    questions = crud.get_random_questions(db, limit=limit)
+    return questions
+
+from src.quiz.quiz_handler import QuizManager
+
+@app.post("/api/quiz/answer")
+async def answer_quiz(answer: schemas.QuizAnswer, db: Session = Depends(get_db)):
+    result = crud.check_answer(db, question_id=answer.question_id, answer=answer.answer)
+    if result is None:
+        return {"error": "Question not found"}
+    return result
+
+@app.websocket("/ws/quiz")
+async def quiz_websocket_endpoint(websocket: WebSocket):
+    await websocket.accept()
+    quiz_manager = None
+    try:
+        while True:
+            data = await websocket.receive_json()
+            event = data.get("event")
+            payload = data.get("payload")
+
+            if event == "start_quiz":
+                user_uuid = payload.get("uuid")
+                quiz_manager = QuizManager(user_uuid)
+                question = quiz_manager.start_quiz()
+                await websocket.send_json({"event": "question", "payload": question.json_payload if question else None})
+
+            elif event == "next_question":
+                if quiz_manager:
+                    question = quiz_manager.get_next_question()
+                    if question:
+                        await websocket.send_json({"event": "question", "payload": question.json_payload})
+                    else:
+                        await websocket.send_json({"event": "quiz_finished"})
+
+            elif event == "answer":
+                if quiz_manager:
+                    question_id = payload.get("question_id")
+                    answer = payload.get("answer")
+                    result = quiz_manager.check_answer(question_id, answer)
+                    await websocket.send_json({"event": "answer_result", "payload": result})
+
+    except Exception as e:
+        logger.error(f"Quiz WebSocket error: {e}")
+    finally:
+        if quiz_manager:
+            quiz_manager.close()
+        await websocket.close()
 
 @app.post("/api/upload-pdf")
 async def upload_pdf(file: UploadFile = File(...)):

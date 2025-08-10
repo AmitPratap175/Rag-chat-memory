@@ -1,0 +1,101 @@
+[
+  {
+    "source": "https://www.theguardian.com/science/2023/oct/27/the-ai-revolution-is-coming-but-what-will-it-be-like-for-you",
+    "source_meta": {
+      "title": "The AI revolution is coming – but what will it be like for you?",
+      "author": "The Guardian",
+      "publish_date": "2023-10-27"
+    },
+    "passage_id": "e8a9f0b1-c2d3-4e5f-6a7b-8c9d0e1f2a3b",
+    "passage_text": "The rise of artificial intelligence is poised to reshape our world, but the specifics of this transformation remain a subject of intense debate. Some experts predict a future of unprecedented abundance and creativity, where AI handles mundane tasks, freeing humans to pursue higher-order goals. Others warn of mass unemployment and a new era of social inequality, as AI-powered automation displaces human workers across a wide range of industries.",
+    "questions": [
+      {
+        "id": "q1",
+        "type": "RC",
+        "difficulty": 6,
+        "difficulty_label": "medium",
+        "question_text": "According to the passage, what is the primary point of contention regarding the rise of AI?",
+        "options": [
+          "A) The speed of AI development.",
+          "B) The specific nature of the societal changes AI will bring.",
+          "C) The cost of implementing AI technology.",
+          "D) The ethical implications of AI."
+        ],
+        "correct_option": "B",
+        "explanation": "The passage states that 'the specifics of this transformation remain a subject of intense debate', indicating that the nature of the societal changes is the main point of contention.",
+        "supporting_offsets": [{"start": 95, "end": 156, "snippet": "the specifics of this transformation remain a subject of intense debate"}],
+        "topic_tags": ["AI", "future", "society"],
+        "generator_meta": {
+          "model": "gpt-4",
+          "prompt_version": "v1.0"
+        }
+      }
+    ]
+  },
+  {
+    "source": "https://www.merriam-webster.com/dictionary/ephemeral",
+    "source_meta": {
+      "title": "Definition of EPHEMERAL",
+      "author": "Merriam-Webster",
+      "publish_date": "2023-10-27"
+    },
+    "passage_id": "a1b2c3d4-e5f6-7a8b-9c0d-1e2f3a4b5c6d",
+    "passage_text": "Ephemeral: lasting for a very short time.",
+    "questions": [
+      {
+        "id": "q2",
+        "type": "VOCAB",
+        "difficulty": 3,
+        "difficulty_label": "easy",
+        "question_text": "Which of the following is the best synonym for 'ephemeral'?",
+        "options": [
+          "A) Permanent",
+          "B) Fleeting",
+          "C) Essential",
+          "D) Beautiful"
+        ],
+        "correct_option": "B",
+        "explanation": "Ephemeral means lasting for a very short time, which is synonymous with fleeting.",
+        "supporting_offsets": [{"start": 0, "end": 38, "snippet": "Ephemeral: lasting for a very short time."}],
+        "topic_tags": ["vocabulary"],
+        "generator_meta": {
+          "model": "gpt-4",
+          "prompt_version": "v1.0"
+        }
+      }
+    ]
+  },
+  {
+    "source": "https://www.scientificamerican.com/article/the-psychology-of-deja-vu/",
+    "source_meta": {
+      "title": "The Psychology of Déjà Vu",
+      "author": "Scientific American",
+      "publish_date": "2022-01-01"
+    },
+    "passage_id": "f0e9d8c7-b6a5-4c3d-2e1f-0g9h8i7j6k5l",
+    "passage_text": "Déjà vu is a French term that literally means 'already seen.' It is a feeling of familiarity with a situation that is actually new. While the phenomenon is common, its underlying cause is not well understood. Some researchers believe it may be a memory anomaly, where a new experience is incorrectly stored in long-term memory, creating a false sense of familiarity.",
+    "questions": [
+      {
+        "id": "q3",
+        "type": "CRITICAL_REASONING",
+        "difficulty": 7,
+        "difficulty_label": "hard",
+        "question_text": "Which of the following, if true, would most weaken the memory anomaly theory of déjà vu?",
+        "options": [
+          "A) People with memory disorders experience déjà vu more frequently.",
+          "B) Déjà vu is more common in younger people, whose memory systems are still developing.",
+          "C) A new brain imaging technique shows that the part of the brain responsible for familiarity is activated during déjà vu, while the part responsible for recollection is not.",
+          "D) The feeling of déjà vu can be induced by electrical stimulation of certain parts of the brain."
+        ],
+        "correct_option": "C",
+        "explanation": "The memory anomaly theory suggests that déjà vu is a memory error. If the part of the brain responsible for recollection is not activated, it would suggest that the feeling of familiarity is not due to a memory error, thus weakening the theory.",
+        "supporting_offsets": [{"start": 160, "end": 285, "snippet": "Some researchers believe it may be a memory anomaly, where a new experience is incorrectly stored in long-term memory, creating a false sense of familiarity."}],
+        "topic_tags": ["psychology", "memory", "déjà vu"],
+        "generator_meta": {
+          "model": "gpt-4",
+          "prompt_version": "v1.0"
+        }
+      }
+    ]
+  }
+]

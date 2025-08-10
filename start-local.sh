@@ -40,6 +40,12 @@ start_frontend() {
     (cd src/frontend && npm install && eval "$FRONTEND_CMD")
 }
 
+# Create the database
+create_database() {
+    echo "Creating database tables..."
+    python -c "from src.quiz.database import create_tables; create_tables()"
+}
+
 # Start the backend
 start_backend() {
     echo "Starting backend on port $BACKEND_PORT..."
@@ -58,6 +64,7 @@ if [ "$RUN_BACKEND" = true ]; then
     if [ "$BUILD_FRONTEND" = true ]; then
         build_frontend                             # Command: ./start.sh --backend
     fi
+    create_database
     start_backend                                  # Command: ./start.sh --backend or ./start.sh --backend --nobuild
     exit 0
 fi

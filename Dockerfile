@@ -7,7 +7,7 @@ COPY src/frontend/ ./
 RUN npm run build
 
 # Stage 2: Build the Python backend
-FROM python:3.10-slim
+FROM python:3.12.11-slim
 ENV PYTHONUNBUFFERED=1 \
     PYTHONFAULTHANDLER=1 \
     PYTHONPATH=/app \
@@ -20,6 +20,7 @@ WORKDIR /app
 # Copy Python requirements and install dependencies
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
+RUN pip install crawl4ai sqlalchemy
 
 # Copy the built frontend from the previous stage
 COPY --from=frontend-builder /app/frontend/build ./src/frontend/build

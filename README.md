@@ -77,4 +77,34 @@ If you want to start the backend without building the frontend, use the `--nobui
 
 You can also specify the ports for the frontend and backend using the `--frontend-port` and `--backend-port` flags.
 
+## VARC Quiz Application
+
+This project also includes a VARC (Verbal Ability and Reading Comprehension) quiz application. This application allows you to scrape articles from the web, generate questions from them using an LLM, and then play a quiz.
+
+### How to add a new Editorial link
+
+1.  Navigate to the "Add URL" page in the frontend.
+2.  Enter the URL of the article you want to scrape in the text area. You can add multiple URLs, each on a new line.
+3.  Click the "Crawl URLs" button to start the scraping process.
+
+### How to run a crawl
+
+The crawling process is started automatically when you add a new URL. The backend will scrape the content, segment it into passages, and generate questions for each passage.
+
+### How to curate questions
+
+1.  Navigate to the "Question Bank" page.
+2.  Here you will see a list of all the generated questions.
+3.  You can edit or delete questions using the buttons in the "Actions" column.
+
+### API Reference
+
+The application exposes the following API endpoints:
+
+-   `POST /api/crawl`: To crawl a list of URLs.
+-   `GET /api/questions`: To get a list of all questions.
+-   `PUT /api/questions/{question_id}`: To update a question.
+-   `DELETE /api/questions/{question_id}`: To delete a question.
+-   `GET /api/quiz/new`: To get a new quiz.
+-   `POST /api/quiz/answer`: To submit an answer to a quiz question.
 
