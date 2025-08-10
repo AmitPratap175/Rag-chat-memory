@@ -77,6 +77,28 @@ If you want to start the backend without building the frontend, use the `--nobui
 
 You can also specify the ports for the frontend and backend using the `--frontend-port` and `--backend-port` flags.
 
+## How to Run the VARC Quiz Application
+
+1.  **Start the backend:**
+    ```bash
+    ./start-local.sh --backend
+    ```
+2.  **Start the frontend:**
+    ```bash
+    ./start-local.sh --frontend
+    ```
+3.  **Open the application:**
+    Open your web browser and navigate to `http://localhost:3000` (or the port you specified for the frontend).
+
+### Interacting with the Application
+
+-   **Dashboard:** The dashboard provides a summary of the application's data, including the total number of passages and questions.
+-   **Add URL:** You can add new URLs to be crawled on this page. The application will automatically scrape the content, generate questions, and store them in the database.
+-   **Crawl Management:** This page is not yet implemented.
+-   **Question Bank:** You can view all the generated questions on this page. You can also edit or delete questions.
+-   **Quiz Player:** You can play a quiz on this page. The quiz will consist of a random selection of questions from the question bank.
+-   **Chat:** You can interact with the chatbot on this page. You can also upload files to be processed and have questions generated from them.
+
 ## VARC Quiz Application
 
 This project also includes a VARC (Verbal Ability and Reading Comprehension) quiz application. This application allows you to scrape articles from the web, generate questions from them using an LLM, and then play a quiz.
