@@ -40,11 +40,44 @@ async def crawl_node(state: AICompanionState, config):
     else:
         return {"crawled_content": None}
 
+import base64
+
+async def file_upload_node(state: AICompanionState, config):
+    """
+    Handles file uploads.
+    """
+    user_message = state["messages"][-1].content
+
+    # Simple check to see if the message is a base64 encoded file
+    if ";base64," in user_message:
+        websocket = config["configurable"]["websocket"]
+        await websocket.send_json({"event": "crawling"})
+        header, encoded = user_message.split(",", 1)
+        decoded = base64.b64decode(encoded).decode("utf-8")
+        return {"uploaded_file_content": decoded}
+    else:
+        return {"uploaded_file_content": None}
+
+from src.chatbot.modules.rag.rag_manager import get_rag_manager
+
+async def store_in_long_term_memory_node(state: AICompanionState):
+    """
+    Stores the content in the long-term memory.
+    """
+    content = state.get("crawled_content") or state.get("uploaded_file_content")
+    if not content:
+        return {}
+
+    rag_manager = get_rag_manager()
+    await rag_manager.add_documents([content])
+
+    return {}
+
 async def question_generation_node(state: AICompanionState, config):
     """
     Generates questions from the crawled content.
     """
-    content = state.get("crawled_content")
+    content = state.get("crawled_content") or state.get("uploaded_file_content")
     if not content:
         return {}
 

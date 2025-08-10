@@ -37,3 +37,4 @@ class AICompanionState(MessagesState):
     url_to_crawl: Optional[str]
     crawled_content: Optional[str]
     generated_questions: Optional[List[dict]]
+    uploaded_file_content: Optional[str]

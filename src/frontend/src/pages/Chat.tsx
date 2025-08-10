@@ -10,9 +10,6 @@ const Chat: React.FC = () => {
   const [input, setInput] = useState('');
   const [showEE, setShowEE] = useState(false);
 
-  const [uploading, setUploading] = useState(false);
-  const [uploadError, setUploadError] = useState<string | null>(null);
-
   const wsProtocol = window.location.protocol === 'https:' ? 'wss://' : 'ws://';
   const { response, isOpen, isCrawling, sendMessage } = useWebSocket(`${wsProtocol}${window.location.host}/ws`, setShowEE);
 
@@ -51,35 +48,17 @@ const Chat: React.FC = () => {
     }
   };
 
-  // PDF upload handler -- NOW in chat input form, not sidebar
-  const handleFileChange = async (event: ChangeEvent<HTMLInputElement>) => {
-    setUploadError(null);
+  const handleFileChange = (event: ChangeEvent<HTMLInputElement>) => {
     const file = event.target.files?.[0];
     if (!file) return;
 
-    if (file.type !== "application/pdf") {
-      setUploadError("Please upload a valid PDF file.");
-      return;
-    }
-
-    const formData = new FormData();
-    formData.append("file", file);
-
-    try {
-      setUploading(true);
-      const response = await fetch('/api/upload-pdf', {
-        method: "POST",
-        body: formData,
-      });
-
-      if (!response.ok) throw new Error("Upload failed.");
-
-      setUploading(false);
-      setMessages(prev => [...prev, { user: 'Bot', msg: `Successfully uploaded: ${file.name}` }]);
-    } catch (error: any) {
-      setUploadError(error.message || "Unknown error during upload");
-      setUploading(false);
-    }
+    const reader = new FileReader();
+    reader.readAsDataURL(file);
+    reader.onload = () => {
+      const base64 = reader.result as string;
+      sendMessage(base64);
+      setMessages(prev => [...prev, { user: 'Bot', msg: `Uploading ${file.name}...` }]);
+    };
     event.target.value = ""; // Reset file input
   };
 
@@ -173,7 +152,6 @@ const Chat: React.FC = () => {
               accept="application/pdf"
               style={{ display: 'none' }}
               onChange={handleFileChange}
-              disabled={uploading}
             />
           </label>
           <input
@@ -190,10 +168,6 @@ const Chat: React.FC = () => {
             Send
           </button>
         </form>
-        {/* Upload error feedback (choose your color scheme) */}
-        {uploadError && (
-          <div style={{ color: '#D94D4D', marginLeft: '1.7rem', marginBottom: "0.5em" }}>{uploadError}</div>
-        )}
         {showEE && <EE />}
       </main>
     </div>

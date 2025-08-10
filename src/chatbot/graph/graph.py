@@ -6,7 +6,7 @@ from src.chatbot.graph.edges import (
     should_summarize_conversation,
     route_to_rag,
     evaluate_answer,
-    route_to_crawler,
+    route_to_input_handler,
 )
 from src.chatbot.graph.nodes import (
     conversation_node,
@@ -23,6 +23,8 @@ from src.quiz.graph_nodes import (
     url_check_node,
     crawl_node,
     question_generation_node,
+    file_upload_node,
+    store_in_long_term_memory_node,
 )
 from src.chatbot.graph.state import AICompanionState
 
@@ -44,15 +46,26 @@ def create_workflow_graph():
     graph_builder.add_node("url_check_node", url_check_node)
     graph_builder.add_node("crawl_node", crawl_node)
     graph_builder.add_node("question_generation_node", question_generation_node)
+    graph_builder.add_node("file_upload_node", file_upload_node)
+    graph_builder.add_node("store_in_long_term_memory_node", store_in_long_term_memory_node)
 
 
     # Define the flow
     graph_builder.add_edge(START, "memory_injection_node")
-    graph_builder.add_edge("memory_injection_node", "url_check_node")
+    graph_builder.add_conditional_edges("memory_injection_node", route_to_input_handler, {
+        "file_upload_node": "file_upload_node",
+        "url_check_node": "url_check_node",
+        "initial_check_node": "initial_check_node"
+    })
+
+    # File upload loop
+    graph_builder.add_edge("file_upload_node", "store_in_long_term_memory_node")
 
     # Crawler loop
-    graph_builder.add_conditional_edges("url_check_node", route_to_crawler)
-    graph_builder.add_edge("crawl_node", "question_generation_node")
+    graph_builder.add_edge("url_check_node", "crawl_node")
+    graph_builder.add_edge("crawl_node", "store_in_long_term_memory_node")
+
+    graph_builder.add_edge("store_in_long_term_memory_node", "question_generation_node")
     graph_builder.add_edge("question_generation_node", "conversation_node")
 
     # RAG loop
