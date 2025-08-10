@@ -28,6 +28,15 @@ def route_to_rag(
     return "conversation_node"
 
 
+def route_to_crawler(state: AICompanionState):
+    """
+    Determines whether to route to the crawler or the RAG loop.
+    """
+    if state.get("url_to_crawl"):
+        return "crawl_node"
+    else:
+        return "initial_check_node"
+
 def evaluate_answer(
     state: AICompanionState,
 ) -> Literal["rewrite_query_node", "conversation_node"]:

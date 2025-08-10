@@ -5,6 +5,7 @@ export const useWebSocket = (url: string, setEE: (value: boolean) => void) => {
     const [response, setResponse] = useState<string>(''); // Stores bot responses
     const [isOpen, setIsOpen] = useState<boolean>(false); // WebSocket connection status
     const [isBotResponseComplete, setIsBotResponseComplete] = useState<boolean>(false); // Tracks completion of bot response
+    const [isCrawling, setIsCrawling] = useState<boolean>(false);
     const socketRef = useRef<WebSocket | null>(null); // WebSocket reference
     const wordUUIDRef = useRef<string>((generate({ exactly: 4 }) as string[]).join('-')); // Conversation UUID
     const messageQueueRef = useRef<string[]>([]); // Queue for unsent messages
@@ -35,7 +36,12 @@ export const useWebSocket = (url: string, setEE: (value: boolean) => void) => {
                 const data = JSON.parse(event.data);
                 console.log('Received from server:', data);
 
-                if (data.on_chat_model_stream) {
+                if (data.event === 'crawling') {
+                    setIsCrawling(true);
+                } else if (data.event === 'questions_ready') {
+                    setIsCrawling(false);
+                    setResponse(data.payload.message);
+                } else if (data.on_chat_model_stream) {
                     setResponse((prevResponse) => prevResponse + data.on_chat_model_stream); // Streamed response handling
                 }
 
@@ -95,5 +101,5 @@ export const useWebSocket = (url: string, setEE: (value: boolean) => void) => {
         }
     };
 
-    return { response, isOpen, isBotResponseComplete, sendMessage };
+    return { response, isOpen, isBotResponseComplete, isCrawling, sendMessage };
 };

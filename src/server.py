@@ -28,7 +28,7 @@ set_files_message_color('purple')
 app.mount("/static", StaticFiles(directory=Path(__file__).parent/"frontend/build/static"), name="static")
 
 
-async def process_input(content: str, user_uuid: str):
+async def process_input(content: str, user_uuid: str, websocket: WebSocket):
     async with AsyncSqliteSaver.from_conn_string(ai_settings.SHORT_TERM_MEMORY_DB_PATH) as short_term_memory:
         graph = graph_builder.compile(checkpointer=short_term_memory)
 
@@ -38,7 +38,7 @@ async def process_input(content: str, user_uuid: str):
         collected_chunks = ""
         async for chunk in graph.astream(
             {"messages": messages},
-            {"configurable": {"thread_id": user_uuid}},
+            {"configurable": {"thread_id": user_uuid, "websocket": websocket}},
             stream_mode="messages",
         ):
             if chunk[1]["langgraph_node"] == "conversation_node" and isinstance(chunk[0], AIMessageChunk):
@@ -136,7 +136,7 @@ async def websocket_endpoint(websocket: WebSocket):
                     pass
                     # For non-init messages with content, invoke async processing logic in UIController
                     if message:
-                        output_state, output_response = await process_input(message, user_uuid)
+                        output_state, output_response = await process_input(message, user_uuid, websocket)
                         await websocket.send_text(json.dumps({"on_chat_model_stream": output_response}))
             except json.JSONDecodeError as e:
                 # Log JSON parsing errors with context for easier debugging

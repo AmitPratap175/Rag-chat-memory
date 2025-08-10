@@ -14,7 +14,7 @@ const Chat: React.FC = () => {
   const [uploadError, setUploadError] = useState<string | null>(null);
 
   const wsProtocol = window.location.protocol === 'https:' ? 'wss://' : 'ws://';
-  const { response, isOpen, sendMessage } = useWebSocket(`${wsProtocol}${window.location.host}/ws`, setShowEE);
+  const { response, isOpen, isCrawling, sendMessage } = useWebSocket(`${wsProtocol}${window.location.host}/ws`, setShowEE);
 
   const messagesEndRef = useRef<HTMLDivElement>(null);
 
@@ -37,6 +37,12 @@ const Chat: React.FC = () => {
       if (isOpen) sendMessage(input);
     }
   };
+
+  useEffect(() => {
+    if (isCrawling) {
+      setMessages(prev => [...prev, { user: 'Bot', msg: 'Crawling URL and generating questions...' }]);
+    }
+  }, [isCrawling]);
 
   const handleKeyDown = (e: KeyboardEvent<HTMLInputElement>) => {
     if (e.key === 'Enter') {

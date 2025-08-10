@@ -6,6 +6,7 @@ from src.chatbot.graph.edges import (
     should_summarize_conversation,
     route_to_rag,
     evaluate_answer,
+    route_to_crawler,
 )
 from src.chatbot.graph.nodes import (
     conversation_node,
@@ -17,6 +18,11 @@ from src.chatbot.graph.nodes import (
     generate_candidate_answer_node,
     evaluate_answer_node,
     rewrite_query_node,
+)
+from src.quiz.graph_nodes import (
+    url_check_node,
+    crawl_node,
+    question_generation_node,
 )
 from src.chatbot.graph.state import AICompanionState
 
@@ -35,11 +41,19 @@ def create_workflow_graph():
     graph_builder.add_node("evaluate_answer_node", evaluate_answer_node)
     graph_builder.add_node("rewrite_query_node", rewrite_query_node)
     graph_builder.add_node("conversation_node", conversation_node)
+    graph_builder.add_node("url_check_node", url_check_node)
+    graph_builder.add_node("crawl_node", crawl_node)
+    graph_builder.add_node("question_generation_node", question_generation_node)
 
 
     # Define the flow
     graph_builder.add_edge(START, "memory_injection_node")
-    graph_builder.add_edge("memory_injection_node", "initial_check_node")
+    graph_builder.add_edge("memory_injection_node", "url_check_node")
+
+    # Crawler loop
+    graph_builder.add_conditional_edges("url_check_node", route_to_crawler)
+    graph_builder.add_edge("crawl_node", "question_generation_node")
+    graph_builder.add_edge("question_generation_node", "conversation_node")
 
     # RAG loop
     graph_builder.add_conditional_edges("initial_check_node", route_to_rag)

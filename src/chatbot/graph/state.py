@@ -2,6 +2,8 @@ from typing import List
 from langgraph.graph import MessagesState
 
 
+from typing import Optional
+
 class AICompanionState(MessagesState):
     """State class for the AI Companion workflow.
 
@@ -18,6 +20,9 @@ class AICompanionState(MessagesState):
         requires_rag (bool): Whether the query requires RAG.
         is_sufficient (bool): Whether the candidate answer is sufficient.
         corrected_query (str): The corrected query for the next RAG iteration.
+        url_to_crawl (Optional[str]): The URL to be crawled.
+        crawled_content (Optional[str]): The content of the crawled URL.
+        generated_questions (Optional[List[dict]]): The questions generated from the crawled content.
     """
 
     summary: str
@@ -29,3 +34,6 @@ class AICompanionState(MessagesState):
     requires_rag: bool
     is_sufficient: bool
     corrected_query: str
+    url_to_crawl: Optional[str]
+    crawled_content: Optional[str]
+    generated_questions: Optional[List[dict]]
