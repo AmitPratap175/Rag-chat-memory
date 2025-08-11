@@ -3,6 +3,7 @@ from typing import List, Optional
 
 class CrawlRequest(BaseModel):
     urls: List[str]
+    crawl_mode: Optional[str] = "recursive"
     scrape_profile: Optional[dict] = None
     priority: Optional[int] = 0
     tag: Optional[str] = None

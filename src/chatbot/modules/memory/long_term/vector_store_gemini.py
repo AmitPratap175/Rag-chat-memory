@@ -4,11 +4,10 @@ from datetime import datetime
 from functools import lru_cache
 from typing import List, Optional
 
-from src.chatbot.settings import settings
+from src.settings import settings # Use main settings
 from qdrant_client import QdrantClient
 from qdrant_client.models import Distance, PointStruct, VectorParams
-# from sentence_transformers import SentenceTransformer  # TODO: Removed old embedding model
-from langchain_google_genai import GoogleGenerativeAIEmbeddings  # TODO: Added Gemini embedding model
+from langchain_google_genai import GoogleGenerativeAIEmbeddings
 
 
 @dataclass
@@ -32,8 +31,7 @@ class Memory:
 class VectorStore:
     """A class to handle vector storage operations using Qdrant."""
 
-    REQUIRED_ENV_VARS = ["QDRANT_URL", "QDRANT_API_KEY", "GOOGLE_API_KEY"]  # TODO: Added GOOGLE_API_KEY
-    EMBEDDING_MODEL = "models/embedding-001"  # TODO: Changed to Gemini embedding model name
+    EMBEDDING_MODEL = "models/embedding-001"
     COLLECTION_NAME = "long_term_memory"
     SIMILARITY_THRESHOLD = 0.9
 
@@ -47,25 +45,32 @@ class VectorStore:
 
     def __init__(self) -> None:
         if not self._initialized:
-            # self._validate_env_vars()
-            self.model = GoogleGenerativeAIEmbeddings(  # TODO: Changed from SentenceTransformer to Gemini
+            self._validate_settings()
+            self.model = GoogleGenerativeAIEmbeddings(
                 model=self.EMBEDDING_MODEL,
                 api_key=settings.GOOGLE_API_KEY
             )
-            self.client = QdrantClient(url="localhost", port=settings.QDRANT_PORT)
+            self.client = QdrantClient(url=settings.QDRANT_URL, api_key=settings.QDRANT_API_KEY)
             self._initialized = True
 
-    def _validate_env_vars(self) -> None:
-        missing_vars = [var for var in self.REQUIRED_ENV_VARS if not os.getenv(var)]
-        if missing_vars:
-            raise ValueError(f"Missing required environment variables: {', '.join(missing_vars)}")
+    def _validate_settings(self) -> None:
+        missing_settings = []
+        if not settings.QDRANT_URL:
+            missing_settings.append("QDRANT_URL")
+        if not settings.QDRANT_API_KEY:
+            missing_settings.append("QDRANT_API_KEY")
+        if not settings.GOOGLE_API_KEY:
+            missing_settings.append("GOOGLE_API_KEY")
+
+        if missing_settings:
+            raise ValueError(f"Missing required settings in .env: {', '.join(missing_settings)}")
 
     def _collection_exists(self) -> bool:
         collections = self.client.get_collections().collections
         return any(col.name == self.COLLECTION_NAME for col in collections)
 
     def _create_collection(self) -> None:
-        sample_embedding = self.model.embed_query("sample text")  # TODO: Changed .encode to .embed_query
+        sample_embedding = self.model.embed_query("sample text")
         self.client.create_collection(
             collection_name=self.COLLECTION_NAME,
             vectors_config=VectorParams(
@@ -88,7 +93,7 @@ class VectorStore:
         if similar_memory and similar_memory.id:
             metadata["id"] = similar_memory.id
 
-        embedding = self.model.embed_query(text)  # TODO: Changed .encode to .embed_query
+        embedding = self.model.embed_query(text)
         point = PointStruct(
             id=metadata.get("id", hash(text)),
             vector=embedding,
@@ -107,7 +112,7 @@ class VectorStore:
         if not self._collection_exists():
             return []
 
-        query_embedding = self.model.embed_query(query)  # TODO: Changed .encode to .embed_query
+        query_embedding = self.model.embed_query(query)
         results = self.client.search(
             collection_name=self.COLLECTION_NAME,
             query_vector=query_embedding,

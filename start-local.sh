@@ -35,7 +35,7 @@ build_frontend() {
 # Start the frontend
 start_frontend() {
     echo "Starting frontend on port $FRONTEND_PORT..."
-    FRONTEND_CMD="PORT=$FRONTEND_PORT npm start"
+    FRONTEND_CMD="PORT=$FRONTEND_PORT REACT_APP_BACKEND_PORT=$BACKEND_PORT npm start"
     echo "Command: cd frontend && $FRONTEND_CMD"
     (cd src/frontend && npm install && eval "$FRONTEND_CMD")
 }

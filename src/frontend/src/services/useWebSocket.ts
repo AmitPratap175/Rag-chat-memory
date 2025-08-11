@@ -13,7 +13,13 @@ export const useWebSocket = (url: string, setEE: (value: boolean) => void) => {
     const maxRetries = 5; // Max number of reconnection attempts
 
     const connectSocket = useCallback(() => {
-        const socket = new WebSocket(url);
+        const wsProtocol = window.location.protocol === 'https:' ? 'wss://' : 'ws://';
+        const backendPort = process.env.REACT_APP_BACKEND_PORT || '8000'; // Default to 8000 if not set
+        const wsUrl = process.env.NODE_ENV === 'development'
+            ? `${wsProtocol}${window.location.hostname}:${backendPort}/ws`
+            : `${wsProtocol}${window.location.host}/ws`;
+
+        const socket = new WebSocket(wsUrl);
         socketRef.current = socket;
 
         socket.onopen = () => {

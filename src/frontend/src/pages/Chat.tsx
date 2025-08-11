@@ -1,7 +1,11 @@
 import React, { useState, useEffect, ChangeEvent, KeyboardEvent, useRef } from 'react';
 import { useWebSocket } from '../services/useWebSocket';
 import EE from '../components/easter_egg/ee';
-import '../App.css';
+import { Box, TextField, Typography, Paper, List, ListItem, ListItemText, IconButton, InputAdornment, CircularProgress } from '@mui/material';
+import SendIcon from '@mui/icons-material/Send';
+import AttachFileIcon from '@mui/icons-material/AttachFile';
+import MenuIcon from '@mui/icons-material/Menu';
+
 
 const Chat: React.FC = () => {
   const [messages, setMessages] = useState<{ user: string; msg: string }[]>([
@@ -9,6 +13,7 @@ const Chat: React.FC = () => {
   ]);
   const [input, setInput] = useState('');
   const [showEE, setShowEE] = useState(false);
+  const [sidebarOpen, setSidebarOpen] = useState(false);
 
   const wsProtocol = window.location.protocol === 'https:' ? 'wss://' : 'ws://';
   const { response, isOpen, isCrawling, sendMessage } = useWebSocket(`${wsProtocol}${window.location.host}/ws`, setShowEE);
@@ -75,102 +80,155 @@ const Chat: React.FC = () => {
     };
 
     const lines = text.split('\n').filter(l => l.trim() !== '');
-    const bulletPattern = /^\s*([*•\-])\s+/;
+    const bulletPattern = /^\s*([*•-])\s+/; // Fixed: removed unnecessary escape character
     const bulletLines = lines.filter(line => bulletPattern.test(line));
 
     if (bulletLines.length > 0 && bulletLines.length >= Math.max(2, lines.length - 1)) {
       return (
-        <ul style={{ textAlign: "left", paddingLeft: "1.4em" }}>
+        <List sx={{ textAlign: "left", paddingLeft: "1.4em" }}>
           {lines.map((line, idx) =>
             bulletPattern.test(line) ? (
-              <li key={idx}>{formatText(line.replace(bulletPattern, ''))}</li>
+              <ListItem key={idx} disablePadding>
+                <ListItemText primary={formatText(line.replace(bulletPattern, ''))} />
+              </ListItem>
             ) : null
           )}
-        </ul>
+        </List>
       );
     }
 
     return (
-      <span style={{ display: "block", textAlign: "left", whiteSpace: "pre-wrap" }}>
+      <Typography component="span" sx={{ display: "block", textAlign: "left", whiteSpace: "pre-wrap" }}>
         {formatText(text)}
-      </span>
+      </Typography>
     );
   };
 
-  return (
-    <div className="bw-root">
-      {/* Sidebar */}
-      <aside className="bw-sidebar">
-        <div className="sidebar-header">
-          <img src="/normal_portrait.svg" alt="Brahmware logo" className="sidebar-logo" />
-        </div>
-        <nav className="sidebar-nav">
-          <ul>
-            <li className="selected">New Chat</li>
-            <li>Support</li>
-            <li>Bots</li>
-            <li>More</li>
-          </ul>
-        </nav>
-        <div className="sidebar-bottom">
-          <button className="sidebar-pricing-btn">Pricing</button>
-        </div>
-      </aside>
+  
 
+  return (
+    <Box sx={{ display: 'flex', height: '100vh', backgroundColor: 'var(--background)' }}>
       {/* Main Chat UI */}
-      <main className="bw-chat-bg">
-        <div className="bw-chat-header">
-          <span>FicAssist</span>
-        </div>
-        <div className="bw-chat-messages">
-          {messages.map((msg, idx) =>
-            msg.user === 'User' ? (
-              <div key={idx} className="chat-bubble user">
-                <span className="bubble-text">{msg.msg}</span>
-              </div>
-            ) : (
-              <div key={idx} className="chat-bubble bot">
-                <span className="bubble-text">{renderBotMsg(msg.msg)}</span>
-              </div>
-            )
+      <Box sx={{ flexGrow: 1, display: 'flex', flexDirection: 'column', backgroundColor: 'var(--background)' }}>
+        <Paper elevation={2} sx={{ p: 2, backgroundColor: 'var(--surface)', display: 'flex', alignItems: 'center', borderBottom: '1px solid #333' }}>
+          <IconButton
+            color="inherit"
+            aria-label="open drawer"
+            edge="start"
+            onClick={() => setSidebarOpen(!sidebarOpen)}
+            sx={{ mr: 2, display: { md: 'none' }, color: 'var(--on-surface)' }}
+          >
+            <MenuIcon />
+          </IconButton>
+          <Typography variant="h6" sx={{ flexGrow: 1, color: 'var(--on-surface)' }}>
+            FicAssist Chat
+          </Typography>
+        </Paper>
+
+        <Box sx={{ flexGrow: 1, overflowY: 'auto', p: 3 }}>
+          {messages.map((msg, idx) => (
+            <Box
+              key={idx}
+              sx={{
+                display: 'flex',
+                justifyContent: msg.user === 'User' ? 'flex-end' : 'flex-start',
+                mb: 2,
+              }}
+            >
+              <Paper
+                variant="outlined"
+                sx={{
+                  p: 1.5,
+                  borderRadius: msg.user === 'User' ? '20px 20px 4px 20px' : '20px 20px 20px 4px',
+                  backgroundColor: msg.user === 'User' ? 'var(--primary)' : 'var(--surface)',
+                  color: msg.user === 'User' ? 'var(--on-primary)' : 'var(--on-surface)',
+                  maxWidth: '70%',
+                  wordBreak: 'break-word',
+                  borderColor: msg.user === 'User' ? 'transparent' : '#333',
+                }}
+              >
+                {msg.user === 'Bot' ? renderBotMsg(msg.msg) : msg.msg}
+              </Paper>
+            </Box>
+          ))}
+          {isCrawling && (
+            <Box sx={{ display: 'flex', justifyContent: 'flex-start', mb: 2 }}>
+              <Paper
+                variant="outlined"
+                sx={{
+                  p: 1.5,
+                  borderRadius: '20px 20px 20px 4px',
+                  backgroundColor: 'var(--surface)',
+                  color: 'var(--on-surface)',
+                  maxWidth: '70%',
+                  wordBreak: 'break-word',
+                  borderColor: '#333',
+                }}
+              >
+                <CircularProgress size={20} sx={{ mr: 1 }} />
+                <Typography component="span">Crawling URL and generating questions...</Typography>
+              </Paper>
+            </Box>
           )}
           <div ref={messagesEndRef} />
-        </div>
-        {/* CHAT INPUT + PDF UPLOAD BUTTON */}
-        <form
-          className="bw-chat-input"
-          onSubmit={e => {
-            e.preventDefault();
-            handleSubmit();
-          }}
-        >
-          <label htmlFor="pdf-upload" className="upload-pdf-btn" style={{ marginRight: '10px' }}>
-            <span role="img" aria-label="upload" style={{ fontSize: '1.5em' }}>📎</span>
-            <input
-              id="pdf-upload"
-              type="file"
-              accept="application/pdf"
-              style={{ display: 'none' }}
-              onChange={handleFileChange}
-            />
-          </label>
+        </Box>
+
+        <Box sx={{ p: 2, borderTop: '1px solid #333', display: 'flex', alignItems: 'center', gap: 2 }}>
           <input
-            type="text"
+            id="pdf-upload"
+            type="file"
+            accept="application/pdf"
+            style={{ display: 'none' }}
+            onChange={handleFileChange}
+          />
+          <label htmlFor="pdf-upload">
+            <IconButton component="span" sx={{ color: 'var(--primary)' }}>
+              <AttachFileIcon />
+            </IconButton>
+          </label>
+          <TextField
+            fullWidth
+            variant="outlined"
             placeholder="Type your message..."
             value={input}
             onChange={handleChange}
             onKeyDown={handleKeyDown}
-            aria-label="Type your message"
-            autoFocus
-            spellCheck={false}
+            sx={{
+              backgroundColor: 'var(--surface)',
+              '.MuiInputBase-input': { color: 'var(--on-surface)' },
+              '.MuiOutlinedInput-notchedOutline': { borderColor: '#333' },
+              '&:hover .MuiOutlinedInput-notchedOutline': { borderColor: 'var(--primary)' },
+              '.Mui-focused .MuiOutlinedInput-notchedOutline': { borderColor: 'var(--primary)' },
+              borderRadius: '20px',
+              '& .MuiOutlinedInput-root': {
+                borderRadius: '20px',
+                paddingRight: '0px', // Adjust padding to make room for adornment
+              },
+            }}
+            InputProps={{
+              endAdornment: (
+                <InputAdornment position="end">
+                  <IconButton
+                    onClick={handleSubmit}
+                    disabled={!input.trim()}
+                    sx={{
+                      backgroundColor: 'var(--primary)',
+                      color: 'var(--on-primary)',
+                      '&:hover': { backgroundColor: '#a050d0' },
+                      borderRadius: '50%',
+                      p: 1,
+                    }}
+                  >
+                    <SendIcon />
+                  </IconButton>
+                </InputAdornment>
+              ),
+            }}
           />
-          <button type="submit" disabled={!input.trim()}>
-            Send
-          </button>
-        </form>
+        </Box>
         {showEE && <EE />}
-      </main>
-    </div>
+      </Box>
+    </Box>
   );
 };
 

@@ -1,12 +1,10 @@
 import json
 from langchain_core.prompts import ChatPromptTemplate
 from src.chatbot.graph.utils.helpers import get_chat_model
-from . import models, schemas
-from .database import SessionLocal
 from .prompts import QUESTION_GENERATION_PROMPT
 import uuid
 
-def generate_questions_for_passage(passage: models.Passage):
+def generate_questions_for_passage(passage_text: str, source_url: str = "unknown"):
 
     prompt = ChatPromptTemplate.from_template(QUESTION_GENERATION_PROMPT)
     model = get_chat_model()
@@ -14,26 +12,16 @@ def generate_questions_for_passage(passage: models.Passage):
     chain = prompt | model
 
     response = chain.invoke({
-        "passage_text": passage.passage_text,
+        "passage_text": passage_text,
+        "source_url": source_url # Pass source URL to the prompt
     })
 
     try:
         # The response content is a JSON string, so we parse it
         question_data = json.loads(response.content)
 
-        db = SessionLocal()
-        for q in question_data.get("questions", []):
-            # Add a UUID to each question
-            q['id'] = str(uuid.uuid4())
-            question = models.Question(
-                passage_id=passage.id,
-                type=q.get("type"),
-                json_payload=q,
-                difficulty=q.get("difficulty"),
-            )
-            db.add(question)
-        db.commit()
-        db.close()
+        # Note: Questions are no longer stored in SQLite here.
+        # If persistent storage for questions is needed, it should be handled elsewhere (e.g., Qdrant or another DB).
 
         return {"message": "Questions generated successfully"}
     except json.JSONDecodeError:

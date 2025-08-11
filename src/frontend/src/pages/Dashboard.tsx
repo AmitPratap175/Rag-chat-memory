@@ -1,4 +1,6 @@
 import React, { useState, useEffect } from 'react';
+import { CardContent, Typography, CircularProgress, Box, Paper } from '@mui/material';
+import { Description, HelpOutline } from '@mui/icons-material';
 
 interface Stats {
   num_passages: number;
@@ -26,23 +28,51 @@ const Dashboard: React.FC = () => {
   }, []);
 
   if (loading) {
-    return <div>Loading...</div>;
+    return (
+      <Box sx={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: '100%' }}>
+        <CircularProgress />
+      </Box>
+    );
   }
 
   return (
-    <div className="page-container">
-      <h1>Dashboard</h1>
-      <div className="stats-container">
-        <div className="stat-card">
-          <h2>Total Passages</h2>
-          <p>{stats?.num_passages}</p>
-        </div>
-        <div className="stat-card">
-          <h2>Total Questions</h2>
-          <p>{stats?.num_questions}</p>
-        </div>
-      </div>
-    </div>
+    <Box sx={{ p: 3 }}>
+      <Typography variant="h4" gutterBottom component="div" sx={{ color: 'var(--on-surface)' }}>
+        Dashboard
+      </Typography>
+      <Box sx={{ display: 'flex', flexWrap: 'wrap', gap: 3 }}>
+        <Box sx={{ flex: '1 1 calc(50% - 12px)', minWidth: { xs: '100%', sm: 'calc(50% - 12px)', md: 'calc(33.33% - 12px)' } }}>
+          <Paper elevation={3} sx={{ backgroundColor: 'var(--surface)', color: 'var(--on-surface)' }}>
+            <CardContent>
+              <Box sx={{ display: 'flex', alignItems: 'center', mb: 2 }}>
+                <Description sx={{ mr: 1, color: 'var(--primary)' }} />
+                <Typography variant="h6" component="div">
+                  Total Passages
+                </Typography>
+              </Box>
+              <Typography variant="h3" component="div">
+                {stats?.num_passages}
+              </Typography>
+            </CardContent>
+          </Paper>
+        </Box>
+        <Box sx={{ flex: '1 1 calc(50% - 12px)', minWidth: { xs: '100%', sm: 'calc(50% - 12px)', md: 'calc(33.33% - 12px)' } }}>
+          <Paper elevation={3} sx={{ backgroundColor: 'var(--surface)', color: 'var(--on-surface)' }}>
+            <CardContent>
+              <Box sx={{ display: 'flex', alignItems: 'center', mb: 2 }}>
+                <HelpOutline sx={{ mr: 1, color: 'var(--primary)' }} />
+                <Typography variant="h6" component="div">
+                  Total Questions
+                </Typography>
+              </Box>
+              <Typography variant="h3" component="div">
+                {stats?.num_questions}
+              </Typography>
+            </CardContent>
+          </Paper>
+        </Box>
+      </Box>
+    </Box>
   );
 };
 

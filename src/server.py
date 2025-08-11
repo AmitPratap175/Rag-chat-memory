@@ -186,7 +186,7 @@ def get_db():
 
 @app.post("/api/crawl")
 async def crawl(crawl_request: schemas.CrawlRequest):
-    return crawler.crawl_urls(crawl_request)
+    return await crawler.crawl_urls(crawl_request)
 
 @app.get("/api/stats")
 async def get_stats(db: Session = Depends(get_db)):

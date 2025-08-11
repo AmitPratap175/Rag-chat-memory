@@ -1,8 +1,10 @@
 import logging
 from typing import List
+from pathlib import Path
+from datetime import datetime # New import
 
 from src.chatbot.modules.memory.long_term.vector_store import get_vector_store
-from src.chatbot.settings import settings
+from src.settings import settings # Use main settings
 
 
 class RAGManager:
@@ -24,6 +26,19 @@ class RAGManager:
     def format_context(self, documents: List[str]) -> str:
         """Format the document chunks into a single context string."""
         return "\n\n---\n\n".join(documents)
+
+    def add_documents(self, document_contents: List[str]):
+        """Add document contents to the vector store."""
+        self.logger.info(f"Adding {len(document_contents)} documents to vector store...")
+        for content in document_contents:
+            # Assuming content here is already cleaned text from files
+            # Metadata can be enriched if needed, e.g., with filename, URL etc.
+            metadata = {
+                "source": "document",
+                "timestamp": datetime.now().isoformat(),
+            }
+            self.vector_store.store_memory(text=content, metadata=metadata)
+        self.logger.info("Documents added to vector store successfully.")
 
 
 def get_rag_manager() -> RAGManager:

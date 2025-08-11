@@ -22,7 +22,7 @@ const App: React.FC = () => {
           <Route path="/chat" element={<Chat />} />
         </Routes>
       </Layout>
-    </router>
+    </Router>
   );
 };
 
