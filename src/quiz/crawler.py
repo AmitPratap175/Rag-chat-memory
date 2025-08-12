@@ -14,12 +14,12 @@ from crawl4ai import (
 )
 from src.settings import settings
 from src.ingestion.markdown_cleaner import MarkdownCleaner # New import
-from src.chatbot.modules.memory.long_term.vector_store import get_vector_store # New import
+# from src.chatbot.modules.memory.long_term.vector_store import get_vector_store # New import
 import uuid # New import
 from datetime import datetime # Fix: import datetime
 
 from . import schemas # Keep schemas for CrawlRequest
-from .generator import generate_questions_for_passage # Will modify this function
+# from .generator import generate_questions_for_passage # Will modify this function
 
 def url_to_filename(url: str, default="page", ext=".md") -> str:
     parsed = urlparse(url)
@@ -59,7 +59,7 @@ async def crawl_urls(crawl_request: schemas.CrawlRequest):
     os.makedirs(documents_dir, exist_ok=True)
 
     cleaner = MarkdownCleaner()
-    vector_store = get_vector_store()
+    # vector_store = get_vector_store()
     all_processed_contents = []
 
     async with AsyncWebCrawler(config=browser_config) as crawler:
@@ -91,7 +91,7 @@ async def crawl_urls(crawl_request: schemas.CrawlRequest):
                         "document_name": safe_filename_raw,
                         "timestamp": datetime.now().isoformat() # Add datetime import if needed
                     }
-                    vector_store.store_memory(text=cleaned_text, metadata=metadata)
+                    # vector_store.store_memory(text=cleaned_text, metadata=metadata)
 
                 else:
                     print(f"[ERROR] {url}: {result.error_message if result else 'Unknown error'}")
@@ -141,7 +141,7 @@ async def crawl_urls(crawl_request: schemas.CrawlRequest):
                             "document_name": safe_filename_cleaned,
                             "timestamp": datetime.now().isoformat() # Add datetime import if needed
                         }
-                        vector_store.store_memory(text=cleaned_text, metadata=metadata)
+                        # vector_store.store_memory(text=cleaned_text, metadata=metadata)
 
                         for link in result.links.get("internal", []):
                             next_url = normalize_url(link["href"])
@@ -153,7 +153,7 @@ async def crawl_urls(crawl_request: schemas.CrawlRequest):
                 current_urls = next_level_urls
 
     # Generate questions from all processed (cleaned) contents
-    for cleaned_text, original_url in all_processed_contents:
-        generate_questions_for_passage(cleaned_text, original_url)
+    # for cleaned_text, original_url in all_processed_contents:
+    #     generate_questions_for_passage(cleaned_text, original_url)
 
     return {"message": "Crawling, cleaning, Qdrant ingestion, and question generation completed successfully"}

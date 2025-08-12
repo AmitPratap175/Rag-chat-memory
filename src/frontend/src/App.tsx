@@ -1,29 +1,26 @@
 import React from 'react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import NavigationBar from './components/NavigationBar';
+import HomePage from './pages/HomePage';
+import VarcPage from './pages/VarcPage';
+import QuantPage from './pages/QuantPage';
+import DilrPage from './pages/DilrPage';
 import './App.css';
-import Dashboard from './pages/Dashboard';
-import AddUrl from './pages/AddUrl';
-import CrawlManagement from './pages/CrawlManagement';
-import QuestionBank from './pages/QuestionBank';
-import QuizPlayer from './pages/QuizPlayer';
-import Chat from './pages/Chat';
-import Layout from './components/Layout';
 
-const App: React.FC = () => {
+function App() {
   return (
     <Router>
-      <Layout>
+      <div className="App">
+        <NavigationBar />
         <Routes>
-          <Route path="/" element={<Dashboard />} />
-          <Route path="/add-url" element={<AddUrl />} />
-          <Route path="/crawls" element={<CrawlManagement />} />
-          <Route path="/questions" element={<QuestionBank />} />
-          <Route path="/quiz" element={<QuizPlayer />} />
-          <Route path="/chat" element={<Chat />} />
+          <Route path="/" element={<HomePage />} />
+          <Route path="/varc" element={<VarcPage />} />
+          <Route path="/quant" element={<QuantPage />} />
+          <Route path="/dilr" element={<DilrPage />} />
         </Routes>
-      </Layout>
+      </div>
     </Router>
   );
-};
+}
 
 export default App;

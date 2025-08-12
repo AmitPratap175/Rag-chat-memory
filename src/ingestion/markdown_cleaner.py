@@ -65,7 +65,7 @@ class MarkdownCleaner:
         self.output_dir.mkdir(parents=True, exist_ok=True)
         try:
             cleaned_text = await self.extract_qa_blocks(raw_text)
-            output_file = self.output_dir / f"{file_name}_cleaned.md"
+            output_file = self.output_dir / f"{file_name}"
             with output_file.open('w', encoding='utf-8') as out_f:
                 out_f.write(cleaned_text)
             print(f"[✔] Extracted Q&A: {file_name} → {output_file.name}")
