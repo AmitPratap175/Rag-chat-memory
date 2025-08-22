@@ -61,7 +61,7 @@ function ChatArea() {
   return (
     <div className="h-full w-full flex flex-col bg-gradient-to-tl from-[#F4EDCD] border-2 border-gray-200 rounded-lg">
     {/* Messages area */}
-    <div className="flex-1 overflow-y-auto hide-scrollbar">
+    <div className="flex-1 overflow-y-auto hide-scrollbar w-3/5 mx-auto p-4">
       {messages.map((m, index) => (
         <div
           key={m.id || index}
