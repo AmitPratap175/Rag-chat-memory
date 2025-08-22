@@ -9,7 +9,7 @@ function Header() {
           to="/"
           className="flex items-center justify-between mb-4 gap-5"
         >
-          <img src="/logo_new.jpg" alt="logo" className="w-28 lg:w-56 lg:h-20" />
+          <img src="/logo_new.jpg" alt="logo" className="w-28 lg:w-32" />
         </NavLink>
         <div className="flex justify-center items-center gap-10 ">
           <NavLink to="/" className="lg:text-2xl font-bold text-gray-800 hover:text-orange-400">
