@@ -1,0 +1,482 @@
+{
+  "url": "https://cracku.in/cat-2024-slot-2-lrdi-question-paper-solved",
+  "num_questions_found": 22,
+  "questions": [
+    {
+      "qid": null,
+      "question_text": "What is the row number which has the least sum of numbers placed in that row?",
+      "options": [],
+      "correct_option_data": "4",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nWhat is the row number which has the least sum of numbers placed in that row?\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 4"
+    },
+    {
+      "qid": "469137",
+      "question_text": "Which of the following statements MUST be true? I. 10 is placed in a slot in Row 1. II. 1 is placed in a slot in Row 4.",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "Both I and II",
+          "is_correct": true
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "Neither I nor II",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "Only II",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "Only I",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "1",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 469137)\n\nWhich of the following statements MUST be true? I. 10 is placed in a slot in Row 1. II. 1 is placed in a slot in Row 4.\n\n**Options:**\n- **A**. Both I and II ✅\n- **B**. Neither I nor II\n- **C**. Only II\n- **D**. Only I\n\n**Correct Answer:** 1"
+    },
+    {
+      "qid": "469138",
+      "question_text": "Which of the following statements MUST be true? I. 2 is placed in a slot in Column 2. II. 3 is placed in a slot in Column 3.",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "Only I",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "Both I and II",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "Neither I nor II",
+          "is_correct": true
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "Only II",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "3",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 469138)\n\nWhich of the following statements MUST be true? I. 2 is placed in a slot in Column 2. II. 3 is placed in a slot in Column 3.\n\n**Options:**\n- **A**. Only I\n- **B**. Both I and II\n- **C**. Neither I nor II ✅\n- **D**. Only II\n\n**Correct Answer:** 3"
+    },
+    {
+      "qid": null,
+      "question_text": "For how many slots in the grid, placement of numbers CANNOT be determined with certainty?",
+      "options": [],
+      "correct_option_data": "2",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nFor how many slots in the grid, placement of numbers CANNOT be determined with certainty?\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 2"
+    },
+    {
+      "qid": null,
+      "question_text": "What is the sum of the numbers placed in Column 4?",
+      "options": [],
+      "correct_option_data": "26",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nWhat is the sum of the numbers placed in Column 4?\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 26"
+    },
+    {
+      "qid": "469141",
+      "question_text": "One resident whose house is located at L, needs to visit the post office as well as the bank. What is the minimum distance (in m) he has to walk starting from his residence and returning to his residence after visiting both the post office and the bank?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "2700",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "3200",
+          "is_correct": true
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "3000",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "3400",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "2",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 469141)\n\nOne resident whose house is located at L, needs to visit the post office as well as the bank. What is the minimum distance (in m) he has to walk starting from his residence and returning to his residence after visiting both the post office and the bank?\n\n**Options:**\n- **A**. 2700\n- **B**. 3200 ✅\n- **C**. 3000\n- **D**. 3400\n\n**Correct Answer:** 2"
+    },
+    {
+      "qid": "469142",
+      "question_text": "One person enters the gated area and decides to walk as much as possible before leaving the area without walking along any path more than once and always walking next to one of the lakes. Note that he may cross a point multiple times. How much distance (in m) will he walk within the gated area?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "2800",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "3000",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "3800",
+          "is_correct": true
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "3200",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "3",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 469142)\n\nOne person enters the gated area and decides to walk as much as possible before leaving the area without walking along any path more than once and always walking next to one of the lakes. Note that he may cross a point multiple times. How much distance (in m) will he walk within the gated area?\n\n**Options:**\n- **A**. 2800\n- **B**. 3000\n- **C**. 3800 ✅\n- **D**. 3200\n\n**Correct Answer:** 3"
+    },
+    {
+      "qid": null,
+      "question_text": "One resident takes a walk within the gated area starting from A and returning to A without going through any point (other than A) more than once. What is the maximum distance (in m) she can walk in this way?",
+      "options": [],
+      "correct_option_data": "5100",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nOne resident takes a walk within the gated area starting from A and returning to A without going through any point (other than A) more than once. What is the maximum distance (in m) she can walk in this way?\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 5100"
+    },
+    {
+      "qid": null,
+      "question_text": "Visitors coming for morning walks are allowed to enter as long as they do not pass by any of the residences and do not cross any point (except C) more than once. What is the maximum distance (in m) that such a visitor can walk within the gated area?",
+      "options": [],
+      "correct_option_data": "3500",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nVisitors coming for morning walks are allowed to enter as long as they do not pass by any of the residences and do not cross any point (except C) more than once. What is the maximum distance (in m) that such a visitor can walk within the gated area?\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 3500"
+    },
+    {
+      "qid": null,
+      "question_text": "How many buyers gave ratings on Day 1?",
+      "options": [],
+      "correct_option_data": "150",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nHow many buyers gave ratings on Day 1?\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 150"
+    },
+    {
+      "qid": "469146",
+      "question_text": "What is the daily average rating of Day 3?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "3.6",
+          "is_correct": true
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "3.0",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "3.2",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "3.5",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "1",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 469146)\n\nWhat is the daily average rating of Day 3?\n\n**Options:**\n- **A**. 3.6 ✅\n- **B**. 3.0\n- **C**. 3.2\n- **D**. 3.5\n\n**Correct Answer:** 1"
+    },
+    {
+      "qid": null,
+      "question_text": "What is the median of all ratings given on Day 3?",
+      "options": [],
+      "correct_option_data": "4",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nWhat is the median of all ratings given on Day 3?\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 4"
+    },
+    {
+      "qid": "469148",
+      "question_text": "Which of the following is true about the cumulative average ratings of Day 2 and Day 3?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "The cumulative average of Day 3 increased by less than 5% from Day 2.",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "The cumulative average of Day 3 decreased from Day 2.",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "The cumulative average of Day 3 increased by a percentage between 5% and 8% from Day 2.",
+          "is_correct": true
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "The cumulative average of Day 3 increased by more than 8% from Day 2.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "3",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 469148)\n\nWhich of the following is true about the cumulative average ratings of Day 2 and Day 3?\n\n**Options:**\n- **A**. The cumulative average of Day 3 increased by less than 5% from Day 2.\n- **B**. The cumulative average of Day 3 decreased from Day 2.\n- **C**. The cumulative average of Day 3 increased by a percentage between 5% and 8% from Day 2. ✅\n- **D**. The cumulative average of Day 3 increased by more than 8% from Day 2.\n\n**Correct Answer:** 3"
+    },
+    {
+      "qid": "469149",
+      "question_text": "Assume that the annual rate of growth in PAT over the previous year (ARG) remained constant over the years for each of the six firms. Which among the firms A, B, C, and E had the highest ARG?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "Firm A",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "Firm C",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "Firm E",
+          "is_correct": true
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "Firm B",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "3",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 469149)\n\nAssume that the annual rate of growth in PAT over the previous year (ARG) remained constant over the years for each of the six firms. Which among the firms A, B, C, and E had the highest ARG?\n\n**Options:**\n- **A**. Firm A\n- **B**. Firm C\n- **C**. Firm E ✅\n- **D**. Firm B\n\n**Correct Answer:** 3"
+    },
+    {
+      "qid": "469150",
+      "question_text": "The ratio of the amount of money spent by Firm C on R&D in 2019 to that in 2023 is closest to",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "9 : 4",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "5 : 6",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "5 : 9",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "9 : 5",
+          "is_correct": true
+        }
+      ],
+      "correct_option_data": "4",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 469150)\n\nThe ratio of the amount of money spent by Firm C on R&D in 2019 to that in 2023 is closest to\n\n**Options:**\n- **A**. 9 : 4\n- **B**. 5 : 6\n- **C**. 5 : 9\n- **D**. 9 : 5 ✅\n\n**Correct Answer:** 4"
+    },
+    {
+      "qid": "469151",
+      "question_text": "Which among the firms A, C, E, and F had the maximum PAT per employee in 2023?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "Firm E",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "Firm A",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "Firm F",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "Firm C",
+          "is_correct": true
+        }
+      ],
+      "correct_option_data": "4",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 469151)\n\nWhich among the firms A, C, E, and F had the maximum PAT per employee in 2023?\n\n**Options:**\n- **A**. Firm E\n- **B**. Firm A\n- **C**. Firm F\n- **D**. Firm C ✅\n\n**Correct Answer:** 4"
+    },
+    {
+      "qid": "469152",
+      "question_text": "Which among the firms C, D, E, and F had the least amount of R&D spending per employee in 2023?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "Firm F",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "Firm D",
+          "is_correct": true
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "Firm C",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "Firm E",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "2",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 469152)\n\nWhich among the firms C, D, E, and F had the least amount of R&D spending per employee in 2023?\n\n**Options:**\n- **A**. Firm F\n- **B**. Firm D ✅\n- **C**. Firm C\n- **D**. Firm E\n\n**Correct Answer:** 2"
+    },
+    {
+      "qid": "469153",
+      "question_text": "What best can be concluded about the number of players coached by Zara?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "Either 2 or 3 or 4",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "Exactly 2",
+          "is_correct": true
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "Either 2 or 3",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "Either 3",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "2",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 469153)\n\nWhat best can be concluded about the number of players coached by Zara?\n\n**Options:**\n- **A**. Either 2 or 3 or 4\n- **B**. Exactly 2 ✅\n- **C**. Either 2 or 3\n- **D**. Either 3\n\n**Correct Answer:** 2"
+    },
+    {
+      "qid": null,
+      "question_text": "What was the rating of Player-7?",
+      "options": [],
+      "correct_option_data": "4",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nWhat was the rating of Player-7?\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 4"
+    },
+    {
+      "qid": null,
+      "question_text": "What was the rating of Player-6?",
+      "options": [],
+      "correct_option_data": "5",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nWhat was the rating of Player-6?\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 5"
+    },
+    {
+      "qid": null,
+      "question_text": "For how many players the ratings can be determined with certainty?",
+      "options": [],
+      "correct_option_data": "6",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nFor how many players the ratings can be determined with certainty?\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 6"
+    },
+    {
+      "qid": "469157",
+      "question_text": "Who all were the players trained by Xena?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "Player-1, Player-4, Player-6, Player-8",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "Player-1, Player-3, Player-4, Player-8",
+          "is_correct": true
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "Player-1, Player-3, Player-4, Player-6",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "Player-1, Player-3, Player-4",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "2",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 469157)\n\nWho all were the players trained by Xena?\n\n**Options:**\n- **A**. Player-1, Player-4, Player-6, Player-8\n- **B**. Player-1, Player-3, Player-4, Player-8 ✅\n- **C**. Player-1, Player-3, Player-4, Player-6\n- **D**. Player-1, Player-3, Player-4\n\n**Correct Answer:** 2"
+    }
+  ]
+}

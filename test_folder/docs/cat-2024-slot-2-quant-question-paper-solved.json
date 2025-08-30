@@ -1,0 +1,532 @@
+{
+  "url": "https://cracku.in/cat-2024-slot-2-quant-question-paper-solved",
+  "num_questions_found": 22,
+  "questions": [
+    {
+      "qid": null,
+      "question_text": "Bina incurs 19% loss when she sells a product at Rs. 4860 to Shyam, who in turn sells this product to Hari. If Bina would have sold this product to Shyam at the purchase price of Hari, she would have obtained 17% profit. Then, the profit, in rupees, made by Shyam is",
+      "options": [],
+      "correct_option_data": "2160",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nBina incurs 19% loss when she sells a product at Rs. 4860 to Shyam, who in turn sells this product to Hari. If Bina would have sold this product to Shyam at the purchase price of Hari, she would have obtained 17% profit. Then, the profit, in rupees, made by Shyam is\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 2160"
+    },
+    {
+      "qid": null,
+      "question_text": "The coordinates of the three vertices of a triangle are: (1, 2), (7, 2), and (1, 10). Then the radius of the incircle of the triangle is",
+      "options": [],
+      "correct_option_data": "2",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nThe coordinates of the three vertices of a triangle are: (1, 2), (7, 2), and (1, 10). Then the radius of the incircle of the triangle is\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 2"
+    },
+    {
+      "qid": null,
+      "question_text": "A fruit seller has a stock of mangoes, bananas and apples with at least one fruit of each type. At the beginning of a day, the number of mangoes make up 40% of his stock. That day, he sells half of the mangoes, 96 bananas and 40% of the apples. At the end of the day, he ends up selling 50% of the fruits. The smallest possible total number of fruits in the stock at the beginning of the day is",
+      "options": [],
+      "correct_option_data": "340",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nA fruit seller has a stock of mangoes, bananas and apples with at least one fruit of each type. At the beginning of a day, the number of mangoes make up 40% of his stock. That day, he sells half of the mangoes, 96 bananas and 40% of the apples. At the end of the day, he ends up selling 50% of the fruits. The smallest possible total number of fruits in the stock at the beginning of the day is\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 340"
+    },
+    {
+      "qid": null,
+      "question_text": "If a, b and c are positive real numbers such that a > 10 ≥ b ≥ c $a > 10 \\geq b \\geq c$ a > 1 0 ≥ b ≥ c and log ⁡ 8 ( a + b ) log ⁡ 2 c + log ⁡ 27 ( a − b ) log ⁡ 3 c = 2 3 $\\cfrac{\\log_8 (a + b)}{\\log_2c} + \\cfrac{\\log_{27} (a - b)}{\\log_3c} = \\cfrac{2}{3}$ lo g 2 ​ c lo g 8 ​ ( a + b ) ​ + lo g 3 ​ c lo g 2 7 ​ ( a − b ) ​ = 3 2 ​ , then the greatest possible integer value of a is",
+      "options": [],
+      "correct_option_data": "14",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nIf a, b and c are positive real numbers such that a > 10 ≥ b ≥ c $a > 10 \\geq b \\geq c$ a > 1 0 ≥ b ≥ c and log ⁡ 8 ( a + b ) log ⁡ 2 c + log ⁡ 27 ( a − b ) log ⁡ 3 c = 2 3 $\\cfrac{\\log_8 (a + b)}{\\log_2c} + \\cfrac{\\log_{27} (a - b)}{\\log_3c} = \\cfrac{2}{3}$ lo g 2 ​ c lo g 8 ​ ( a + b ) ​ + lo g 3 ​ c lo g 2 7 ​ ( a − b ) ​ = 3 2 ​ , then the greatest possible integer value of a is\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 14"
+    },
+    {
+      "qid": "469162",
+      "question_text": "A function f maps the set of natural numbers to whole numbers, such that f(xy) = f(x)f(y) + f(x) + f(y) for all x, y and f(p) = 1 for every prime number p. Then, the value of f(160000) is",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "4095",
+          "is_correct": true
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "8191",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "2047",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "1023",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "1",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 469162)\n\nA function f maps the set of natural numbers to whole numbers, such that f(xy) = f(x)f(y) + f(x) + f(y) for all x, y and f(p) = 1 for every prime number p. Then, the value of f(160000) is\n\n**Options:**\n- **A**. 4095 ✅\n- **B**. 8191\n- **C**. 2047\n- **D**. 1023\n\n**Correct Answer:** 1"
+    },
+    {
+      "qid": "469163",
+      "question_text": "The roots α , β $\\alpha, \\beta$ α , β of the equation 3 x 2 + λ x − 1 = 0 $3x^2 + \\lambda x - 1 = 0$ 3 x 2 + λ x − 1 = 0 , satisfy 1 α 2 + 1 β 2 = 15 $\\cfrac{1}{\\alpha^2} + \\cfrac{1}{\\beta^2} = 15$ α 2 1 ​ + β 2 1 ​ = 1 5 . The value of ( α 3 + β 3 ) 2 $(\\alpha^3 + \\beta^3)^2$ ( α 3 + β 3 ) 2 , is",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "16",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "4",
+          "is_correct": true
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "1",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "9",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "2",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 469163)\n\nThe roots α , β $\\alpha, \\beta$ α , β of the equation 3 x 2 + λ x − 1 = 0 $3x^2 + \\lambda x - 1 = 0$ 3 x 2 + λ x − 1 = 0 , satisfy 1 α 2 + 1 β 2 = 15 $\\cfrac{1}{\\alpha^2} + \\cfrac{1}{\\beta^2} = 15$ α 2 1 ​ + β 2 1 ​ = 1 5 . The value of ( α 3 + β 3 ) 2 $(\\alpha^3 + \\beta^3)^2$ ( α 3 + β 3 ) 2 , is\n\n**Options:**\n- **A**. 16\n- **B**. 4 ✅\n- **C**. 1\n- **D**. 9\n\n**Correct Answer:** 2"
+    },
+    {
+      "qid": "469164",
+      "question_text": "When Rajesh's age was same as the present age of Garima, the ratio of their ages was 3 : 2. When Garima's age becomes the same as the present age of Rajesh, the ratio of the ages of Rajesh and Garima will become",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "3 : 2",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "4 : 3",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "5 : 4",
+          "is_correct": true
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "2 : 1",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "3",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 469164)\n\nWhen Rajesh's age was same as the present age of Garima, the ratio of their ages was 3 : 2. When Garima's age becomes the same as the present age of Rajesh, the ratio of the ages of Rajesh and Garima will become\n\n**Options:**\n- **A**. 3 : 2\n- **B**. 4 : 3\n- **C**. 5 : 4 ✅\n- **D**. 2 : 1\n\n**Correct Answer:** 3"
+    },
+    {
+      "qid": "469165",
+      "question_text": "Three circles of equal radii touch (but not cross) each other externally. Two other circles, X and Y, are drawn such that both touch (but not cross) each of the three previous circles. If the radius of X is more than that of Y, the ratio of the radii of X and Y is",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "7 + 4 3 : 1 7 + 4\\sqrt{3} : 1 7 + 4 3 ​ : 1",
+          "is_correct": true
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "4 + 2 3 : 1 4 + 2\\sqrt{3} : 1 4 + 2 3 ​ : 1",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "4 + 3 : 1 4 + \\sqrt{3} : 1 4 + 3 ​ : 1",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "2 + 3 : 1 2 + \\sqrt{3} : 1 2 + 3 ​ : 1",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "1",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 469165)\n\nThree circles of equal radii touch (but not cross) each other externally. Two other circles, X and Y, are drawn such that both touch (but not cross) each of the three previous circles. If the radius of X is more than that of Y, the ratio of the radii of X and Y is\n\n**Options:**\n- **A**. 7 + 4 3 : 1 7 + 4\\sqrt{3} : 1 7 + 4 3 ​ : 1 ✅\n- **B**. 4 + 2 3 : 1 4 + 2\\sqrt{3} : 1 4 + 2 3 ​ : 1\n- **C**. 4 + 3 : 1 4 + \\sqrt{3} : 1 4 + 3 ​ : 1\n- **D**. 2 + 3 : 1 2 + \\sqrt{3} : 1 2 + 3 ​ : 1\n\n**Correct Answer:** 1"
+    },
+    {
+      "qid": "469166",
+      "question_text": "ABCD is a trapezium in which AB is parallel to CD. The sides AD and BC when extended, intersect at point E. If AB = 2 cm, CD = 1 cm, and perimeter of ABCD is 6 cm, then the perimeter, in cm, of △ A E B $\\triangle AEB$ △ A E B is",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "8",
+          "is_correct": true
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "10",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "9",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "7",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "1",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 469166)\n\nABCD is a trapezium in which AB is parallel to CD. The sides AD and BC when extended, intersect at point E. If AB = 2 cm, CD = 1 cm, and perimeter of ABCD is 6 cm, then the perimeter, in cm, of △ A E B $\\triangle AEB$ △ A E B is\n\n**Options:**\n- **A**. 8 ✅\n- **B**. 10\n- **C**. 9\n- **D**. 7\n\n**Correct Answer:** 1"
+    },
+    {
+      "qid": "469167",
+      "question_text": "A company has 40 employees whose names are listed in a certain order. In the year 2022, the average bonus of the first 30 employees was Rs. 40000, of the last 30 employees was Rs. 60000, and of the first 10 and last 10 employees together was Rs. 50000. Next year, the average bonus of the first 10 employees increased by 100%, of the last 10 employees increased by 200% and of the remaining employees was unchanged. Then, the average bonus, in rupees, of all the 40 employees together in the year 2023 was",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "95000",
+          "is_correct": true
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "90000",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "80000",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "85000",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "1",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 469167)\n\nA company has 40 employees whose names are listed in a certain order. In the year 2022, the average bonus of the first 30 employees was Rs. 40000, of the last 30 employees was Rs. 60000, and of the first 10 and last 10 employees together was Rs. 50000. Next year, the average bonus of the first 10 employees increased by 100%, of the last 10 employees increased by 200% and of the remaining employees was unchanged. Then, the average bonus, in rupees, of all the 40 employees together in the year 2023 was\n\n**Options:**\n- **A**. 95000 ✅\n- **B**. 90000\n- **C**. 80000\n- **D**. 85000\n\n**Correct Answer:** 1"
+    },
+    {
+      "qid": null,
+      "question_text": "Amal and Vimal together can complete a task in 150 days, while Vimal and Sunil together can complete the same task in 100 days. Amal starts working on the task and works for 75 days, then Vimal takes over and works for 135 days. Finally, Sunil takes over and completes the remaining task in 45 days. If Amal had started the task alone and worked on all days, Vimal had worked on every second day, and Sunil had worked on every third day, then the number of days required to complete the task would have been",
+      "options": [],
+      "correct_option_data": "139",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nAmal and Vimal together can complete a task in 150 days, while Vimal and Sunil together can complete the same task in 100 days. Amal starts working on the task and works for 75 days, then Vimal takes over and works for 135 days. Finally, Sunil takes over and completes the remaining task in 45 days. If Amal had started the task alone and worked on all days, Vimal had worked on every second day, and Sunil had worked on every third day, then the number of days required to complete the task would have been\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 139"
+    },
+    {
+      "qid": "469169",
+      "question_text": "All the values of x satisfying the inequality 1 x + 5 ≤ 1 2 x − 3 $\\cfrac{1}{x + 5} \\leq \\cfrac{1}{2x - 3}$ x + 5 1 ​ ≤ 2 x − 3 1 ​ are",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "x < − 5 x < -5 x < − 5 or 3 2 < x ≤ 8 \\cfrac{3}{2} < x \\leq 8 2 3 ​ < x ≤ 8",
+          "is_correct": true
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "− 5 < x < 3 2 -5 < x < \\cfrac{3}{2} − 5 < x < 2 3 ​ or x > 3 2 x > \\cfrac{3}{2} x > 2 3 ​",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "x < − 5 x < -5 x < − 5 or x > 3 2 x > \\cfrac{3}{2} x > 2 3 ​",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "− 5 < x < 3 2 -5 < x < \\cfrac{3}{2} − 5 < x < 2 3 ​ or 3 2 < x ≤ 8 \\cfrac{3}{2} < x \\leq 8 2 3 ​ < x ≤ 8",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "1",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 469169)\n\nAll the values of x satisfying the inequality 1 x + 5 ≤ 1 2 x − 3 $\\cfrac{1}{x + 5} \\leq \\cfrac{1}{2x - 3}$ x + 5 1 ​ ≤ 2 x − 3 1 ​ are\n\n**Options:**\n- **A**. x < − 5 x < -5 x < − 5 or 3 2 < x ≤ 8 \\cfrac{3}{2} < x \\leq 8 2 3 ​ < x ≤ 8 ✅\n- **B**. − 5 < x < 3 2 -5 < x < \\cfrac{3}{2} − 5 < x < 2 3 ​ or x > 3 2 x > \\cfrac{3}{2} x > 2 3 ​\n- **C**. x < − 5 x < -5 x < − 5 or x > 3 2 x > \\cfrac{3}{2} x > 2 3 ​\n- **D**. − 5 < x < 3 2 -5 < x < \\cfrac{3}{2} − 5 < x < 2 3 ​ or 3 2 < x ≤ 8 \\cfrac{3}{2} < x \\leq 8 2 3 ​ < x ≤ 8\n\n**Correct Answer:** 1"
+    },
+    {
+      "qid": "469170",
+      "question_text": "Anil invests Rs 22000 for 6 years in a scheme with 4% interest per annum, compounded half-yearly. Separately, Sunil invests a certain amount in the same scheme for 5 years, and then reinvests the entire amount he receives at the end of 5 years, for one year at 10% simple interest. If the amounts received by both at the end of 6 years are equal, then the initial investment, in rupees, made by Sunil is",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "20860",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "20640",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "20480",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "20808",
+          "is_correct": true
+        }
+      ],
+      "correct_option_data": "4",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 469170)\n\nAnil invests Rs 22000 for 6 years in a scheme with 4% interest per annum, compounded half-yearly. Separately, Sunil invests a certain amount in the same scheme for 5 years, and then reinvests the entire amount he receives at the end of 5 years, for one year at 10% simple interest. If the amounts received by both at the end of 6 years are equal, then the initial investment, in rupees, made by Sunil is\n\n**Options:**\n- **A**. 20860\n- **B**. 20640\n- **C**. 20480\n- **D**. 20808 ✅\n\n**Correct Answer:** 4"
+    },
+    {
+      "qid": "469171",
+      "question_text": "A bus starts at 9 am and follows a fixed route every day. One day, it traveled at a constant speed of 60 km per hour and reached its destination 3.5 hours later than its scheduled arrival time. Next day, it traveled two-thirds of its route in one-third of its total scheduled travel time, and the remaining part of the route at 40 km per hour to reach just on time. The scheduled arrival time of the bus is",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "7 : 30 pm",
+          "is_correct": true
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "7 : 00 pm",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "9 : 00 pm",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "10 : 30 pm",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "1",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 469171)\n\nA bus starts at 9 am and follows a fixed route every day. One day, it traveled at a constant speed of 60 km per hour and reached its destination 3.5 hours later than its scheduled arrival time. Next day, it traveled two-thirds of its route in one-third of its total scheduled travel time, and the remaining part of the route at 40 km per hour to reach just on time. The scheduled arrival time of the bus is\n\n**Options:**\n- **A**. 7 : 30 pm ✅\n- **B**. 7 : 00 pm\n- **C**. 9 : 00 pm\n- **D**. 10 : 30 pm\n\n**Correct Answer:** 1"
+    },
+    {
+      "qid": "469172",
+      "question_text": "If m $m$ m and n $n$ n are natural numbers such that n > 1 $n > 1$ n > 1 , and m n = 2 25 × 3 40 $m^n = 2^{25} \\times 3^{40}$ m n = 2 2 5 × 3 4 0 , then m − n $m - n$ m − n equals",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "209932",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "209937",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "209942",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "209947",
+          "is_correct": true
+        }
+      ],
+      "correct_option_data": "4",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 469172)\n\nIf m $m$ m and n $n$ n are natural numbers such that n > 1 $n > 1$ n > 1 , and m n = 2 25 × 3 40 $m^n = 2^{25} \\times 3^{40}$ m n = 2 2 5 × 3 4 0 , then m − n $m - n$ m − n equals\n\n**Options:**\n- **A**. 209932\n- **B**. 209937\n- **C**. 209942\n- **D**. 209947 ✅\n\n**Correct Answer:** 4"
+    },
+    {
+      "qid": "469173",
+      "question_text": "When 3 333 $3^{333}$ 3 3 3 3 is divided by 11, the remainder is",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "5",
+          "is_correct": true
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "10",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "1",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "6",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "1",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 469173)\n\nWhen 3 333 $3^{333}$ 3 3 3 3 is divided by 11, the remainder is\n\n**Options:**\n- **A**. 5 ✅\n- **B**. 10\n- **C**. 1\n- **D**. 6\n\n**Correct Answer:** 1"
+    },
+    {
+      "qid": null,
+      "question_text": "If x and y are real numbers such that 4 x 2 + 4 y 2 − 4 x y − 6 y + 3 = 0 $4x^2 + 4y^2 - 4xy - 6y + 3 = 0$ 4 x 2 + 4 y 2 − 4 x y − 6 y + 3 = 0 , then the value of ( 4 x + 5 y ) $(4x + 5y)$ ( 4 x + 5 y ) is",
+      "options": [],
+      "correct_option_data": "7",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nIf x and y are real numbers such that 4 x 2 + 4 y 2 − 4 x y − 6 y + 3 = 0 $4x^2 + 4y^2 - 4xy - 6y + 3 = 0$ 4 x 2 + 4 y 2 − 4 x y − 6 y + 3 = 0 , then the value of ( 4 x + 5 y ) $(4x + 5y)$ ( 4 x + 5 y ) is\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 7"
+    },
+    {
+      "qid": null,
+      "question_text": "If ( x + 6 2 ) 1 2 − ( x − 6 2 ) 1 2 = 2 2 $(x + 6\\sqrt{2})^{\\cfrac{1}{2}} - (x - 6\\sqrt{2})^{\\cfrac{1}{2}} = 2\\sqrt{2}$ ( x + 6 2 ​ ) 2 1 ​ − ( x − 6 2 ​ ) 2 1 ​ = 2 2 ​ , then x equals",
+      "options": [],
+      "correct_option_data": "11",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nIf ( x + 6 2 ) 1 2 − ( x − 6 2 ) 1 2 = 2 2 $(x + 6\\sqrt{2})^{\\cfrac{1}{2}} - (x - 6\\sqrt{2})^{\\cfrac{1}{2}} = 2\\sqrt{2}$ ( x + 6 2 ​ ) 2 1 ​ − ( x − 6 2 ​ ) 2 1 ​ = 2 2 ​ , then x equals\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 11"
+    },
+    {
+      "qid": null,
+      "question_text": "P, Q, R and S are four towns. One can travel between P and Q along 3 direct paths, between Q and S along 4 direct paths, and between P and R along 4 direct paths. There is no direct path between P and S, while there are few direct paths between Q and R, and between R and S. One can travel from P to S either via Q, or via R, or via Q followed by R, respectively, in exactly 62 possible ways. One can also travel from Q to R either directly, or via P, or via S, in exactly 27 possible ways. Then, the number of direct paths between Q and R is",
+      "options": [],
+      "correct_option_data": "7",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nP, Q, R and S are four towns. One can travel between P and Q along 3 direct paths, between Q and S along 4 direct paths, and between P and R along 4 direct paths. There is no direct path between P and S, while there are few direct paths between Q and R, and between R and S. One can travel from P to S either via Q, or via R, or via Q followed by R, respectively, in exactly 62 possible ways. One can also travel from Q to R either directly, or via P, or via S, in exactly 27 possible ways. Then, the number of direct paths between Q and R is\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 7"
+    },
+    {
+      "qid": "469177",
+      "question_text": "If x and y satisfy the equations ∣ x ∣ + x + y = 15 $\\mid x \\mid + x + y = 15$ ∣ x ∣ + x + y = 1 5 and x + ∣ y ∣ − y = 20 $x + \\mid y \\mid - y = 20$ x + ∣ y ∣ − y = 2 0 , then ( x − y ) $(x - y)$ ( x − y ) equals",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "20",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "15",
+          "is_correct": true
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "5",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "10",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "2",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 469177)\n\nIf x and y satisfy the equations ∣ x ∣ + x + y = 15 $\\mid x \\mid + x + y = 15$ ∣ x ∣ + x + y = 1 5 and x + ∣ y ∣ − y = 20 $x + \\mid y \\mid - y = 20$ x + ∣ y ∣ − y = 2 0 , then ( x − y ) $(x - y)$ ( x − y ) equals\n\n**Options:**\n- **A**. 20\n- **B**. 15 ✅\n- **C**. 5\n- **D**. 10\n\n**Correct Answer:** 2"
+    },
+    {
+      "qid": "469178",
+      "question_text": "A vessel contained a certain amount of a solution of acid and water. When 2 litres of water was added to it, the new solution had 50% acid concentration. When 15 litres of acid was further added to this new solution, the final solution had 80% acid concentration. The ratio of water and acid in the original solution was",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "5 : 3",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "3 : 5",
+          "is_correct": true
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "5 : 4",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "4 : 5",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "2",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 469178)\n\nA vessel contained a certain amount of a solution of acid and water. When 2 litres of water was added to it, the new solution had 50% acid concentration. When 15 litres of acid was further added to this new solution, the final solution had 80% acid concentration. The ratio of water and acid in the original solution was\n\n**Options:**\n- **A**. 5 : 3\n- **B**. 3 : 5 ✅\n- **C**. 5 : 4\n- **D**. 4 : 5\n\n**Correct Answer:** 2"
+    },
+    {
+      "qid": "469179",
+      "question_text": "The sum of the infinite series 1 5 ( 1 5 − 1 7 ) + ( 1 5 ) 2 ( ( 1 5 ) 2 − ( 1 7 ) 2 ) + ( 1 5 ) 3 ( ( 1 5 ) 3 − ( 1 7 ) 3 ) + . . . . . . $\\cfrac{1}{5}\\left(\\cfrac{1}{5} - \\cfrac{1}{7}\\right) + \\left(\\cfrac{1}{5}\\right)^2 \\left(\\left(\\cfrac{1}{5}\\right)^2 - \\left(\\cfrac{1}{7}\\right)^2\\right) + \\left(\\cfrac{1}{5}\\right)^3 \\left(\\left(\\cfrac{1}{5}\\right)^3 - \\left(\\cfrac{1}{7}\\right)^3\\right) + ......$ 5 1 ​ ( 5 1 ​ − 7 1 ​ ) + ( 5 1 ​ ) 2 ⎝ ⎜ ⎛ ​ ( 5 1 ​ ) 2 − ( 7 1 ​ ) 2 ⎠ ⎟ ⎞ ​ + ( 5 1 ​ ) 3 ⎝ ⎜ ⎛ ​ ( 5 1 ​ ) 3 − ( 7 1 ​ ) 3 ⎠ ⎟ ⎞ ​ + . . . . . . is equal to",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "7 816 \\cfrac{7}{816} 8 1 6 7 ​",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "5 408 \\cfrac{5}{408} 4 0 8 5 ​",
+          "is_correct": true
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "7 408 \\cfrac{7}{408} 4 0 8 7 ​",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "5 816 \\cfrac{5}{816} 8 1 6 5 ​",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "2",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 469179)\n\nThe sum of the infinite series 1 5 ( 1 5 − 1 7 ) + ( 1 5 ) 2 ( ( 1 5 ) 2 − ( 1 7 ) 2 ) + ( 1 5 ) 3 ( ( 1 5 ) 3 − ( 1 7 ) 3 ) + . . . . . . $\\cfrac{1}{5}\\left(\\cfrac{1}{5} - \\cfrac{1}{7}\\right) + \\left(\\cfrac{1}{5}\\right)^2 \\left(\\left(\\cfrac{1}{5}\\right)^2 - \\left(\\cfrac{1}{7}\\right)^2\\right) + \\left(\\cfrac{1}{5}\\right)^3 \\left(\\left(\\cfrac{1}{5}\\right)^3 - \\left(\\cfrac{1}{7}\\right)^3\\right) + ......$ 5 1 ​ ( 5 1 ​ − 7 1 ​ ) + ( 5 1 ​ ) 2 ⎝ ⎜ ⎛ ​ ( 5 1 ​ ) 2 − ( 7 1 ​ ) 2 ⎠ ⎟ ⎞ ​ + ( 5 1 ​ ) 3 ⎝ ⎜ ⎛ ​ ( 5 1 ​ ) 3 − ( 7 1 ​ ) 3 ⎠ ⎟ ⎞ ​ + . . . . . . is equal to\n\n**Options:**\n- **A**. 7 816 \\cfrac{7}{816} 8 1 6 7 ​\n- **B**. 5 408 \\cfrac{5}{408} 4 0 8 5 ​ ✅\n- **C**. 7 408 \\cfrac{7}{408} 4 0 8 7 ​\n- **D**. 5 816 \\cfrac{5}{816} 8 1 6 5 ​\n\n**Correct Answer:** 2"
+    }
+  ]
+}

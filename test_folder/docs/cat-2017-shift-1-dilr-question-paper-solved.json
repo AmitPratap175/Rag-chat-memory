@@ -1,0 +1,862 @@
+{
+  "url": "https://cracku.in/cat-2017-shift-1-dilr-question-paper-solved",
+  "num_questions_found": 32,
+  "questions": [
+    {
+      "qid": "98110",
+      "question_text": "Assume that only one client's order can be processed at any given point of time. So, Anish or Bani cannot start preparing a new order while a previous order is being prepared. At what time is the order placed by Client 1 completely served?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "10:17",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "10:10",
+          "is_correct": true
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "10:15",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "10:20",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "2",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 98110)\n\nAssume that only one client's order can be processed at any given point of time. So, Anish or Bani cannot start preparing a new order while a previous order is being prepared. At what time is the order placed by Client 1 completely served?\n\n**Options:**\n- **A**. 10:17\n- **B**. 10:10 ✅\n- **C**. 10:15\n- **D**. 10:20\n\n**Correct Answer:** 2"
+    },
+    {
+      "qid": "98111",
+      "question_text": "Assume that only one client's order can be processed at any given point of time. So, Anish or Bani cannot start preparing a new order while a previous order is being prepared. At what time is the order placed by Client 3 completely served?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "10:35",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "10:22",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "10:25",
+          "is_correct": true
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "10:17",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "3",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 98111)\n\nAssume that only one client's order can be processed at any given point of time. So, Anish or Bani cannot start preparing a new order while a previous order is being prepared. At what time is the order placed by Client 3 completely served?\n\n**Options:**\n- **A**. 10:35\n- **B**. 10:22\n- **C**. 10:25 ✅\n- **D**. 10:17\n\n**Correct Answer:** 3"
+    },
+    {
+      "qid": "98112",
+      "question_text": "Suppose the employees are allowed to process multiple orders at a time, but the preference would be to finish orders of clients who placed their orders earlier. At what time is the order placed by Client 2 completely served?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "10:10",
+          "is_correct": true
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "10:12",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "10:15",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "10:17",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "1",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 98112)\n\nSuppose the employees are allowed to process multiple orders at a time, but the preference would be to finish orders of clients who placed their orders earlier. At what time is the order placed by Client 2 completely served?\n\n**Options:**\n- **A**. 10:10 ✅\n- **B**. 10:12\n- **C**. 10:15\n- **D**. 10:17\n\n**Correct Answer:** 1"
+    },
+    {
+      "qid": "98113",
+      "question_text": "Suppose the employees are allowed to process multiple orders at a time, but the preference would be to finish orders of clients who placed their orders earlier. Also assume that the fourth client came in only at 10:35. Between 10:00 and 10:30, for how many minutes is exactly one of the employees idle?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "7",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "10",
+          "is_correct": true
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "15",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "23",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "2",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 98113)\n\nSuppose the employees are allowed to process multiple orders at a time, but the preference would be to finish orders of clients who placed their orders earlier. Also assume that the fourth client came in only at 10:35. Between 10:00 and 10:30, for how many minutes is exactly one of the employees idle?\n\n**Options:**\n- **A**. 7\n- **B**. 10 ✅\n- **C**. 15\n- **D**. 23\n\n**Correct Answer:** 2"
+    },
+    {
+      "qid": "98114",
+      "question_text": "What percentage of kids from S were studying in P?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "37%",
+          "is_correct": true
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "6%",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "79%",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "56%",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "1",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 98114)\n\nWhat percentage of kids from S were studying in P?\n\n**Options:**\n- **A**. 37% ✅\n- **B**. 6%\n- **C**. 79%\n- **D**. 56%\n\n**Correct Answer:** 1"
+    },
+    {
+      "qid": "98115",
+      "question_text": "Among the kids in W whose mothers had completed primary education, how many were not in school?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "300",
+          "is_correct": true
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "1200",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "1050",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "1500",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "1",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 98115)\n\nAmong the kids in W whose mothers had completed primary education, how many were not in school?\n\n**Options:**\n- **A**. 300 ✅\n- **B**. 1200\n- **C**. 1050\n- **D**. 1500\n\n**Correct Answer:** 1"
+    },
+    {
+      "qid": "98116",
+      "question_text": "In a follow up survey of the same kids two years later, it was found that all the kids were now in school. Of the kids who were not in school earlier, in one region, 25% were in G now, whereas the rest were enrolled in P; in the second region, all such kids were in G now; while in the third region, 50% of such kids had now joined G while the rest had joined P. As a result, in all three regions put together, 50% of the kids who were earlier out of school had joined G. It was also seen that no surveyed kid had changed schools. What number of the surveyed kids now were in G in W?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "6000",
+          "is_correct": true
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "5250",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "6750",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "6300",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "1",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 98116)\n\nIn a follow up survey of the same kids two years later, it was found that all the kids were now in school. Of the kids who were not in school earlier, in one region, 25% were in G now, whereas the rest were enrolled in P; in the second region, all such kids were in G now; while in the third region, 50% of such kids had now joined G while the rest had joined P. As a result, in all three regions put together, 50% of the kids who were earlier out of school had joined G. It was also seen that no surveyed kid had changed schools. What number of the surveyed kids now were in G in W?\n\n**Options:**\n- **A**. 6000 ✅\n- **B**. 5250\n- **C**. 6750\n- **D**. 6300\n\n**Correct Answer:** 1"
+    },
+    {
+      "qid": "98117",
+      "question_text": "In a follow up survey of the same kids two years later, it was found that all the kids were now in school. Of the kids who were not in school earlier, in on.e region, 25% were in G now, whereas the rest were enrolled in P; in the second region, all such kids were in G now; while in the third region, 50% of such kids had now joined G while the rest had joined P. As a result, in all three regions put together, 50% of the kids who were earlier out of school had joined G. It was also seen that no surveyed kid had changed schools. What percentage of the surveyed kids in S, whose mothers had dropped out before completing primary education, were in G now?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "94.7%",
+          "is_correct": true
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "89.5%",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "93.4%",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "Cannot be determined from the given information",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "1",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 98117)\n\nIn a follow up survey of the same kids two years later, it was found that all the kids were now in school. Of the kids who were not in school earlier, in on.e region, 25% were in G now, whereas the rest were enrolled in P; in the second region, all such kids were in G now; while in the third region, 50% of such kids had now joined G while the rest had joined P. As a result, in all three regions put together, 50% of the kids who were earlier out of school had joined G. It was also seen that no surveyed kid had changed schools. What percentage of the surveyed kids in S, whose mothers had dropped out before completing primary education, were in G now?\n\n**Options:**\n- **A**. 94.7% ✅\n- **B**. 89.5%\n- **C**. 93.4%\n- **D**. Cannot be determined from the given information\n\n**Correct Answer:** 1"
+    },
+    {
+      "qid": "98118",
+      "question_text": "What best can be concluded about the number of candidates sitting for the separate test for BIE who were at or above the 90th percentile overall in CET?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "3 or 10",
+          "is_correct": true
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "10",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "5",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "7 or 10",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "1",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 98118)\n\nWhat best can be concluded about the number of candidates sitting for the separate test for BIE who were at or above the 90th percentile overall in CET?\n\n**Options:**\n- **A**. 3 or 10 ✅\n- **B**. 10\n- **C**. 5\n- **D**. 7 or 10\n\n**Correct Answer:** 1"
+    },
+    {
+      "qid": null,
+      "question_text": "If the number of candidates who are at or above the 90th percentile overall and also at or above the 80th percentile in all three sections in CET is actually a multiple of 5, what is the number of candidates who are at or above the 90th percentile overall and at or above the 80th percentile in both P and M in CET?",
+      "options": [],
+      "correct_option_data": "60",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nIf the number of candidates who are at or above the 90th percentile overall and also at or above the 80th percentile in all three sections in CET is actually a multiple of 5, what is the number of candidates who are at or above the 90th percentile overall and at or above the 80th percentile in both P and M in CET?\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 60"
+    },
+    {
+      "qid": null,
+      "question_text": "If the number of candidates who are at or above the 90th percentile overall and also at or above the 80th percentile in all three sections in CET is actually a multiple of 5, then how many candidates were shortlisted for the AET for AIE?",
+      "options": [],
+      "correct_option_data": "170",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nIf the number of candidates who are at or above the 90th percentile overall and also at or above the 80th percentile in all three sections in CET is actually a multiple of 5, then how many candidates were shortlisted for the AET for AIE?\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 170"
+    },
+    {
+      "qid": "98121",
+      "question_text": "If the number of candidates who are at or above the 90th percentile overall and also are at or above the 80th percentile in P in CET, is more than 100, how many candidates had to sit for the separate test for BIE?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "299",
+          "is_correct": true
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "310",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "321",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "330",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "1",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 98121)\n\nIf the number of candidates who are at or above the 90th percentile overall and also are at or above the 80th percentile in P in CET, is more than 100, how many candidates had to sit for the separate test for BIE?\n\n**Options:**\n- **A**. 299 ✅\n- **B**. 310\n- **C**. 321\n- **D**. 330\n\n**Correct Answer:** 1"
+    },
+    {
+      "qid": null,
+      "question_text": "What is Amda's score in F?",
+      "options": [],
+      "correct_option_data": "1",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nWhat is Amda's score in F?\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 1"
+    },
+    {
+      "qid": null,
+      "question_text": "What is Zooma's score in S?",
+      "options": [],
+      "correct_option_data": "6",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nWhat is Zooma's score in S?\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 6"
+    },
+    {
+      "qid": "98124",
+      "question_text": "Benga and Delma, two countries categorized as happy, are tied with the same total score. What is the maximum score they can have?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "14",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "15",
+          "is_correct": true
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "16",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "17",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "2",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 98124)\n\nBenga and Delma, two countries categorized as happy, are tied with the same total score. What is the maximum score they can have?\n\n**Options:**\n- **A**. 14\n- **B**. 15 ✅\n- **C**. 16\n- **D**. 17\n\n**Correct Answer:** 2"
+    },
+    {
+      "qid": "98125",
+      "question_text": "If Benga scores 16 and Delma scores 15, then what is the maximum number of countries with a score of 13?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "0",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "1",
+          "is_correct": true
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "2",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "3",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "2",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 98125)\n\nIf Benga scores 16 and Delma scores 15, then what is the maximum number of countries with a score of 13?\n\n**Options:**\n- **A**. 0\n- **B**. 1 ✅\n- **C**. 2\n- **D**. 3\n\n**Correct Answer:** 2"
+    },
+    {
+      "qid": "98126",
+      "question_text": "The number of times in which the composition of team T2 and the number of times in which composition of team T4 remained unchanged in two successive months are:",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "(2,1)",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "(1,0)",
+          "is_correct": true
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "(0,0)",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "(1,1)",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "2",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 98126)\n\nThe number of times in which the composition of team T2 and the number of times in which composition of team T4 remained unchanged in two successive months are:\n\n**Options:**\n- **A**. (2,1)\n- **B**. (1,0) ✅\n- **C**. (0,0)\n- **D**. (1,1)\n\n**Correct Answer:** 2"
+    },
+    {
+      "qid": "98127",
+      "question_text": "The number of SE in T1 and T5 for the projects in the third month are, respectively:",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "(0,2)",
+          "is_correct": true
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "(0,3)",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "(1,2)",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "(1,3)",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "1",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 98127)\n\nThe number of SE in T1 and T5 for the projects in the third month are, respectively:\n\n**Options:**\n- **A**. (0,2) ✅\n- **B**. (0,3)\n- **C**. (1,2)\n- **D**. (1,3)\n\n**Correct Answer:** 1"
+    },
+    {
+      "qid": "98128",
+      "question_text": "Which of the following CANNOT be the total credit points earned by any employee from the projects?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "140",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "150",
+          "is_correct": true
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "170",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "200",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "2",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 98128)\n\nWhich of the following CANNOT be the total credit points earned by any employee from the projects?\n\n**Options:**\n- **A**. 140\n- **B**. 150 ✅\n- **C**. 170\n- **D**. 200\n\n**Correct Answer:** 2"
+    },
+    {
+      "qid": "98129",
+      "question_text": "One of the employees named Aneek scored 185 points. Which of the following CANNOT be true?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "Aneek worked only in teams T1, T2, T3, and T4.",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "Aneek worked only in teams T1,T2, T4, and T5.",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "Aneek worked only in teams T2,T3, T4, and T5.",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "Aneek worked only in teams T1,T3, T4, and T5.",
+          "is_correct": true
+        }
+      ],
+      "correct_option_data": "4",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 98129)\n\nOne of the employees named Aneek scored 185 points. Which of the following CANNOT be true?\n\n**Options:**\n- **A**. Aneek worked only in teams T1, T2, T3, and T4.\n- **B**. Aneek worked only in teams T1,T2, T4, and T5.\n- **C**. Aneek worked only in teams T2,T3, T4, and T5.\n- **D**. Aneek worked only in teams T1,T3, T4, and T5. ✅\n\n**Correct Answer:** 4"
+    },
+    {
+      "qid": "98130",
+      "question_text": "How many individuals in this layout can be reached by just one individual?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "3",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "5",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "7",
+          "is_correct": true
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "8",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "3",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 98130)\n\nHow many individuals in this layout can be reached by just one individual?\n\n**Options:**\n- **A**. 3\n- **B**. 5\n- **C**. 7 ✅\n- **D**. 8\n\n**Correct Answer:** 3"
+    },
+    {
+      "qid": "98131",
+      "question_text": "Which of the following is true for any individual at a platform of height 1 m in this layout?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "They can be reached by all the individuals in their own row and column.",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "They can be reached by at least 4 individuals.",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "They can be reached by at least one individual.",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "They cannot be reached by anyone.",
+          "is_correct": true
+        }
+      ],
+      "correct_option_data": "4",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 98131)\n\nWhich of the following is true for any individual at a platform of height 1 m in this layout?\n\n**Options:**\n- **A**. They can be reached by all the individuals in their own row and column.\n- **B**. They can be reached by at least 4 individuals.\n- **C**. They can be reached by at least one individual.\n- **D**. They cannot be reached by anyone. ✅\n\n**Correct Answer:** 4"
+    },
+    {
+      "qid": "98132",
+      "question_text": "We can find two individuals who cannot be reached by anyone in",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "the last row.",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "the fourth row.",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "the fourth column.",
+          "is_correct": true
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "the middle column.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "3",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 98132)\n\nWe can find two individuals who cannot be reached by anyone in\n\n**Options:**\n- **A**. the last row.\n- **B**. the fourth row.\n- **C**. the fourth column. ✅\n- **D**. the middle column.\n\n**Correct Answer:** 3"
+    },
+    {
+      "qid": "98133",
+      "question_text": "Which of the following statements is true about this layout?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "Each row has an individual who can be reached by 5 or more individuals.",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "Each row has an individual who cannot be reached by anyone.",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "Each row has at least two individuals who can be reached by an equal number of individuals.",
+          "is_correct": true
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "All individuals at the height of 9 m can be reached by at least 5 individuals.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "3",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 98133)\n\nWhich of the following statements is true about this layout?\n\n**Options:**\n- **A**. Each row has an individual who can be reached by 5 or more individuals.\n- **B**. Each row has an individual who cannot be reached by anyone.\n- **C**. Each row has at least two individuals who can be reached by an equal number of individuals. ✅\n- **D**. All individuals at the height of 9 m can be reached by at least 5 individuals.\n\n**Correct Answer:** 3"
+    },
+    {
+      "qid": "98134",
+      "question_text": "If the underlying principle is to be satisfied in such a way that the journey between any two cities can be performed using only direct (non-stop) flights, then the minimum number of direct flights to be scheduled is:",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "45",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "90",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "180",
+          "is_correct": true
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "135",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "3",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 98134)\n\nIf the underlying principle is to be satisfied in such a way that the journey between any two cities can be performed using only direct (non-stop) flights, then the minimum number of direct flights to be scheduled is:\n\n**Options:**\n- **A**. 45\n- **B**. 90\n- **C**. 180 ✅\n- **D**. 135\n\n**Correct Answer:** 3"
+    },
+    {
+      "qid": "98135",
+      "question_text": "Suppose three of the ten cities are to be developed as hubs. A hub is a city which is connected with every other city by direct flights each way, both in the morning as well as in the evening. The only direct flights which will be scheduled are originating and/or terminating in one of the hubs. Then the minimum number of direct flights that need to be scheduled so that the underlying principle of the airline to serve all the ten cities is met without visiting more than one hub during one trip is:",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "54",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "120",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "96",
+          "is_correct": true
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "60",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "3",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 98135)\n\nSuppose three of the ten cities are to be developed as hubs. A hub is a city which is connected with every other city by direct flights each way, both in the morning as well as in the evening. The only direct flights which will be scheduled are originating and/or terminating in one of the hubs. Then the minimum number of direct flights that need to be scheduled so that the underlying principle of the airline to serve all the ten cities is met without visiting more than one hub during one trip is:\n\n**Options:**\n- **A**. 54\n- **B**. 120\n- **C**. 96 ✅\n- **D**. 60\n\n**Correct Answer:** 3"
+    },
+    {
+      "qid": null,
+      "question_text": "Suppose the 10 cities are divided into 4 distinct groups G1, G2, G3, G4 having 3, 3, 2 and 2 cities respectively and that G1 consists of cities named A, B and C. Further, suppose that direct flights are allowed only between two cities satisfying one of the following: 1. Both cities are in G1 2. Between A and any city in G2 3. Between B and any city in G3 4. Between C and any city in G4 Then the minimum number of direct flights that satisfies the underlying principle of the airline is:",
+      "options": [],
+      "correct_option_data": "40",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nSuppose the 10 cities are divided into 4 distinct groups G1, G2, G3, G4 having 3, 3, 2 and 2 cities respectively and that G1 consists of cities named A, B and C. Further, suppose that direct flights are allowed only between two cities satisfying one of the following: 1. Both cities are in G1 2. Between A and any city in G2 3. Between B and any city in G3 4. Between C and any city in G4 Then the minimum number of direct flights that satisfies the underlying principle of the airline is:\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 40"
+    },
+    {
+      "qid": null,
+      "question_text": "Suppose the 10 cities are divided into 4 distinct groups Gl, G2, G3, G4 having 3, 3, 2 and 2 cities respectively and that Gl consists of cities named A, B and C. Further, suppose that direct flights are allowed only between two cities satisfying one of the following: 1. Both cities are in G1 2. Between A and any city in G2 3. Between B and any city in G3 4. Between C and any city in G4 However, due to operational difficulties at A, it was later decided that the only flights that would operate at A would be those to and from B. Cities in G2 would have to be assigned to G3 or to G4. What would be the maximum reduction in the number of direct flights as compared to the situation before the operational difficulties arose?",
+      "options": [],
+      "correct_option_data": "4",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nSuppose the 10 cities are divided into 4 distinct groups Gl, G2, G3, G4 having 3, 3, 2 and 2 cities respectively and that Gl consists of cities named A, B and C. Further, suppose that direct flights are allowed only between two cities satisfying one of the following: 1. Both cities are in G1 2. Between A and any city in G2 3. Between B and any city in G3 4. Between C and any city in G4 However, due to operational difficulties at A, it was later decided that the only flights that would operate at A would be those to and from B. Cities in G2 would have to be assigned to G3 or to G4. What would be the maximum reduction in the number of direct flights as compared to the situation before the operational difficulties arose?\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 4"
+    },
+    {
+      "qid": null,
+      "question_text": "How many cars would be asked to take the route A-N-B, that is Akala-Nanur-Bakala route, by the police department?",
+      "options": [],
+      "correct_option_data": "2",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nHow many cars would be asked to take the route A-N-B, that is Akala-Nanur-Bakala route, by the police department?\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 2"
+    },
+    {
+      "qid": "98139",
+      "question_text": "If all the cars follow the police order, what is the difference in travel time (in minutes) between a car which takes the route A-N-B and a car that takes the route A-M-B?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "1",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "0.1",
+          "is_correct": true
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "0.2",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "0.9",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "2",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 98139)\n\nIf all the cars follow the police order, what is the difference in travel time (in minutes) between a car which takes the route A-N-B and a car that takes the route A-M-B?\n\n**Options:**\n- **A**. 1\n- **B**. 0.1 ✅\n- **C**. 0.2\n- **D**. 0.9\n\n**Correct Answer:** 2"
+    },
+    {
+      "qid": null,
+      "question_text": "A new one-way road is built from M to N. Each car now has three possible routes to travel from A to B: A-M-B, A-N-B and A-M-N-B. On the road from M to N, one car takes 7 minutes and each additional car increases the travel time per car by 1 minute. Assume that any car taking the A-M-N-B route travels the A-M portion at the same time as other cars taking the A-M-B route, and the N-B portion at the same time as other cars taking the A-N-B route. How many cars would the police department order to take the A-M-N-B route so that it is not possible for any car to reduce its travel time by not following the order while the other cars follow the order? (Assume that the police department would never order all the cars to take the same route.)",
+      "options": [],
+      "correct_option_data": "2",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nA new one-way road is built from M to N. Each car now has three possible routes to travel from A to B: A-M-B, A-N-B and A-M-N-B. On the road from M to N, one car takes 7 minutes and each additional car increases the travel time per car by 1 minute. Assume that any car taking the A-M-N-B route travels the A-M portion at the same time as other cars taking the A-M-B route, and the N-B portion at the same time as other cars taking the A-N-B route. How many cars would the police department order to take the A-M-N-B route so that it is not possible for any car to reduce its travel time by not following the order while the other cars follow the order? (Assume that the police department would never order all the cars to take the same route.)\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 2"
+    },
+    {
+      "qid": "98141",
+      "question_text": "A new one-way road is built from M to N. Each car now has three possible routes to travel from A to B: A-M-B, A-N-B and A-M-N-B. On the road from M to N, one car takes 7 minutes and each additional car increases the travel time per car by j. minute. Assume that any car taking the A-M-N-B route travels the A-M portion at the same time as other cars taking the A-M-B route, and the N-B portion at the same time as other cars taking the A-N-B route. If all the cars follow the police order, what is the minimum travel time (in minutes) from A to B? (Assume that the police department would never order all the cars to take the same route.)",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "26",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "32",
+          "is_correct": true
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "29.9",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "30",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "2",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 98141)\n\nA new one-way road is built from M to N. Each car now has three possible routes to travel from A to B: A-M-B, A-N-B and A-M-N-B. On the road from M to N, one car takes 7 minutes and each additional car increases the travel time per car by j. minute. Assume that any car taking the A-M-N-B route travels the A-M portion at the same time as other cars taking the A-M-B route, and the N-B portion at the same time as other cars taking the A-N-B route. If all the cars follow the police order, what is the minimum travel time (in minutes) from A to B? (Assume that the police department would never order all the cars to take the same route.)\n\n**Options:**\n- **A**. 26\n- **B**. 32 ✅\n- **C**. 29.9\n- **D**. 30\n\n**Correct Answer:** 2"
+    }
+  ]
+}

@@ -1,0 +1,862 @@
+{
+  "url": "https://cracku.in/cat-2017-shift-2-dilr-question-paper-solved",
+  "num_questions_found": 32,
+  "questions": [
+    {
+      "qid": "98201",
+      "question_text": "How many Thin Crust pizzas were to be delivered to Party 3?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "398",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "162",
+          "is_correct": true
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "96",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "364",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "2",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 98201)\n\nHow many Thin Crust pizzas were to be delivered to Party 3?\n\n**Options:**\n- **A**. 398\n- **B**. 162 ✅\n- **C**. 96\n- **D**. 364\n\n**Correct Answer:** 2"
+    },
+    {
+      "qid": "98202",
+      "question_text": "How many Normal Cheese pizzas were required to be delivered to Party 1?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "104",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "84",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "16",
+          "is_correct": true
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "196",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "3",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 98202)\n\nHow many Normal Cheese pizzas were required to be delivered to Party 1?\n\n**Options:**\n- **A**. 104\n- **B**. 84\n- **C**. 16 ✅\n- **D**. 196\n\n**Correct Answer:** 3"
+    },
+    {
+      "qid": "98203",
+      "question_text": "For Party 2, if 50% of the Normal Cheese pizzas were of Thin Crust variety, what was the difference between the numbers of T-EC and D-EC pizzas to be delivered to Party 2?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "18",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "12",
+          "is_correct": true
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "30",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "24",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "2",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 98203)\n\nFor Party 2, if 50% of the Normal Cheese pizzas were of Thin Crust variety, what was the difference between the numbers of T-EC and D-EC pizzas to be delivered to Party 2?\n\n**Options:**\n- **A**. 18\n- **B**. 12 ✅\n- **C**. 30\n- **D**. 24\n\n**Correct Answer:** 2"
+    },
+    {
+      "qid": "98204",
+      "question_text": "Suppose that a T-NC pizza cost as much as a D-NC pizza, but 3/5th of the price of a D-EC pizza.A D-EC pizza costs Rs. 50 more than a T-EC pizza, and the latter costs Rs. 500. If 25% of the Normal Cheese pizzas delivered to Party 1 were of Deep Dish variety, what was the total bill for Party 1?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "Rs. 59480",
+          "is_correct": true
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "Rs. 59840",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "Rs. 42520",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "Rs. 45240",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "1",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 98204)\n\nSuppose that a T-NC pizza cost as much as a D-NC pizza, but 3/5th of the price of a D-EC pizza.A D-EC pizza costs Rs. 50 more than a T-EC pizza, and the latter costs Rs. 500. If 25% of the Normal Cheese pizzas delivered to Party 1 were of Deep Dish variety, what was the total bill for Party 1?\n\n**Options:**\n- **A**. Rs. 59480 ✅\n- **B**. Rs. 59840\n- **C**. Rs. 42520\n- **D**. Rs. 45240\n\n**Correct Answer:** 1"
+    },
+    {
+      "qid": "98205",
+      "question_text": "How many elective courses among E1 to E6 had a decrease in their enrollments after the change process?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "4",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "1",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "2",
+          "is_correct": true
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "3",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "3",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 98205)\n\nHow many elective courses among E1 to E6 had a decrease in their enrollments after the change process?\n\n**Options:**\n- **A**. 4\n- **B**. 1\n- **C**. 2 ✅\n- **D**. 3\n\n**Correct Answer:** 3"
+    },
+    {
+      "qid": "98206",
+      "question_text": "After the change process, which of the following is the correct sequence of number of students in the six electives E 1 to E6?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "19, 76, 79, 21, 45, 60",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "19, 76, 78, 22, 45, 60",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "18, 76, 79, 23, 43, 61",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "18, 76, 79, 21, 45, 61",
+          "is_correct": true
+        }
+      ],
+      "correct_option_data": "4",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 98206)\n\nAfter the change process, which of the following is the correct sequence of number of students in the six electives E 1 to E6?\n\n**Options:**\n- **A**. 19, 76, 79, 21, 45, 60\n- **B**. 19, 76, 78, 22, 45, 60\n- **C**. 18, 76, 79, 23, 43, 61\n- **D**. 18, 76, 79, 21, 45, 61 ✅\n\n**Correct Answer:** 4"
+    },
+    {
+      "qid": "98207",
+      "question_text": "After the change process, which course among E1 to E6 had the largest change in its enrollment as a percentage of its original enrollment?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "E1",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "E2",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "E3",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "E6",
+          "is_correct": true
+        }
+      ],
+      "correct_option_data": "4",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 98207)\n\nAfter the change process, which course among E1 to E6 had the largest change in its enrollment as a percentage of its original enrollment?\n\n**Options:**\n- **A**. E1\n- **B**. E2\n- **C**. E3\n- **D**. E6 ✅\n\n**Correct Answer:** 4"
+    },
+    {
+      "qid": "98208",
+      "question_text": "Later, the college imposed a condition that if after the change of electives, the enrollment in any elective (other than E7) dropped to less than 20 students, all the students who had left that course will be required to re-enroll for that elective. Which of the following is a correct sequence of electives in decreasing order of their final enrollments?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "E2, E3, E6, E5, E1, E4",
+          "is_correct": true
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "E3, E2, E6, E5, E4, E1",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "E2, E5, E3, E1, E4, E6",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "E2, E3, E5, E6, E1, E3",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "1",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 98208)\n\nLater, the college imposed a condition that if after the change of electives, the enrollment in any elective (other than E7) dropped to less than 20 students, all the students who had left that course will be required to re-enroll for that elective. Which of the following is a correct sequence of electives in decreasing order of their final enrollments?\n\n**Options:**\n- **A**. E2, E3, E6, E5, E1, E4 ✅\n- **B**. E3, E2, E6, E5, E4, E1\n- **C**. E2, E5, E3, E1, E4, E6\n- **D**. E2, E3, E5, E6, E1, E3\n\n**Correct Answer:** 1"
+    },
+    {
+      "qid": "98209",
+      "question_text": "Among the three, Neeta received the least amount in bank deposits, while Geeta received the highest. The value of the assets was distributed equally among the children, as were the gold coins. How much did Seeta receive in bank deposits (in lakhs of rupees)?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "30",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "40",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "20",
+          "is_correct": true
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "10",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "3",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 98209)\n\nAmong the three, Neeta received the least amount in bank deposits, while Geeta received the highest. The value of the assets was distributed equally among the children, as were the gold coins. How much did Seeta receive in bank deposits (in lakhs of rupees)?\n\n**Options:**\n- **A**. 30\n- **B**. 40\n- **C**. 20 ✅\n- **D**. 10\n\n**Correct Answer:** 3"
+    },
+    {
+      "qid": null,
+      "question_text": "Among the three, Neeta received the least amount in bank deposits, while Geeta received the highest. The value of the assets was distributed equally among the children, as were the gold coins. How many flats did Neeta receive?",
+      "options": [],
+      "correct_option_data": "2",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nAmong the three, Neeta received the least amount in bank deposits, while Geeta received the highest. The value of the assets was distributed equally among the children, as were the gold coins. How many flats did Neeta receive?\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 2"
+    },
+    {
+      "qid": "98211",
+      "question_text": "The value of the assets distributed among Neeta, Seeta and Geeta was in the ratio of 1:2:3, while the gold coins were distributed among them in the ratio of 2:3:4. One child got all three flats and she did not get the house. One child, other than Geeta, got Rs. 30 lakh in bank deposits. How many gold coins did the old woman have?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "72",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "90",
+          "is_correct": true
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "180",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "216",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "2",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 98211)\n\nThe value of the assets distributed among Neeta, Seeta and Geeta was in the ratio of 1:2:3, while the gold coins were distributed among them in the ratio of 2:3:4. One child got all three flats and she did not get the house. One child, other than Geeta, got Rs. 30 lakh in bank deposits. How many gold coins did the old woman have?\n\n**Options:**\n- **A**. 72\n- **B**. 90 ✅\n- **C**. 180\n- **D**. 216\n\n**Correct Answer:** 2"
+    },
+    {
+      "qid": null,
+      "question_text": "The value of the assets distributed among Neeta, Seeta and Geeta was in the ratio of 1:2:3, while the gold coins were distributed among them in the ratio of 2:3:4. One child got all three flats and she did not get the house. One child, other than Geeta, got Rs. 30 lakh in. bank deposits. How much did Geeta get in bank deposits (in lakhs of rupees)?",
+      "options": [],
+      "correct_option_data": "20",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nThe value of the assets distributed among Neeta, Seeta and Geeta was in the ratio of 1:2:3, while the gold coins were distributed among them in the ratio of 2:3:4. One child got all three flats and she did not get the house. One child, other than Geeta, got Rs. 30 lakh in. bank deposits. How much did Geeta get in bank deposits (in lakhs of rupees)?\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 20"
+    },
+    {
+      "qid": "98213",
+      "question_text": "Which of the following is NOT necessarily true?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "Dorm 1 needs a moderate repair",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "Dorm 5 repair will cost no more than Rs. 4 Crores",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "Dorm 7 needs an extensive repair",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "Dorm 10 repair will cost no more than Rs. 4 Crores",
+          "is_correct": true
+        }
+      ],
+      "correct_option_data": "4",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 98213)\n\nWhich of the following is NOT necessarily true?\n\n**Options:**\n- **A**. Dorm 1 needs a moderate repair\n- **B**. Dorm 5 repair will cost no more than Rs. 4 Crores\n- **C**. Dorm 7 needs an extensive repair\n- **D**. Dorm 10 repair will cost no more than Rs. 4 Crores ✅\n\n**Correct Answer:** 4"
+    },
+    {
+      "qid": null,
+      "question_text": "What is the total cost of repairing the odd-numbered dorms (in Rs. Crores)?",
+      "options": [],
+      "correct_option_data": "19",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nWhat is the total cost of repairing the odd-numbered dorms (in Rs. Crores)?\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 19"
+    },
+    {
+      "qid": null,
+      "question_text": "Suppose further that: 1. 4 of the 10 dorms needing repair are women's dorms and need a total of Rs. 20 Crores for repair. 2. Only one of Dorms 1 to 5 is a women's dorm. What is the cost for repairing Dorm 9 (in Rs. Crores)?",
+      "options": [],
+      "correct_option_data": "3",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nSuppose further that: 1. 4 of the 10 dorms needing repair are women's dorms and need a total of Rs. 20 Crores for repair. 2. Only one of Dorms 1 to 5 is a women's dorm. What is the cost for repairing Dorm 9 (in Rs. Crores)?\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 3"
+    },
+    {
+      "qid": "98216",
+      "question_text": "Suppose further that: 1. 4 of the 10 dorms needing repair are women's dorms and need a total of Rs. 20 Crores for repair. 2. Only one of Dorms 1 to 5 is a women's dorm. Which of the following is a women's dorm?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "Dorm 2",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "Dorm 5",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "Dorm 8",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "Dorm 10",
+          "is_correct": true
+        }
+      ],
+      "correct_option_data": "4",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 98216)\n\nSuppose further that: 1. 4 of the 10 dorms needing repair are women's dorms and need a total of Rs. 20 Crores for repair. 2. Only one of Dorms 1 to 5 is a women's dorm. Which of the following is a women's dorm?\n\n**Options:**\n- **A**. Dorm 2\n- **B**. Dorm 5\n- **C**. Dorm 8\n- **D**. Dorm 10 ✅\n\n**Correct Answer:** 4"
+    },
+    {
+      "qid": null,
+      "question_text": "What was the second highest rating given?",
+      "options": [],
+      "correct_option_data": "7",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nWhat was the second highest rating given?\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 7"
+    },
+    {
+      "qid": null,
+      "question_text": "What was the number of the cup that contained tea from Ooty?",
+      "options": [],
+      "correct_option_data": "4",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nWhat was the number of the cup that contained tea from Ooty?\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 4"
+    },
+    {
+      "qid": "98219",
+      "question_text": "If the tea from Munnar did not get the minimum rating, what was the rating of the tea from Wayanad?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "3",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "5",
+          "is_correct": true
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "1",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "6",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "2",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 98219)\n\nIf the tea from Munnar did not get the minimum rating, what was the rating of the tea from Wayanad?\n\n**Options:**\n- **A**. 3\n- **B**. 5 ✅\n- **C**. 1\n- **D**. 6\n\n**Correct Answer:** 2"
+    },
+    {
+      "qid": "98220",
+      "question_text": "If cups containing teas from Wayanad and Ooty had consecutive numbers, which of the following statements may be true?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "Cup 5 contains tea from Assam",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "Cup 1 contains tea from Darjeeling",
+          "is_correct": true
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "Tea from Wayanad has got a rating of 6",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "Tea from Darjeeling got the minimum rating",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "2",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 98220)\n\nIf cups containing teas from Wayanad and Ooty had consecutive numbers, which of the following statements may be true?\n\n**Options:**\n- **A**. Cup 5 contains tea from Assam\n- **B**. Cup 1 contains tea from Darjeeling ✅\n- **C**. Tea from Wayanad has got a rating of 6\n- **D**. Tea from Darjeeling got the minimum rating\n\n**Correct Answer:** 2"
+    },
+    {
+      "qid": "98221",
+      "question_text": "If the queen is at c5, and the other pieces at positions c2, g1, g3, g5 and a3, how many are under attack by the queen? There are no other pieces on the board.",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "2",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "3",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "4",
+          "is_correct": true
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "5",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "3",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 98221)\n\nIf the queen is at c5, and the other pieces at positions c2, g1, g3, g5 and a3, how many are under attack by the queen? There are no other pieces on the board.\n\n**Options:**\n- **A**. 2\n- **B**. 3\n- **C**. 4 ✅\n- **D**. 5\n\n**Correct Answer:** 3"
+    },
+    {
+      "qid": "98222",
+      "question_text": "If the other pieces are only at positions a1, a3, b4, d7, h7 and h8, then which of the following positions of the queen results in the maximum number of pieces being under attack?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "f8",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "a7",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "c1",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "d3",
+          "is_correct": true
+        }
+      ],
+      "correct_option_data": "4",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 98222)\n\nIf the other pieces are only at positions a1, a3, b4, d7, h7 and h8, then which of the following positions of the queen results in the maximum number of pieces being under attack?\n\n**Options:**\n- **A**. f8\n- **B**. a7\n- **C**. c1\n- **D**. d3 ✅\n\n**Correct Answer:** 4"
+    },
+    {
+      "qid": "98223",
+      "question_text": "If the other pieces are only at positions a1, a3, b4, d7, h7 and h8, then from how many positions the queen cannot attack any of the pieces?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "0",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "3",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "4",
+          "is_correct": true
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "6",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "3",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 98223)\n\nIf the other pieces are only at positions a1, a3, b4, d7, h7 and h8, then from how many positions the queen cannot attack any of the pieces?\n\n**Options:**\n- **A**. 0\n- **B**. 3\n- **C**. 4 ✅\n- **D**. 6\n\n**Correct Answer:** 3"
+    },
+    {
+      "qid": "98224",
+      "question_text": "Suppose the queen is the only piece on the board and it is at position d5. In how many positions can another piece be placed on the board such that it is safe from attack from the queen?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "32",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "35",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "36",
+          "is_correct": true
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "37",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "3",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 98224)\n\nSuppose the queen is the only piece on the board and it is at position d5. In how many positions can another piece be placed on the board such that it is safe from attack from the queen?\n\n**Options:**\n- **A**. 32\n- **B**. 35\n- **C**. 36 ✅\n- **D**. 37\n\n**Correct Answer:** 3"
+    },
+    {
+      "qid": "98225",
+      "question_text": "In which row was Manik sitting?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "10",
+          "is_correct": true
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "11",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "12",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "13",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "1",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 98225)\n\nIn which row was Manik sitting?\n\n**Options:**\n- **A**. 10 ✅\n- **B**. 11\n- **C**. 12\n- **D**. 13\n\n**Correct Answer:** 1"
+    },
+    {
+      "qid": "98226",
+      "question_text": "How much extra did Jayanta pay for his choice of seat?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "Rs. 300",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "Rs. 400",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "Rs. 500",
+          "is_correct": true
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "Rs. 1000",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "3",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 98226)\n\nHow much extra did Jayanta pay for his choice of seat?\n\n**Options:**\n- **A**. Rs. 300\n- **B**. Rs. 400\n- **C**. Rs. 500 ✅\n- **D**. Rs. 1000\n\n**Correct Answer:** 3"
+    },
+    {
+      "qid": "98227",
+      "question_text": "How much extra did Gargi pay for her choice of seat?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "0",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "Rs. 300",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "Rs. 400",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "Rs. 1000",
+          "is_correct": true
+        }
+      ],
+      "correct_option_data": "4",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 98227)\n\nHow much extra did Gargi pay for her choice of seat?\n\n**Options:**\n- **A**. 0\n- **B**. Rs. 300\n- **C**. Rs. 400\n- **D**. Rs. 1000 ✅\n\n**Correct Answer:** 4"
+    },
+    {
+      "qid": "98228",
+      "question_text": "Who among the following did not pay any extra amount for his his/her choice of seat?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "Kikira",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "Manik",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "Gargi",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "Tapesh",
+          "is_correct": true
+        }
+      ],
+      "correct_option_data": "4",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 98228)\n\nWho among the following did not pay any extra amount for his his/her choice of seat?\n\n**Options:**\n- **A**. Kikira\n- **B**. Manik\n- **C**. Gargi\n- **D**. Tapesh ✅\n\n**Correct Answer:** 4"
+    },
+    {
+      "qid": null,
+      "question_text": "The lab has decided to allow a variation in the sequence of scans of the five fingers so that at most two scans (out of five) are out of place. For example, if the original sequence is Thumb (T), index finger (I), middle finger (M), ring finger (R) and little finger (L) then TLMRI is also allowed, but TMRLI is not. How many different sequences of scans are allowed for any given person's original scan?",
+      "options": [],
+      "correct_option_data": "11",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nThe lab has decided to allow a variation in the sequence of scans of the five fingers so that at most two scans (out of five) are out of place. For example, if the original sequence is Thumb (T), index finger (I), middle finger (M), ring finger (R) and little finger (L) then TLMRI is also allowed, but TMRLI is not. How many different sequences of scans are allowed for any given person's original scan?\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 11"
+    },
+    {
+      "qid": "98230",
+      "question_text": "The lab has decided to allow variations of the original sequence so that input of the scanned sequence of five fingers is allowed to vary from the original sequence by one place for any of the fingers. Thus, for example, if TIMRL is the original sequence, then ITRML is also allowed, but LIMRT is not. How many different sequences are allowed for any given person's original scan?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "7",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "5",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "8",
+          "is_correct": true
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "13",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "3",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 98230)\n\nThe lab has decided to allow variations of the original sequence so that input of the scanned sequence of five fingers is allowed to vary from the original sequence by one place for any of the fingers. Thus, for example, if TIMRL is the original sequence, then ITRML is also allowed, but LIMRT is not. How many different sequences are allowed for any given person's original scan?\n\n**Options:**\n- **A**. 7\n- **B**. 5\n- **C**. 8 ✅\n- **D**. 13\n\n**Correct Answer:** 3"
+    },
+    {
+      "qid": null,
+      "question_text": "The lab has now decided to require six scans in the pass key sequence, where exactly one finger is scanned twice, and the other fingers are scanned exactly once, which can be done in any order. For example, a possible sequence is TIMTRL. Suppose the lab allows a variation of the original sequence (of six inputs) where at most two scans (out of six) are out of place, as long as the finger originally scanned twice is scanned twice and other fingers are scanned once. How many different sequences of scans are allowed for any given person's original scan?",
+      "options": [],
+      "correct_option_data": "15",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nThe lab has now decided to require six scans in the pass key sequence, where exactly one finger is scanned twice, and the other fingers are scanned exactly once, which can be done in any order. For example, a possible sequence is TIMTRL. Suppose the lab allows a variation of the original sequence (of six inputs) where at most two scans (out of six) are out of place, as long as the finger originally scanned twice is scanned twice and other fingers are scanned once. How many different sequences of scans are allowed for any given person's original scan?\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 15"
+    },
+    {
+      "qid": "98232",
+      "question_text": "The lab has now decided to require six scans in the pass key sequence, where exactly one finger is scanned twice, and the other fingers are scanned exactly once, which can be done in any order. For example, a possible sequence is TIMTRL. Suppose the lab allows a variation of the original sequence (of six inputs) so that input in the form of scanned sequence of six fingers is allowed to vary from the original sequence by one place for any of the fingers, as long as the finger originally scanned twice is scanned twice and other fingers are scanned once. How many different sequences of scans are allowed if the original scan sequence is LRLTIM?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "8",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "11",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "13",
+          "is_correct": true
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "14",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "3",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 98232)\n\nThe lab has now decided to require six scans in the pass key sequence, where exactly one finger is scanned twice, and the other fingers are scanned exactly once, which can be done in any order. For example, a possible sequence is TIMTRL. Suppose the lab allows a variation of the original sequence (of six inputs) so that input in the form of scanned sequence of six fingers is allowed to vary from the original sequence by one place for any of the fingers, as long as the finger originally scanned twice is scanned twice and other fingers are scanned once. How many different sequences of scans are allowed if the original scan sequence is LRLTIM?\n\n**Options:**\n- **A**. 8\n- **B**. 11\n- **C**. 13 ✅\n- **D**. 14\n\n**Correct Answer:** 3"
+    }
+  ]
+}

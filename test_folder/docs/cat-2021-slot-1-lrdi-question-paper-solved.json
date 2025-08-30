@@ -1,0 +1,541 @@
+{
+  "url": "https://cracku.in/cat-2021-slot-1-lrdi-question-paper-solved",
+  "num_questions_found": 20,
+  "questions": [
+    {
+      "qid": "386353",
+      "question_text": "What is the correct sequence of number of papers written by B, C, E and G, respectively?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "1, 2, 2, 3",
+          "is_correct": true
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "1, 3, 3, 1",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "3, 1, 1, 3",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "1, 2, 2, 1",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "1",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 386353)\n\nWhat is the correct sequence of number of papers written by B, C, E and G, respectively?\n\n**Options:**\n- **A**. 1, 2, 2, 3 ✅\n- **B**. 1, 3, 3, 1\n- **C**. 3, 1, 1, 3\n- **D**. 1, 2, 2, 1\n\n**Correct Answer:** 1"
+    },
+    {
+      "qid": null,
+      "question_text": "How many papers were written by Indian authors?",
+      "options": [],
+      "correct_option_data": "8",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nHow many papers were written by Indian authors?\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 8"
+    },
+    {
+      "qid": "386355",
+      "question_text": "Which of the following statement(s) MUST be true? Statement A: Every issue had at least one paper by author(s) from each country. Statement B: Every issue had at most two papers by author(s) from each area.",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "Both the statements",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "Only Statement B",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "Only Statement A",
+          "is_correct": true
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "Neither of the statements",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "3",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 386355)\n\nWhich of the following statement(s) MUST be true? Statement A: Every issue had at least one paper by author(s) from each country. Statement B: Every issue had at most two papers by author(s) from each area.\n\n**Options:**\n- **A**. Both the statements\n- **B**. Only Statement B\n- **C**. Only Statement A ✅\n- **D**. Neither of the statements\n\n**Correct Answer:** 3"
+    },
+    {
+      "qid": "386356",
+      "question_text": "Which of the following statements is FALSE?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "Every issue had at least one paper by author(s) from Automation area.",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "Every issue had exactly one paper by a Chinese author.",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "Every issue had exactly two papers by authors from Logistics area.",
+          "is_correct": true
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "Every issue had exactly two papers by Indian authors.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "3",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 386356)\n\nWhich of the following statements is FALSE?\n\n**Options:**\n- **A**. Every issue had at least one paper by author(s) from Automation area.\n- **B**. Every issue had exactly one paper by a Chinese author.\n- **C**. Every issue had exactly two papers by authors from Logistics area. ✅\n- **D**. Every issue had exactly two papers by Indian authors.\n\n**Correct Answer:** 3"
+    },
+    {
+      "qid": "386357",
+      "question_text": "Which of the following statements is FALSE?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "There were exactly two papers by authors from Manufacturing area in the January issue.",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "There was exactly one paper by an author from Manufacturing area in the April issue.",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "There was exactly one paper by an author from Logistics area in the October issue.",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "There were exactly two papers by authors from Manufacturing area in the July issue.",
+          "is_correct": true
+        }
+      ],
+      "correct_option_data": "4",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 386357)\n\nWhich of the following statements is FALSE?\n\n**Options:**\n- **A**. There were exactly two papers by authors from Manufacturing area in the January issue.\n- **B**. There was exactly one paper by an author from Manufacturing area in the April issue.\n- **C**. There was exactly one paper by an author from Logistics area in the October issue.\n- **D**. There were exactly two papers by authors from Manufacturing area in the July issue. ✅\n\n**Correct Answer:** 4"
+    },
+    {
+      "qid": "386358",
+      "question_text": "Which of the following is the correct sequence of number of papers by authors from Automation, Manufacturing and Logistics areas, respectively?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "6, 5, 7",
+          "is_correct": true
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "6, 6, 6",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "6, 7, 5",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "5, 6, 7",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "1",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 386358)\n\nWhich of the following is the correct sequence of number of papers by authors from Automation, Manufacturing and Logistics areas, respectively?\n\n**Options:**\n- **A**. 6, 5, 7 ✅\n- **B**. 6, 6, 6\n- **C**. 6, 7, 5\n- **D**. 5, 6, 7\n\n**Correct Answer:** 1"
+    },
+    {
+      "qid": "386359",
+      "question_text": "What BEST can be concluded about the number of units of fruit salad sold in the first hour?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "Either 1 or 2.",
+          "is_correct": true
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "Either 0 or 1 or 2.",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "Exactly 2.",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "Exactly 1.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "1",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 386359)\n\nWhat BEST can be concluded about the number of units of fruit salad sold in the first hour?\n\n**Options:**\n- **A**. Either 1 or 2. ✅\n- **B**. Either 0 or 1 or 2.\n- **C**. Exactly 2.\n- **D**. Exactly 1.\n\n**Correct Answer:** 1"
+    },
+    {
+      "qid": "386360",
+      "question_text": "Which of the following is NECESSARILY true?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "Ganga did not sell any leftover mangoes.",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "Ganga did not sell any leftover apples.",
+          "is_correct": true
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "Narmada sold one unit of leftover milk.",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "Kaveri sold one unit of leftover mangoes.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "2",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 386360)\n\nWhich of the following is NECESSARILY true?\n\n**Options:**\n- **A**. Ganga did not sell any leftover mangoes.\n- **B**. Ganga did not sell any leftover apples. ✅\n- **C**. Narmada sold one unit of leftover milk.\n- **D**. Kaveri sold one unit of leftover mangoes.\n\n**Correct Answer:** 2"
+    },
+    {
+      "qid": "386361",
+      "question_text": "What BEST can be concluded about the total number of units of milk the three women had in the beginning?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "Either 19 or 20 units.",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "Either 18 or 19 or 20 units.",
+          "is_correct": true
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "Either 18 or 19 units.",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "Either 17 or 18 or 19 units.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "2",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 386361)\n\nWhat BEST can be concluded about the total number of units of milk the three women had in the beginning?\n\n**Options:**\n- **A**. Either 19 or 20 units.\n- **B**. Either 18 or 19 or 20 units. ✅\n- **C**. Either 18 or 19 units.\n- **D**. Either 17 or 18 or 19 units.\n\n**Correct Answer:** 2"
+    },
+    {
+      "qid": null,
+      "question_text": "If it is known that three leftover units of mangoes were sold during the last business hour of the day, how many apple smoothies were sold during the day?",
+      "options": [],
+      "correct_option_data": "6",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nIf it is known that three leftover units of mangoes were sold during the last business hour of the day, how many apple smoothies were sold during the day?\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 6"
+    },
+    {
+      "qid": "386363",
+      "question_text": "Who are Gowtham’s acquaintances?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "Dhinesh, Ezhil and Fani",
+          "is_correct": true
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "Amudha, Dhinesh and Fani",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "Bharatan, Dhinesh and Ezhil",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "Amudha, Bharatan and Fani",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "1",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 386363)\n\nWho are Gowtham’s acquaintances?\n\n**Options:**\n- **A**. Dhinesh, Ezhil and Fani ✅\n- **B**. Amudha, Dhinesh and Fani\n- **C**. Bharatan, Dhinesh and Ezhil\n- **D**. Amudha, Bharatan and Fani\n\n**Correct Answer:** 1"
+    },
+    {
+      "qid": "386364",
+      "question_text": "Which of these pairs share the same type of relationship?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "(Amudha, Gowtham) and (Ezhil, Fani)",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "(Bharatan, Chandran) and (Dhinesh, Ezhil)",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "(Chandran, Ezhil) and (Dhinesh, Gowtham)",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "(Bharatan, Ezhil) and (Fani, Gowtham)",
+          "is_correct": true
+        }
+      ],
+      "correct_option_data": "4",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 386364)\n\nWhich of these pairs share the same type of relationship?\n\n**Options:**\n- **A**. (Amudha, Gowtham) and (Ezhil, Fani)\n- **B**. (Bharatan, Chandran) and (Dhinesh, Ezhil)\n- **C**. (Chandran, Ezhil) and (Dhinesh, Gowtham)\n- **D**. (Bharatan, Ezhil) and (Fani, Gowtham) ✅\n\n**Correct Answer:** 4"
+    },
+    {
+      "qid": "386365",
+      "question_text": "Who is an acquaintance of Amudha?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "Dhinesh",
+          "is_correct": true
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "Fani",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "Gowtham",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "Ezhil",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "1",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 386365)\n\nWho is an acquaintance of Amudha?\n\n**Options:**\n- **A**. Dhinesh ✅\n- **B**. Fani\n- **C**. Gowtham\n- **D**. Ezhil\n\n**Correct Answer:** 1"
+    },
+    {
+      "qid": "386366",
+      "question_text": "Who is an acquaintance of Chandran?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "Dhinesh",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "Fani",
+          "is_correct": true
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "Ezhil",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "Bharatan",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "2",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 386366)\n\nWho is an acquaintance of Chandran?\n\n**Options:**\n- **A**. Dhinesh\n- **B**. Fani ✅\n- **C**. Ezhil\n- **D**. Bharatan\n\n**Correct Answer:** 2"
+    },
+    {
+      "qid": null,
+      "question_text": "How many friends does Ezhil have?",
+      "options": [],
+      "correct_option_data": "3",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nHow many friends does Ezhil have?\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 3"
+    },
+    {
+      "qid": null,
+      "question_text": "How many people are either a friend or a friend-of-a-friend of Ezhil?",
+      "options": [],
+      "correct_option_data": "4",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nHow many people are either a friend or a friend-of-a-friend of Ezhil?\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 4"
+    },
+    {
+      "qid": "386369",
+      "question_text": "The total sales (in ₹ million) in 2019 from products in office supplies category is closest to",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "18.0",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "16.5",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "13.5",
+          "is_correct": true
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "12.5",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "3",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 386369)\n\nThe total sales (in ₹ million) in 2019 from products in office supplies category is closest to\n\n**Options:**\n- **A**. 18.0\n- **B**. 16.5\n- **C**. 13.5 ✅\n- **D**. 12.5\n\n**Correct Answer:** 3"
+    },
+    {
+      "qid": "386370",
+      "question_text": "The percentage increase in sales in Furniture category from 2019 to 2020 is closest to",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "20%",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "8%",
+          "is_correct": true
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "25%",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "1%",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "2",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 386370)\n\nThe percentage increase in sales in Furniture category from 2019 to 2020 is closest to\n\n**Options:**\n- **A**. 20%\n- **B**. 8% ✅\n- **C**. 25%\n- **D**. 1%\n\n**Correct Answer:** 2"
+    },
+    {
+      "qid": null,
+      "question_text": "How many subcategories had sales of ₹ 4 million or more in 2019 and registered an increase in sales in excess of 25% in 2020?",
+      "options": [],
+      "correct_option_data": "1",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nHow many subcategories had sales of ₹ 4 million or more in 2019 and registered an increase in sales in excess of 25% in 2020?\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 1"
+    },
+    {
+      "qid": "386372",
+      "question_text": "The improvement index for a category is the maximum percentage increase in sales from 2019 to 2020 among any of its subcategories. The correct order of categories in increasing order of this improvement index is",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "furniture, technology, office supply",
+          "is_correct": true
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "technology, furniture, office supply",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "office supply, technology, furniture",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "office supply, furniture, technology",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "1",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 386372)\n\nThe improvement index for a category is the maximum percentage increase in sales from 2019 to 2020 among any of its subcategories. The correct order of categories in increasing order of this improvement index is\n\n**Options:**\n- **A**. furniture, technology, office supply ✅\n- **B**. technology, furniture, office supply\n- **C**. office supply, technology, furniture\n- **D**. office supply, furniture, technology\n\n**Correct Answer:** 1"
+    }
+  ]
+}

@@ -1,0 +1,482 @@
+{
+  "url": "https://cracku.in/cat-2024-slot-3-lrdi-question-paper-solved",
+  "num_questions_found": 22,
+  "questions": [
+    {
+      "qid": "469275",
+      "question_text": "Which of the following statements is correct?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "There is no ATM placed at the (R-C, V2) intersection.",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "The ATM placed at the (R-C, V2) intersection has a cash requirement of Rs. 9 Lakhs.",
+          "is_correct": true
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "The ATM placed at the (R-C, V2) intersection has a cash requirement of Rs. 8 Lakhs.",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "The cash requirement of the ATM placed at the (R-C, V2) intersection cannot be uniquely determined.",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "2",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 469275)\n\nWhich of the following statements is correct?\n\n**Options:**\n- **A**. There is no ATM placed at the (R-C, V2) intersection.\n- **B**. The ATM placed at the (R-C, V2) intersection has a cash requirement of Rs. 9 Lakhs. ✅\n- **C**. The ATM placed at the (R-C, V2) intersection has a cash requirement of Rs. 8 Lakhs.\n- **D**. The cash requirement of the ATM placed at the (R-C, V2) intersection cannot be uniquely determined.\n\n**Correct Answer:** 2"
+    },
+    {
+      "qid": null,
+      "question_text": "How many ATMs have cash requirements of Rs. 10 Lakhs or more?",
+      "options": [],
+      "correct_option_data": "3",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nHow many ATMs have cash requirements of Rs. 10 Lakhs or more?\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 3"
+    },
+    {
+      "qid": "469277",
+      "question_text": "Which of the following two statements is/are DEFINITELY true? Statement A: Each of R-A, R-B, and R-C has two ATMs. Statement B: Each of V1, V2, and V3 has two ATMs.",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "Only Statement A",
+          "is_correct": true
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "Neither Statement A nor Statement B",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "Only Statement B",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "Both Statement A and Statement B",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "1",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 469277)\n\nWhich of the following two statements is/are DEFINITELY true? Statement A: Each of R-A, R-B, and R-C has two ATMs. Statement B: Each of V1, V2, and V3 has two ATMs.\n\n**Options:**\n- **A**. Only Statement A ✅\n- **B**. Neither Statement A nor Statement B\n- **C**. Only Statement B\n- **D**. Both Statement A and Statement B\n\n**Correct Answer:** 1"
+    },
+    {
+      "qid": "469278",
+      "question_text": "What best can be said about the road distance (in km) between the ATMs having the second highest and the second lowest cash requirements?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "4 km",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "7 km",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "5 km",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "Either 4 km or 7 km",
+          "is_correct": true
+        }
+      ],
+      "correct_option_data": "4",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 469278)\n\nWhat best can be said about the road distance (in km) between the ATMs having the second highest and the second lowest cash requirements?\n\n**Options:**\n- **A**. 4 km\n- **B**. 7 km\n- **C**. 5 km\n- **D**. Either 4 km or 7 km ✅\n\n**Correct Answer:** 4"
+    },
+    {
+      "qid": null,
+      "question_text": "What is the number of ATMs whose locations and cash requirements can both be uniquely determined?",
+      "options": [],
+      "correct_option_data": "3",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nWhat is the number of ATMs whose locations and cash requirements can both be uniquely determined?\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 3"
+    },
+    {
+      "qid": null,
+      "question_text": "How many foodgrains had a higher amount of carbohydrate per 100 grams ofnutrients than M1?",
+      "options": [],
+      "correct_option_data": "5",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nHow many foodgrains had a higher amount of carbohydrate per 100 grams ofnutrients than M1?\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 5"
+    },
+    {
+      "qid": null,
+      "question_text": "How many grams of protein were there in 100 grams of nutrients in M2?",
+      "options": [],
+      "correct_option_data": "12",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nHow many grams of protein were there in 100 grams of nutrients in M2?\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 12"
+    },
+    {
+      "qid": null,
+      "question_text": "How many grams of other nutrients were there in 100 grams of nutrients in M3?",
+      "options": [],
+      "correct_option_data": "24",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nHow many grams of other nutrients were there in 100 grams of nutrients in M3?\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 24"
+    },
+    {
+      "qid": null,
+      "question_text": "What is the median of the number of grams of protein in 100 grams of nutrients among these food grains?",
+      "options": [],
+      "correct_option_data": "12",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nWhat is the median of the number of grams of protein in 100 grams of nutrients among these food grains?\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 12"
+    },
+    {
+      "qid": "469284",
+      "question_text": "How many subscribers belonged to the ‘Others’ category in 2024?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "Cannot be determined",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "65000",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "55000",
+          "is_correct": true
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "45000",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "3",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 469284)\n\nHow many subscribers belonged to the ‘Others’ category in 2024?\n\n**Options:**\n- **A**. Cannot be determined\n- **B**. 65000\n- **C**. 55000 ✅\n- **D**. 45000\n\n**Correct Answer:** 3"
+    },
+    {
+      "qid": "469285",
+      "question_text": "What percentage of subscribers in the ‘Kid’ category used multiple apps in 2023?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "33.33%",
+          "is_correct": true
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "5.00%",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "25.50%",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "50.00%",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "1",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 469285)\n\nWhat percentage of subscribers in the ‘Kid’ category used multiple apps in 2023?\n\n**Options:**\n- **A**. 33.33% ✅\n- **B**. 5.00%\n- **C**. 25.50%\n- **D**. 50.00%\n\n**Correct Answer:** 1"
+    },
+    {
+      "qid": "469286",
+      "question_text": "What was the percentage increase in the number of subscribers in the ‘Elder’ categoryfrom 2023 to 2024?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "60%",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "50%",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "65%",
+          "is_correct": true
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "40%",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "3",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 469286)\n\nWhat was the percentage increase in the number of subscribers in the ‘Elder’ categoryfrom 2023 to 2024?\n\n**Options:**\n- **A**. 60%\n- **B**. 50%\n- **C**. 65% ✅\n- **D**. 40%\n\n**Correct Answer:** 3"
+    },
+    {
+      "qid": "469287",
+      "question_text": "What could be the minimum percentage of subscribers who used multiple apps in 2024?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "16.5%",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "20.0%",
+          "is_correct": true
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "10.0%",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "22.00%",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "2",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 469287)\n\nWhat could be the minimum percentage of subscribers who used multiple apps in 2024?\n\n**Options:**\n- **A**. 16.5%\n- **B**. 20.0% ✅\n- **C**. 10.0%\n- **D**. 22.00%\n\n**Correct Answer:** 2"
+    },
+    {
+      "qid": "469288",
+      "question_text": "Which one among the countries 1 through 8, has the smallest population in 2024?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "Country 8",
+          "is_correct": true
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "Country 3",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "Country 7",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "Country 5",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "1",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 469288)\n\nWhich one among the countries 1 through 8, has the smallest population in 2024?\n\n**Options:**\n- **A**. Country 8 ✅\n- **B**. Country 3\n- **C**. Country 7\n- **D**. Country 5\n\n**Correct Answer:** 1"
+    },
+    {
+      "qid": "469289",
+      "question_text": "The ratio of Country 4’s GDP to Country 5’s GDP in 2026 will be closest to",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "1.195",
+          "is_correct": true
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "0.963",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "1.314",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "1.032",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "1",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 469289)\n\nThe ratio of Country 4’s GDP to Country 5’s GDP in 2026 will be closest to\n\n**Options:**\n- **A**. 1.195 ✅\n- **B**. 0.963\n- **C**. 1.314\n- **D**. 1.032\n\n**Correct Answer:** 1"
+    },
+    {
+      "qid": "469290",
+      "question_text": "Which one among the countries 1, 4, 5, and 7 will have the largest population in 2027?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "Country 1",
+          "is_correct": true
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "Country 5",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "Country 7",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "Country 4",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "1",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 469290)\n\nWhich one among the countries 1, 4, 5, and 7 will have the largest population in 2027?\n\n**Options:**\n- **A**. Country 1 ✅\n- **B**. Country 5\n- **C**. Country 7\n- **D**. Country 4\n\n**Correct Answer:** 1"
+    },
+    {
+      "qid": null,
+      "question_text": "For how many countries among Country 1 through Country 8 will the GDP per capita in 2027 be lower than that in 2024?",
+      "options": [],
+      "correct_option_data": "0",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nFor how many countries among Country 1 through Country 8 will the GDP per capita in 2027 be lower than that in 2024?\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 0"
+    },
+    {
+      "qid": "469292",
+      "question_text": "How many times the AC must have been turned off between 11:01 pm and 1:59 am?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "cannot be determined",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "2",
+          "is_correct": true
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "0",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "1",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "2",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 469292)\n\nHow many times the AC must have been turned off between 11:01 pm and 1:59 am?\n\n**Options:**\n- **A**. cannot be determined\n- **B**. 2 ✅\n- **C**. 0\n- **D**. 1\n\n**Correct Answer:** 2"
+    },
+    {
+      "qid": null,
+      "question_text": "What was the temperature outside, in degree Celsius, at 1 am?",
+      "options": [],
+      "correct_option_data": "34",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nWhat was the temperature outside, in degree Celsius, at 1 am?\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 34"
+    },
+    {
+      "qid": null,
+      "question_text": "What was the temperature outside, in degree Celsius, at 9 pm?",
+      "options": [],
+      "correct_option_data": "42",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nWhat was the temperature outside, in degree Celsius, at 9 pm?\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 42"
+    },
+    {
+      "qid": "469295",
+      "question_text": "What best can be concluded about the number of times the AC must have either been turned on or the AC temperature setting been altered between 11:01 pm and 1:59 am?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "More than 3",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "Either 2 or 3",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "Exactly 2",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "Exactly 3",
+          "is_correct": true
+        }
+      ],
+      "correct_option_data": "4",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 469295)\n\nWhat best can be concluded about the number of times the AC must have either been turned on or the AC temperature setting been altered between 11:01 pm and 1:59 am?\n\n**Options:**\n- **A**. More than 3\n- **B**. Either 2 or 3\n- **C**. Exactly 2\n- **D**. Exactly 3 ✅\n\n**Correct Answer:** 4"
+    },
+    {
+      "qid": null,
+      "question_text": "What was the maximum difference between temperature outside and inside temperature, in degree Celsius, between 11:01 pm and 1:59 am?",
+      "options": [],
+      "correct_option_data": "10",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nWhat was the maximum difference between temperature outside and inside temperature, in degree Celsius, between 11:01 pm and 1:59 am?\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 10"
+    }
+  ]
+}

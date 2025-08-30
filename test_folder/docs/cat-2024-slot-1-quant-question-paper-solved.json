@@ -1,0 +1,532 @@
+{
+  "url": "https://cracku.in/cat-2024-slot-1-quant-question-paper-solved",
+  "num_questions_found": 22,
+  "questions": [
+    {
+      "qid": "469226",
+      "question_text": "Consider two sets A = { 2 , 3 , 5 , 7 , 11 , 13 } $A = \\left\\{2, 3, 5, 7, 11, 13 \\right\\}$ A = { 2 , 3 , 5 , 7 , 1 1 , 1 3 } and B = { 1 , 8 , 27 } $B = \\left\\{1, 8, 27 \\right\\}$ B = { 1 , 8 , 2 7 } . Let f be a function from A to B such that for every element in B, there is at least one element a in A such that f ( a ) = b $f(a) = b$ f ( a ) = b . Then, the total number of such functions f is",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "665",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "667",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "537",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "540",
+          "is_correct": true
+        }
+      ],
+      "correct_option_data": "4",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 469226)\n\nConsider two sets A = { 2 , 3 , 5 , 7 , 11 , 13 } $A = \\left\\{2, 3, 5, 7, 11, 13 \\right\\}$ A = { 2 , 3 , 5 , 7 , 1 1 , 1 3 } and B = { 1 , 8 , 27 } $B = \\left\\{1, 8, 27 \\right\\}$ B = { 1 , 8 , 2 7 } . Let f be a function from A to B such that for every element in B, there is at least one element a in A such that f ( a ) = b $f(a) = b$ f ( a ) = b . Then, the total number of such functions f is\n\n**Options:**\n- **A**. 665\n- **B**. 667\n- **C**. 537\n- **D**. 540 ✅\n\n**Correct Answer:** 4"
+    },
+    {
+      "qid": "469227",
+      "question_text": "Let x , y , $x, y,$ x , y , and z $z$ z be real numbers satisfying 4 ( x 2 + y 2 + z 2 ) = a , $4(x^{2}+y^{2}+z^{2})=a,$ 4 ( x 2 + y 2 + z 2 ) = a , 4 ( x − y − z ) = 3 + a $4(x-y-z)=3+a$ 4 ( x − y − z ) = 3 + a The a equals",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "3 3 3",
+          "is_correct": true
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "1 1 3 1\\dfrac{1}{3} 1 3 1 ​",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "4 4 4",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "1 1 1",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "1",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 469227)\n\nLet x , y , $x, y,$ x , y , and z $z$ z be real numbers satisfying 4 ( x 2 + y 2 + z 2 ) = a , $4(x^{2}+y^{2}+z^{2})=a,$ 4 ( x 2 + y 2 + z 2 ) = a , 4 ( x − y − z ) = 3 + a $4(x-y-z)=3+a$ 4 ( x − y − z ) = 3 + a The a equals\n\n**Options:**\n- **A**. 3 3 3 ✅\n- **B**. 1 1 3 1\\dfrac{1}{3} 1 3 1 ​\n- **C**. 4 4 4\n- **D**. 1 1 1\n\n**Correct Answer:** 1"
+    },
+    {
+      "qid": null,
+      "question_text": "lf the equations x 2 + m x + 9 = 0 , x 2 + n x + 17 = 0 $x^{2}+mx+9=0, x^{2}+nx+17=0$ x 2 + m x + 9 = 0 , x 2 + n x + 1 7 = 0 and x 2 + ( m + n ) x + 35 = 0 $x^{2}+(m+n)x+35=0$ x 2 + ( m + n ) x + 3 5 = 0 have a common negative root, then the value of ( 2 m + 3 n ) $(2m+3n)$ ( 2 m + 3 n ) is",
+      "options": [],
+      "correct_option_data": "38",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nlf the equations x 2 + m x + 9 = 0 , x 2 + n x + 17 = 0 $x^{2}+mx+9=0, x^{2}+nx+17=0$ x 2 + m x + 9 = 0 , x 2 + n x + 1 7 = 0 and x 2 + ( m + n ) x + 35 = 0 $x^{2}+(m+n)x+35=0$ x 2 + ( m + n ) x + 3 5 = 0 have a common negative root, then the value of ( 2 m + 3 n ) $(2m+3n)$ ( 2 m + 3 n ) is\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 38"
+    },
+    {
+      "qid": "469229",
+      "question_text": "Suppose x 1 , x 2 , x 3 , . . . , x 100 $x_{1},x_{2},x_{3},...,x_{100}$ x 1 ​ , x 2 ​ , x 3 ​ , . . . , x 1 0 0 ​ are in arithmetic progression such that x 5 = − 4 $x_{5}=-4$ x 5 ​ = − 4 and 2 x 6 + 2 x 9 = x 11 + x 13 $2x_{6}+2x_{9}=x_{11}+x_{13}$ 2 x 6 ​ + 2 x 9 ​ = x 1 1 ​ + x 1 3 ​ , Then, x 100 $x_{100}$ x 1 0 0 ​ equals",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "-194",
+          "is_correct": true
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "-196",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "204",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "206",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "1",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 469229)\n\nSuppose x 1 , x 2 , x 3 , . . . , x 100 $x_{1},x_{2},x_{3},...,x_{100}$ x 1 ​ , x 2 ​ , x 3 ​ , . . . , x 1 0 0 ​ are in arithmetic progression such that x 5 = − 4 $x_{5}=-4$ x 5 ​ = − 4 and 2 x 6 + 2 x 9 = x 11 + x 13 $2x_{6}+2x_{9}=x_{11}+x_{13}$ 2 x 6 ​ + 2 x 9 ​ = x 1 1 ​ + x 1 3 ​ , Then, x 100 $x_{100}$ x 1 0 0 ​ equals\n\n**Options:**\n- **A**. -194 ✅\n- **B**. -196\n- **C**. 204\n- **D**. 206\n\n**Correct Answer:** 1"
+    },
+    {
+      "qid": null,
+      "question_text": "Renu would take 15 days working 4 hours per day to complete a certain task whereas Seema would take 8 days working 5 hours per day to complete the same task. They decide to work together to complete this task. Seema agrees to work for double the number of hours per day as Renu, while Renu agrees to work for double the number of days as Seema. If Renu works 2 hours per day, then the number of days Seema will work, is",
+      "options": [],
+      "correct_option_data": "6",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nRenu would take 15 days working 4 hours per day to complete a certain task whereas Seema would take 8 days working 5 hours per day to complete the same task. They decide to work together to complete this task. Seema agrees to work for double the number of hours per day as Renu, while Renu agrees to work for double the number of days as Seema. If Renu works 2 hours per day, then the number of days Seema will work, is\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 6"
+    },
+    {
+      "qid": "469231",
+      "question_text": "When 1 0 100 $10^{100}$ 1 0 1 0 0 is divided by 7, the remainder is",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "3",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "4",
+          "is_correct": true
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "1",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "6",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "2",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 469231)\n\nWhen 1 0 100 $10^{100}$ 1 0 1 0 0 is divided by 7, the remainder is\n\n**Options:**\n- **A**. 3\n- **B**. 4 ✅\n- **C**. 1\n- **D**. 6\n\n**Correct Answer:** 2"
+    },
+    {
+      "qid": "469232",
+      "question_text": "The sum of all real values of k for which ( 1 8 ) k × ( 1 32768 ) 1 3 = 1 8 × ( 1 32768 ) 1 k $\\left(\\cfrac{1}{8}\\right)^{k}\\times \\left(\\cfrac{1}{32768}\\right)^{\\cfrac{1}{3}}=\\cfrac{1}{8}\\times \\left(\\cfrac{1}{32768}\\right)^{\\cfrac{1}{k}}$ ( 8 1 ​ ) k × ( 3 2 7 6 8 1 ​ ) 3 1 ​ = 8 1 ​ × ( 3 2 7 6 8 1 ​ ) k 1 ​ , is",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "2 3 \\cfrac{2}{3} 3 2 ​",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "4 3 \\cfrac{4}{3} 3 4 ​",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "− 2 3 -\\cfrac{2}{3} − 3 2 ​",
+          "is_correct": true
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "− 4 3 -\\cfrac{4}{3} − 3 4 ​",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "3",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 469232)\n\nThe sum of all real values of k for which ( 1 8 ) k × ( 1 32768 ) 1 3 = 1 8 × ( 1 32768 ) 1 k $\\left(\\cfrac{1}{8}\\right)^{k}\\times \\left(\\cfrac{1}{32768}\\right)^{\\cfrac{1}{3}}=\\cfrac{1}{8}\\times \\left(\\cfrac{1}{32768}\\right)^{\\cfrac{1}{k}}$ ( 8 1 ​ ) k × ( 3 2 7 6 8 1 ​ ) 3 1 ​ = 8 1 ​ × ( 3 2 7 6 8 1 ​ ) k 1 ​ , is\n\n**Options:**\n- **A**. 2 3 \\cfrac{2}{3} 3 2 ​\n- **B**. 4 3 \\cfrac{4}{3} 3 4 ​\n- **C**. − 2 3 -\\cfrac{2}{3} − 3 2 ​ ✅\n- **D**. − 4 3 -\\cfrac{4}{3} − 3 4 ​\n\n**Correct Answer:** 3"
+    },
+    {
+      "qid": null,
+      "question_text": "For any natural number n $n$ n let a n $a_{n}$ a n ​ be the largest integer not exceeding n $\\sqrt{n}$ n ​ . Then the value of a 1 + a 2 + . . . . . + a 50 $a_{1}+a_{2}+.....+a_{50}$ a 1 ​ + a 2 ​ + . . . . . + a 5 0 ​ is",
+      "options": [],
+      "correct_option_data": "217",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nFor any natural number n $n$ n let a n $a_{n}$ a n ​ be the largest integer not exceeding n $\\sqrt{n}$ n ​ . Then the value of a 1 + a 2 + . . . . . + a 50 $a_{1}+a_{2}+.....+a_{50}$ a 1 ​ + a 2 ​ + . . . . . + a 5 0 ​ is\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 217"
+    },
+    {
+      "qid": "469234",
+      "question_text": "In September, the incomes of Kamal, Amal and Vimal are in the ratio 8 ∶ 6 ∶ 5. They rent a house together, and Kamal pays 15%, Amal pays 12% and Vimal pays 18% of their respective incomes to cover the total house rent in that month. In October, the house rent remains unchanged while their incomes increase by 10%, 12% and 15%, respectively. In October, the percentage of their total income that will be paid as house rent, is nearest to",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "15.18",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "13.26",
+          "is_correct": true
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "14.84",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "12.75",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "2",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 469234)\n\nIn September, the incomes of Kamal, Amal and Vimal are in the ratio 8 ∶ 6 ∶ 5. They rent a house together, and Kamal pays 15%, Amal pays 12% and Vimal pays 18% of their respective incomes to cover the total house rent in that month. In October, the house rent remains unchanged while their incomes increase by 10%, 12% and 15%, respectively. In October, the percentage of their total income that will be paid as house rent, is nearest to\n\n**Options:**\n- **A**. 15.18\n- **B**. 13.26 ✅\n- **C**. 14.84\n- **D**. 12.75\n\n**Correct Answer:** 2"
+    },
+    {
+      "qid": null,
+      "question_text": "The sum of all four-digit numbers that can be formed with the distinct non-zero digits a, b, c, and d, with each digit appearing exactly once in every number, is 153310 + n, where n is a single digit natural number. Then, the value of (a + b + c + d + n) is",
+      "options": [],
+      "correct_option_data": "31",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nThe sum of all four-digit numbers that can be formed with the distinct non-zero digits a, b, c, and d, with each digit appearing exactly once in every number, is 153310 + n, where n is a single digit natural number. Then, the value of (a + b + c + d + n) is\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 31"
+    },
+    {
+      "qid": null,
+      "question_text": "ABCD is a rectangle with sides AB = 56 cm and BC = 45 cm, and E is the midpoint of side CD. Then, the length, in cm, of radius of incircle of △ A D E $\\triangle ADE$ △ A D E is",
+      "options": [],
+      "correct_option_data": "10",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nABCD is a rectangle with sides AB = 56 cm and BC = 45 cm, and E is the midpoint of side CD. Then, the length, in cm, of radius of incircle of △ A D E $\\triangle ADE$ △ A D E is\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 10"
+    },
+    {
+      "qid": "469237",
+      "question_text": "In the XY-plane, the area, in sq. units, of the region defined by the inequalities y ≥ x + 4 $y \\geq x + 4$ y ≥ x + 4 and − 4 ≤ x 2 + y 2 + 4 ( x − y ) ≤ 0 $-4 \\leq x^2 + y^2 + 4(x - y) \\leq 0$ − 4 ≤ x 2 + y 2 + 4 ( x − y ) ≤ 0 is",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "2 π 2 \\pi 2 π",
+          "is_correct": true
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "4 π 4 \\pi 4 π",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "π \\pi π",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "3 π 3 \\pi 3 π",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "1",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 469237)\n\nIn the XY-plane, the area, in sq. units, of the region defined by the inequalities y ≥ x + 4 $y \\geq x + 4$ y ≥ x + 4 and − 4 ≤ x 2 + y 2 + 4 ( x − y ) ≤ 0 $-4 \\leq x^2 + y^2 + 4(x - y) \\leq 0$ − 4 ≤ x 2 + y 2 + 4 ( x − y ) ≤ 0 is\n\n**Options:**\n- **A**. 2 π 2 \\pi 2 π ✅\n- **B**. 4 π 4 \\pi 4 π\n- **C**. π \\pi π\n- **D**. 3 π 3 \\pi 3 π\n\n**Correct Answer:** 1"
+    },
+    {
+      "qid": null,
+      "question_text": "If x is a positive real number such that 4 log ⁡ 10 x + 4 log ⁡ 100 x + 8 log ⁡ 1000 x = 13 $4 \\log_{10} x + 4 \\log_{100} x + 8 \\log_{1000} x = 13$ 4 lo g 1 0 ​ x + 4 lo g 1 0 0 ​ x + 8 lo g 1 0 0 0 ​ x = 1 3 , then the greatest integer not exceeding x, is",
+      "options": [],
+      "correct_option_data": "31",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nIf x is a positive real number such that 4 log ⁡ 10 x + 4 log ⁡ 100 x + 8 log ⁡ 1000 x = 13 $4 \\log_{10} x + 4 \\log_{100} x + 8 \\log_{1000} x = 13$ 4 lo g 1 0 ​ x + 4 lo g 1 0 0 ​ x + 8 lo g 1 0 0 0 ​ x = 1 3 , then the greatest integer not exceeding x, is\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 31"
+    },
+    {
+      "qid": "469239",
+      "question_text": "The selling price of a product is fixed to ensure 40% profit. If the product had cost 40% less and had been sold for 5 rupees less, then the resulting profit would have been 50%. The original selling price, in rupees, of the product is",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "15",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "14",
+          "is_correct": true
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "10",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "20",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "2",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 469239)\n\nThe selling price of a product is fixed to ensure 40% profit. If the product had cost 40% less and had been sold for 5 rupees less, then the resulting profit would have been 50%. The original selling price, in rupees, of the product is\n\n**Options:**\n- **A**. 15\n- **B**. 14 ✅\n- **C**. 10\n- **D**. 20\n\n**Correct Answer:** 2"
+    },
+    {
+      "qid": "469240",
+      "question_text": "A glass is filled with milk. Two-thirds of its content is poured out and replaced with water. If this process of pouring out two-thirds the content and replacing with water is repeated three more times, then the final ratio of milk to water in the glass, is",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "1 : 27",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "1 : 80",
+          "is_correct": true
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "1 : 81",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "1 : 26",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "2",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 469240)\n\nA glass is filled with milk. Two-thirds of its content is poured out and replaced with water. If this process of pouring out two-thirds the content and replacing with water is repeated three more times, then the final ratio of milk to water in the glass, is\n\n**Options:**\n- **A**. 1 : 27\n- **B**. 1 : 80 ✅\n- **C**. 1 : 81\n- **D**. 1 : 26\n\n**Correct Answer:** 2"
+    },
+    {
+      "qid": null,
+      "question_text": "A fruit seller has a total of 187 fruits consisting of apples, mangoes and oranges. The number of apples and mangoes are in the ratio 5 : 2. After she sells 75 apples, 26 mangoes and half of the oranges, the ratio of number of unsold apples to number of unsold oranges becomes 3 : 2. The total number of unsold fruits is",
+      "options": [],
+      "correct_option_data": "66",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nA fruit seller has a total of 187 fruits consisting of apples, mangoes and oranges. The number of apples and mangoes are in the ratio 5 : 2. After she sells 75 apples, 26 mangoes and half of the oranges, the ratio of number of unsold apples to number of unsold oranges becomes 3 : 2. The total number of unsold fruits is\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 66"
+    },
+    {
+      "qid": "469242",
+      "question_text": "Two places A and B are 45 kms apart and connected by a straight road. Anil goes from A to B while Sunil goes from B to A. Starting at the same time, they cross each other in exactly 1 hour 30 minutes. If Anil reaches B exactly 1 hour 15 minutes after Sunil reaches A, the speed of Anil, in km per hour, is",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "18",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "16",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "14",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "12",
+          "is_correct": true
+        }
+      ],
+      "correct_option_data": "4",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 469242)\n\nTwo places A and B are 45 kms apart and connected by a straight road. Anil goes from A to B while Sunil goes from B to A. Starting at the same time, they cross each other in exactly 1 hour 30 minutes. If Anil reaches B exactly 1 hour 15 minutes after Sunil reaches A, the speed of Anil, in km per hour, is\n\n**Options:**\n- **A**. 18\n- **B**. 16\n- **C**. 14\n- **D**. 12 ✅\n\n**Correct Answer:** 4"
+    },
+    {
+      "qid": null,
+      "question_text": "There are four numbers such that average of first two numbers is 1 more than the first number, average of first three numbers is 2 more than average of first two numbers, and average of first four numbers is 3 more than average of first three numbers. Then, the difference between the largest and the smallest numbers, is",
+      "options": [],
+      "correct_option_data": "15",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nThere are four numbers such that average of first two numbers is 1 more than the first number, average of first three numbers is 2 more than average of first two numbers, and average of first four numbers is 3 more than average of first three numbers. Then, the difference between the largest and the smallest numbers, is\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 15"
+    },
+    {
+      "qid": "469244",
+      "question_text": "An amount of Rs 10000 is deposited in bank A for a certain number of years at a simple interest of 5% per annum. On maturity, the total amount received is deposited in bank B for another 5 years at a simple interest of 6% per annum. If the interests received from bank A and bank B are in the ratio 10 : 13, then the investment period, in years, in bank A is",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "4",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "5",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "3",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "6",
+          "is_correct": true
+        }
+      ],
+      "correct_option_data": "4",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 469244)\n\nAn amount of Rs 10000 is deposited in bank A for a certain number of years at a simple interest of 5% per annum. On maturity, the total amount received is deposited in bank B for another 5 years at a simple interest of 6% per annum. If the interests received from bank A and bank B are in the ratio 10 : 13, then the investment period, in years, in bank A is\n\n**Options:**\n- **A**. 4\n- **B**. 5\n- **C**. 3\n- **D**. 6 ✅\n\n**Correct Answer:** 4"
+    },
+    {
+      "qid": "469245",
+      "question_text": "A shop wants to sell a certain quantity (in kg) of grains. It sells half the quantity and an additional 3 kg of these grains to the first customer. Then, it sells half of the remaining quantity and an additional 3 kg of these grains to the second customer. Finally, when the shop sells half of the remaining quantity and an additional 3 kg of these grains to the third customer, there are no grains left. The initial quantity, in kg, of grains is",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "50",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "36",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "42",
+          "is_correct": true
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "18",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "3",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 469245)\n\nA shop wants to sell a certain quantity (in kg) of grains. It sells half the quantity and an additional 3 kg of these grains to the first customer. Then, it sells half of the remaining quantity and an additional 3 kg of these grains to the second customer. Finally, when the shop sells half of the remaining quantity and an additional 3 kg of these grains to the third customer, there are no grains left. The initial quantity, in kg, of grains is\n\n**Options:**\n- **A**. 50\n- **B**. 36\n- **C**. 42 ✅\n- **D**. 18\n\n**Correct Answer:** 3"
+    },
+    {
+      "qid": "469246",
+      "question_text": "If ( a + b n ) $(a + b \\sqrt{n})$ ( a + b n ​ ) is the positive square root of ( 29 − 12 5 ) $(29 - 12\\sqrt{5})$ ( 2 9 − 1 2 5 ​ ) , where a and b are integers, and n is a natural number, then the maximum possible value of ( a + b + n ) $(a + b + n)$ ( a + b + n ) is",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "18",
+          "is_correct": true
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "22",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "4",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "6",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "1",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 469246)\n\nIf ( a + b n ) $(a + b \\sqrt{n})$ ( a + b n ​ ) is the positive square root of ( 29 − 12 5 ) $(29 - 12\\sqrt{5})$ ( 2 9 − 1 2 5 ​ ) , where a and b are integers, and n is a natural number, then the maximum possible value of ( a + b + n ) $(a + b + n)$ ( a + b + n ) is\n\n**Options:**\n- **A**. 18 ✅\n- **B**. 22\n- **C**. 4\n- **D**. 6\n\n**Correct Answer:** 1"
+    },
+    {
+      "qid": "469247",
+      "question_text": "The surface area of a closed rectangular box, which is inscribed in a sphere, is 846 sq cm, and the sum of the lengths of all its edges is 144 cm. The volume, in cubic cm, of the sphere is",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "1125 π \\pi π",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "750 π \\pi π",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "1125 π 2 \\pi \\sqrt{2} π 2 ​",
+          "is_correct": true
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "750 π 2 \\pi \\sqrt{2} π 2 ​",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "3",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 469247)\n\nThe surface area of a closed rectangular box, which is inscribed in a sphere, is 846 sq cm, and the sum of the lengths of all its edges is 144 cm. The volume, in cubic cm, of the sphere is\n\n**Options:**\n- **A**. 1125 π \\pi π\n- **B**. 750 π \\pi π\n- **C**. 1125 π 2 \\pi \\sqrt{2} π 2 ​ ✅\n- **D**. 750 π 2 \\pi \\sqrt{2} π 2 ​\n\n**Correct Answer:** 3"
+    }
+  ]
+}

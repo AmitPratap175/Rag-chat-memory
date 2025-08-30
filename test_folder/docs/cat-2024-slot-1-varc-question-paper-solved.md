@@ -1,0 +1,328 @@
+### Question (qid: 469180)
+
+We can infer from the passage that medieval crafts guilds resembled mass production in that both
+
+**Options:**
+- **A**. did not necessarily promote creativity. ✅
+- **B**. discouraged innovation by restricting entry through strict rules
+- **C**. did not always employ egalitarian production processes.
+- **D**. focused excessively on product quality
+
+**Correct Answer:** 1
+
+---
+
+### Question (qid: 469181)
+
+Which one of the following statements is NOT inconsistent with the views stated in the passage?
+
+**Options:**
+- **A**. We need to support the crafts; only then can we retain the creativity intrinsic to their production.
+- **B**. Creativity in the crafts could be stifled if the market for artisan goods becomes too organised. ✅
+- **C**. The Arts and Crafts movement was initially inspired by the “American system” of production.
+- **D**. The agile movement in software is a throwback to the tenets of the medieval crafts guilds
+
+**Correct Answer:** 2
+
+---
+
+### Question (qid: 469182)
+
+The author questions the ability of crafts to create substantial employment opportunities presently because
+
+**Options:**
+- **A**. the low scale of crafts production will not be able to absorb the mass of redundant labour.
+- **B**. regulatory requirements could make it difficult for small crafts outfits to compete. ✅
+- **C**. workers made redundant by automation are unlikely to opt for crafts-related work.
+- **D**. crafts guilds tend to resist new entrants and are unlikely to accept large numbers of trainees.
+
+**Correct Answer:** 2
+
+---
+
+### Question (qid: 469183)
+
+The most recent revival in interest in the crafts is a result of the emergence of all of the following EXCEPT:
+
+**Options:**
+- **A**. support for individual creations as opposed to mass-produced objects ✅
+- **B**. concerns about the environmental impact of mass production.
+- **C**. a niche market for discerning buyers of quality products.
+- **D**. a greater interest in buying locally produced goods.
+
+**Correct Answer:** 1
+
+---
+
+### Question (qid: 469184)
+
+The passage given below is followed by four alternate summaries. Choose the option that best captures the essence of the passage. Scientific research shows that many animals are very intelligent and have sensory and motor abilities that dwarf ours. Dogs are able to detect diseases such as cancer and diabetes and warn humans of impending heart attacks and strokes. Elephants, whales, hippopotamuses, giraffes, and alligators use low-frequency sounds to communicate over long distances, often miles. Many animals also display wide-ranging emotions, including joy, happiness, empathy, compassion, grief, and even resentment and embarrassment. It’s not surprising that animals share many emotions with us because we also share brain structures, located in the limbic system, that are the seat of our emotions.
+
+**Options:**
+- **A**. The advanced sensory and motor abilities of animals is the reason why they can display wide-ranging emotions
+- **B**. The similarity in brain structure explains why animals show emotions typically associated with humans ✅
+- **C**. Animals can show emotions which are typically associated with humans.
+- **D**. Animals are more intelligent than us in sensing danger and detecting diseases.
+
+**Correct Answer:** 2
+
+---
+
+### Question (qid: 469185)
+
+We can infer from the passage that the term '‘homo economicus” refers to someone who
+
+**Options:**
+- **A**. is not influenced by the preferences and choices of others.
+- **B**. believes in borrowing and collaborating with other disciplines in their work.
+- **C**. makes rational decisions based on their own preferences. ✅
+- **D**. maximises their opportunities based on nonmarket choices.
+
+**Correct Answer:** 3
+
+---
+
+### Question (qid: 469186)
+
+“Times have changed for the once almighty discipline.” We can infer from this statement and the associated paragraph that the author is being
+
+**Options:**
+- **A**. sarcastic about how economists, who earlier shunned other disciplines, are now beginning to incorporate them in their analyses ✅
+- **B**. disparaging of economists’ inability to precisely predict market behaviour, and are now borrowing from other disciplines to remedy this
+- **C**. judgemental about the ability of economic tools to accurately manage crises leading to the downfall of this lofty science.
+- **D**. critical of economists’ openly borrowing and collaborating across disciplines to explain how humans make decisions
+
+**Correct Answer:** 1
+
+---
+
+### Question (qid: 469187)
+
+The author critiques Schiller’s approach to behavioural economics for
+
+**Options:**
+- **A**. ignoring the marginal role that media and politics play in influencing people’s behaviour.
+- **B**. denigrating the role of institutions while creating a link between behavioural economics and perceptions
+- **C**. linking emotions and rational behaviour without considering the mediation of social institutions. ✅
+- **D**. relying excessively on storytelling as the main influence on the formation of perceptions.
+
+**Correct Answer:** 3
+
+---
+
+### Question (qid: 469188)
+
+In the first paragraph the author is making the point that economists like Becker
+
+**Options:**
+- **A**. benefitted from the application of their principles and concepts to non-economic phenomena.
+- **B**. had begun to borrow concepts from other disciplines but were averse to the latter applying economic principles.
+- **C**. used economics to analyse non-market behaviour, without incorporating perspectives from other areas of inquiry. ✅
+- **D**. tended to guard their discipline from poaching by academics from other subject areas.
+
+**Correct Answer:** 3
+
+---
+
+### Question (qid: 469189)
+
+There is a sentence that is missing in the paragraph below. Look at the paragraph and decide where (option 1, 2, 3, or 4) the following sentence would best fit. Sentence : Comprehending a wide range of emotions, Renaissance music nevertheless portrayed all emotions in a balanced and moderate fashion. Paragraph : A volume of translated Italian madrigals were published in London during the year of 1588. This sudden public interest facilitated a surge of English Madrigal writing as well as a spurt of other secular music writing and publication. ___(1)___. This music boom lasted for thirty years and was as much a golden age of music as British literature was with Shakespeare and Queen Elizabeth I. ___(2)___. The rebirth in both literature and music originated in Italy and migrated to England; the English madrigal became more humorous and lighter in England as compared to Italy. Renaissance music was mostly polyphonic in texture. ___(3)___. Extreme use of and contrasts in dynamics, rhythm, and tone colour do not occur. ___(4)___. The rhythms in Renaissance music tend to have a smooth, soft flow instead of a sharp, well-defined pulse of accents.
+
+**Options:**
+- **A**. Option 1
+- **B**. Option 3 ✅
+- **C**. Option 4
+- **D**. Option 2
+
+**Correct Answer:** 2
+
+---
+
+### Question (qid: 469190)
+
+There is a sentence that is missing in the paragraph below. Look at the paragraph and decide where (option 1, 2, 3, or 4) the following sentence would best fit. Sentence : Understanding central Asia’s role helps developments make more sense not only across Asia but in Europe, the Americas and Africa. Paragraph : The nations of the Silk Roads are sometimes called ‘developing countries’, but they are actually some of the world’s most highly developed countries, the very crossroads of civilization, in advanced states of disrepair. ___(1)___. These countries lie at the centre of global affairs: they have since the beginning of history. Running across the spine of Asia, they form a web of connections fanning out in every direction, routes along which pilgrims and warriors, nomads and merchants have travelled, goods and produce have been bought and sold, and ideas exchanged, adapted and refined. ___(2)___ .They have carried not only prosperity, but also death and violence, disease and disaster. ___(3)___. The Silk Roads are the world’s central nervous system, connecting otherwise far-flung peoples and places…. ___(4)___. It allows us to see patterns and links, causes and effects that remain invisible if one looks only at Europe, or North America.
+
+**Options:**
+- **A**. Option 3
+- **B**. Option 2
+- **C**. Option 1
+- **D**. Option 4 ✅
+
+**Correct Answer:** 4
+
+---
+
+### Question
+
+Five jumbled up sentences (labelled 1, 2, 3, 4 and 5), related to a topic, are given below. Four of them can be put together to form a coherent paragraph. Identify the odd sentence and key in the number of that sentence as your answer. 1. Urbanites also have more and better options for getting around: Uber is ubiquitous; easy-to-rent dockless bicycles are spreading; battery-powered scooters will be next. 2. When more people use buses or trains the service usually improves because public-transport agencies run more buses and trains. 3. Worsening services on public transport, terrorist attacks in some urban metros and a rise in fares have been blamed for this trend. 4. It seems more likely that public transport is being squeezed structurally as people’s need to travel is diminishing as a result of smartphones, videoconferencing, online shopping and so on. 5. There has been a puzzling decline in the use of urban public transport in many countries in the west, despite the growth in urban populations and rising employment.
+
+**Options:** _none listed on page_
+
+**Correct Answer:** 2
+
+---
+
+### Question (qid: 469192)
+
+According to the text, the western barred bandicoots now have a flattering name because they have
+
+**Options:**
+- **A**. aided in altering an arid environment. ✅
+- **B**. led a revival in preserving the species.
+- **C**. grown fivefold in terms of population
+- **D**. led to a surge and increase of rainfall
+
+**Correct Answer:** 1
+
+---
+
+### Question (qid: 469193)
+
+Which one of the following options does NOT represent the characteristics of the western barred bandicoot?
+
+**Options:**
+- **A**. Shallow diggers having an elongated muzzle
+- **B**. Smallest black striped marsupial that uses camouflage and dig ✅
+- **C**. Look of a rat but with a baby pouch and a slender snout
+- **D**. Long thin nose, black striped back, pouch for joeys
+
+**Correct Answer:** 2
+
+---
+
+### Question (qid: 469194)
+
+The text uses the word ‘exclosures’ because Wild Deserts has adopted a measure of
+
+**Options:**
+- **A**. restoring cattle damaged deserts to green landscapes.
+- **B**. ridding the main desert of feral cats and large bilbies
+- **C**. excluding animals to make the islands predator-free.
+- **D**. barring the entry of invasive species. ✅
+
+**Correct Answer:** 4
+
+---
+
+### Question (qid: 469195)
+
+Which one of the following statements provides a gist of this passage?
+
+**Options:**
+- **A**. The onslaught of animals, such as cattle, rabbits and housecats, brought in by the British led to the extinction of the western barred bandicoot.
+- **B**. The negligent attitude of the British colonists towards these bandicoots evidenced by the names given to them led to their annihilation.
+- **C**. Marsupials are going extinct due to the colonial era transformation of the ecosystem which also destroyed natural vegetation
+- **D**. A type of bandicoots was nearly wiped out by invasive species but rescuers now pin hopes on a remnant island population. ✅
+
+**Correct Answer:** 4
+
+---
+
+### Question (qid: 469196)
+
+The passage given below is followed by four alternate summaries. Choose the option that best captures the essence of the passage. Cartographers design and create maps to communicate information about phenomena located somewhere on our planet. In the past, cartographers did not worry too much about who was going to read their maps. Although some simple “usability” research was done—like comparing whether circle or bar symbols worked best—cartographers knew how to make maps. This has changed now, however, due to all kinds of societal and technological developments. Today, map readers are more demanding—mostly because of the tools they use to read maps. Cartographers, who are also influenced by these trends, are now more interested in seeing if their products are efficient, effective, and appreciated.
+
+**Options:**
+- **A**. Today, cartographers also need to look into the usability of maps because of the new technological developments. ✅
+- **B**. Modern mapmakers evaluate a map’s effectiveness efficiency and satisfaction of the user through a series of experiments
+- **C**. Maps are being used for a variety of reasons and therefore map readers have become more demanding
+- **D**. New technological developments have prompted cartographers to experiment with their maps by applying these new innovations.
+
+**Correct Answer:** 1
+
+---
+
+### Question (qid: 469197)
+
+There is a sentence that is missing in the paragraph below. Look at the paragraph and decide where (option 1, 2, 3, or 4) the following sentence would best fit. Sentence: The brain isn’t organized the way you might set up your home office or bathroom medicine cabinet. Paragraph : ___(1)___. You can’t just put things anywhere you want to. The evolved architecture of the brain is haphazard and disjointed, and incorporates multiple systems, each of which has a mind of its own. ___(2)___. Evolution doesn’t design things and it doesn’t build systems—it settles on systems that, historically, conveyed a survival benefit. There is no overarching, grand planner engineering the systems so that they work harmoniously together. ___(3)___. The brain is more like a big, old house with piecemeal renovations done on every floor, and less like new construction. ___(4)___.
+
+**Options:**
+- **A**. Option 4
+- **B**. Option 1 ✅
+- **C**. Option 2
+- **D**. Option 3
+
+**Correct Answer:** 2
+
+---
+
+### Question (qid: 469198)
+
+The passage given below is followed by four alternate summaries. Choose the option that best captures the essence of the passage. Certain codes may, of course, be so widely distributed in a specific language community or culture, and be learned at so early an age, that they appear not to be constructed - the effect of an articulation between sign and referent - but to be ‘naturally’ given. Simple visual signs appear to have achieved a ‘near-universality’ in this sense: though evidence remains that even apparently ‘natural’ visual codes are culture specific. However, this does not mean that no codes have intervened; rather, that the codes have been profoundly naturalized. The operation of naturalized codes reveals not the transparency and ‘naturalness’ of language but the depth, the habituation and the near-universality of the codes in use. They produce apparently ‘natural’ recognitions. This has the (ideological) effect of concealing the practices of coding which are present.
+
+**Options:**
+- **A**. Learning linguistic and visual signs at an early age makes all such codes appear natural. This naturalization of codes is the effect of ideology.
+- **B**. Not all codes are natural but certain codes are naturalized and made to appear universal. Ideology aims to hide the mechanism of coding behind signs.
+- **C**. Language and visual signs are codes. However, some of the codes are so widespread that they not only seem naturally given but also hide the mechanism of coding behind the signs. ✅
+- **D**. All codes, linguistic and visual, have a natural origin but some are so widespread that they become universal. This is what hides the mechanism of coding behind signs.
+
+**Correct Answer:** 3
+
+---
+
+### Question
+
+Five jumbled up sentences (labelled 1, 2, 3, 4 and 5), related to a topic, are given below. Four of them can be put together to form a coherent paragraph. Identify the odd sentence and key in the number of that sentence as your answer. 1. Animals have an interest in fulfilling their basic needs, but also in avoiding suffering, and thus we ought to extend moral consideration. 2. Singer viewed himself as a utilitarian, and presents a direct moral theory concerning animal rights, in contrast to indirect positions, such as welfarist views. 3. He argued for extending moral consideration to animals because, similar to humans, animals have certain significant interests. 4. The event that publicly announced animal rights as a legitimate issue within contemporary philosophy was Peter Singer’s Animal Liberation text in 1975. 5. As such, we ought to view their interests alongside and equal to human interests, which results in humans having direct moral duties towards animals.
+
+**Options:** _none listed on page_
+
+**Correct Answer:** 1
+
+---
+
+### Question (qid: 469200)
+
+Which one of the following statements about art best captures the arguments made in the passage?
+
+**Options:**
+- **A**. In the age of online subscription services, it is time to change our understanding of classic works of art being primarily immutable and easily available to the public
+- **B**. As art is increasingly created, stored and distributed digitally, access to it is counterintuitively likely to be made more difficult by the rapid churn in technology and the whims of host platforms. ✅
+- **C**. Accepting retroactive changes to works of art is dangerous because it will encourage creators to not put enough effort into the original attempt, given that they can always edit or update their work later
+- **D**. Works of art belong to the cultural commons and hence must remain available in perpetuity, irrespective of who pays for access to them.
+
+**Correct Answer:** 2
+
+---
+
+### Question (qid: 469201)
+
+Which one of the following statements, if true, would best invalidate the main argument of the passage?
+
+**Options:**
+- **A**. Recent research has irrefutably proven that Blu-Ray discs have a shelf life of at least 100 years.
+- **B**. Studios and streaming services have committed to giving customers perpetual and platform independent access to the original digital content they have paid for. ✅
+- **C**. When moving to a different geographical location, customers can easily use Virtual Private Networks (VPNs) to bypass geo-blocking and regain access to their content on any streaming service.
+- **D**. Improved cloud storage services have made it possible for movie collections to now be preserved in perpetuity, without the need to keep migrating the files.
+
+**Correct Answer:** 2
+
+---
+
+### Question (qid: 469202)
+
+Which of the following statements is suggested by the sentence “Back then, at least, cinema was defined by its ephemerality: the sense that a film was as good as gone once it left your local cinema”?
+
+**Options:**
+- **A**. Around a century ago, people were more accepting of not having access to films once they left the local cinema.
+- **B**. Today, films are expected to be available for a long time, since they are no longer tied solely to their stay at the local cinema ✅
+- **C**. Cinema is now no longer as ephemeral as it used to be earlier, because the technology used for creating and preserving films has improved manifold
+- **D**. Presently, there is no reason why film studios should remove access to films once they have left the local cinema
+
+**Correct Answer:** 2
+
+---
+
+### Question (qid: 469203)
+
+“Netflix had begun editing old episodes of Stranger Things to retroactively improve their visual effects.” What is the purpose of this example used in the passage?
+
+**Options:**
+- **A**. To show that streaming services are controlling access to the cultural commons rather than expanding it.
+- **B**. To show how unsubstantiated reports are leading to an increase in the level of distrust towards streaming services
+- **C**. To show a practice that justifies the fears of people who feel streaming services cannot be trusted to be custodians of cultural artefacts like film. ✅
+- **D**. To show that art in the digital age, specifically film, is no longer sacrosanct, and may be changed to suit changing tastes or technology
+
+**Correct Answer:** 3
+
+---
+

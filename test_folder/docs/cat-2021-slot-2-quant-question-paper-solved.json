@@ -1,0 +1,532 @@
+{
+  "url": "https://cracku.in/cat-2021-slot-2-quant-question-paper-solved",
+  "num_questions_found": 22,
+  "questions": [
+    {
+      "qid": null,
+      "question_text": "For all possible integers n satisfying 2.25 ≤ 2 + 2 n + 2 ≤ 202 $2.25\\leq2+2^{n+2}\\leq202$ 2 . 2 5 ≤ 2 + 2 n + 2 ≤ 2 0 2 , then the number of integer values of 3 + 3 n + 1 $3+3^{n+1}$ 3 + 3 n + 1 is:",
+      "options": [],
+      "correct_option_data": "7",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nFor all possible integers n satisfying 2.25 ≤ 2 + 2 n + 2 ≤ 202 $2.25\\leq2+2^{n+2}\\leq202$ 2 . 2 5 ≤ 2 + 2 n + 2 ≤ 2 0 2 , then the number of integer values of 3 + 3 n + 1 $3+3^{n+1}$ 3 + 3 n + 1 is:\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 7"
+    },
+    {
+      "qid": "386440",
+      "question_text": "Three positive integers x, y and z are in arithmetic progression. If y − x > 2 $y-x>2$ y − x > 2 and x y z = 5 ( x + y + z ) $xyz=5(x+y+z)$ x y z = 5 ( x + y + z ) , then z-x equals",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "8",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "12",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "14",
+          "is_correct": true
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "10",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "3",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 386440)\n\nThree positive integers x, y and z are in arithmetic progression. If y − x > 2 $y-x>2$ y − x > 2 and x y z = 5 ( x + y + z ) $xyz=5(x+y+z)$ x y z = 5 ( x + y + z ) , then z-x equals\n\n**Options:**\n- **A**. 8\n- **B**. 12\n- **C**. 14 ✅\n- **D**. 10\n\n**Correct Answer:** 3"
+    },
+    {
+      "qid": null,
+      "question_text": "For a 4-digit number, the sum of its digits in the thousands, hundreds and tens places is 14, the sum of its digits in the hundreds, tens and units places is 15, and the tens place digit is 4 more than the units place digit. Then the highest possible 4-digit number satisfying the above conditions is",
+      "options": [],
+      "correct_option_data": "4195",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nFor a 4-digit number, the sum of its digits in the thousands, hundreds and tens places is 14, the sum of its digits in the hundreds, tens and units places is 15, and the tens place digit is 4 more than the units place digit. Then the highest possible 4-digit number satisfying the above conditions is\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 4195"
+    },
+    {
+      "qid": "386442",
+      "question_text": "Raj invested ₹ 10000 in a fund. At the end of first year, he incurred a loss but his balance was more than ₹ 5000. This balance, when invested for another year, grew and the percentage of growth in the second year was five times the percentage of loss in the first year. If the gain of Raj from the initial investment over the two year period is 35%, then the percentage of loss in the first year is",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "5",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "15",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "17",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "10",
+          "is_correct": true
+        }
+      ],
+      "correct_option_data": "4",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 386442)\n\nRaj invested ₹ 10000 in a fund. At the end of first year, he incurred a loss but his balance was more than ₹ 5000. This balance, when invested for another year, grew and the percentage of growth in the second year was five times the percentage of loss in the first year. If the gain of Raj from the initial investment over the two year period is 35%, then the percentage of loss in the first year is\n\n**Options:**\n- **A**. 5\n- **B**. 15\n- **C**. 17\n- **D**. 10 ✅\n\n**Correct Answer:** 4"
+    },
+    {
+      "qid": null,
+      "question_text": "The number of ways of distributing 15 identical balloons, 6 identical pencils and 3 identical erasers among 3 children, such that each child gets at least four balloons and one pencil, is",
+      "options": [],
+      "correct_option_data": "1000",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nThe number of ways of distributing 15 identical balloons, 6 identical pencils and 3 identical erasers among 3 children, such that each child gets at least four balloons and one pencil, is\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 1000"
+    },
+    {
+      "qid": "386444",
+      "question_text": "Two trains A and B were moving in opposite directions, their speeds being in the ratio 5 : 3. The front end of A crossed the rear end of B 46 seconds after the front ends of the trains had crossed each other. It took another 69 seconds for the rear ends of the trains to cross each other. The ratio of length of train A to that of train B is",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "3:2",
+          "is_correct": true
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "5:3",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "2:3",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "2:1",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "1",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 386444)\n\nTwo trains A and B were moving in opposite directions, their speeds being in the ratio 5 : 3. The front end of A crossed the rear end of B 46 seconds after the front ends of the trains had crossed each other. It took another 69 seconds for the rear ends of the trains to cross each other. The ratio of length of train A to that of train B is\n\n**Options:**\n- **A**. 3:2 ✅\n- **B**. 5:3\n- **C**. 2:3\n- **D**. 2:1\n\n**Correct Answer:** 1"
+    },
+    {
+      "qid": "386445",
+      "question_text": "Suppose one of the roots of the equation a x 2 − b x + c = 0 $ax^{2}-bx+c=0$ a x 2 − b x + c = 0 is 2 + 3 $2+\\sqrt{3}$ 2 + 3 ​ , Where a,b and c are rational numbers and a ≠ 0 $a\\neq0$ a  ​ = 0 . If b = c 3 $b=c^{3}$ b = c 3 then ∣ a ∣ $\\mid a\\mid$ ∣ a ∣ equals.",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "1",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "2",
+          "is_correct": true
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "3",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "4",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "2",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 386445)\n\nSuppose one of the roots of the equation a x 2 − b x + c = 0 $ax^{2}-bx+c=0$ a x 2 − b x + c = 0 is 2 + 3 $2+\\sqrt{3}$ 2 + 3 ​ , Where a,b and c are rational numbers and a ≠ 0 $a\\neq0$ a  ​ = 0 . If b = c 3 $b=c^{3}$ b = c 3 then ∣ a ∣ $\\mid a\\mid$ ∣ a ∣ equals.\n\n**Options:**\n- **A**. 1\n- **B**. 2 ✅\n- **C**. 3\n- **D**. 4\n\n**Correct Answer:** 2"
+    },
+    {
+      "qid": null,
+      "question_text": "From a container filled with milk, 9 litres of milk are drawn and replaced with water. Next, from the same container, 9 litres are drawn and again replaced with water. If the volumes of milk and water in the container are now in the ratio of 16 : 9, then the capacity of the container, in litres, is",
+      "options": [],
+      "correct_option_data": "45",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nFrom a container filled with milk, 9 litres of milk are drawn and replaced with water. Next, from the same container, 9 litres are drawn and again replaced with water. If the volumes of milk and water in the container are now in the ratio of 16 : 9, then the capacity of the container, in litres, is\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 45"
+    },
+    {
+      "qid": "386447",
+      "question_text": "If a rhombus has area 12 sq cm and side length 5 cm, then the length, in cm, of its longer diagonal is",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "37 + 13 \\sqrt{37}+\\sqrt{13} 3 7 ​ + 1 3 ​",
+          "is_correct": true
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "13 + 12 \\sqrt{13}+\\sqrt{12} 1 3 ​ + 1 2 ​",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "37 + 13 2 \\frac{\\sqrt{37}+\\sqrt{13}}{2} 2 3 7 ​ + 1 3 ​ ​",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "13 + 12 2 \\frac{\\sqrt{13}+\\sqrt{12}}{2} 2 1 3 ​ + 1 2 ​ ​",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "1",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 386447)\n\nIf a rhombus has area 12 sq cm and side length 5 cm, then the length, in cm, of its longer diagonal is\n\n**Options:**\n- **A**. 37 + 13 \\sqrt{37}+\\sqrt{13} 3 7 ​ + 1 3 ​ ✅\n- **B**. 13 + 12 \\sqrt{13}+\\sqrt{12} 1 3 ​ + 1 2 ​\n- **C**. 37 + 13 2 \\frac{\\sqrt{37}+\\sqrt{13}}{2} 2 3 7 ​ + 1 3 ​ ​\n- **D**. 13 + 12 2 \\frac{\\sqrt{13}+\\sqrt{12}}{2} 2 1 3 ​ + 1 2 ​ ​\n\n**Correct Answer:** 1"
+    },
+    {
+      "qid": null,
+      "question_text": "If log ⁡ 2 [ 3 + log ⁡ 3 { 4 + log ⁡ 4 ( x − 1 ) } ] − 2 = 0 $\\log_{2}[3+\\log_{3} \\left\\{4+\\log_{4}(x-1) \\right\\}]-2=0$ lo g 2 ​ [ 3 + lo g 3 ​ { 4 + lo g 4 ​ ( x − 1 ) } ] − 2 = 0 then 4x equals",
+      "options": [],
+      "correct_option_data": "5",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nIf log ⁡ 2 [ 3 + log ⁡ 3 { 4 + log ⁡ 4 ( x − 1 ) } ] − 2 = 0 $\\log_{2}[3+\\log_{3} \\left\\{4+\\log_{4}(x-1) \\right\\}]-2=0$ lo g 2 ​ [ 3 + lo g 3 ​ { 4 + lo g 4 ​ ( x − 1 ) } ] − 2 = 0 then 4x equals\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 5"
+    },
+    {
+      "qid": "386449",
+      "question_text": "The sides AB and CD of a trapezium ABCD are parallel, with AB being the smaller side. P is the midpoint of CD and ABPD is a parallelogram. If the difference between the areas of the parallelogram ABPD and the triangle BPC is 10 sq cm, then the area, in sq cm, of the trapezium ABCD is",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "30",
+          "is_correct": true
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "40",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "25",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "20",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "1",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 386449)\n\nThe sides AB and CD of a trapezium ABCD are parallel, with AB being the smaller side. P is the midpoint of CD and ABPD is a parallelogram. If the difference between the areas of the parallelogram ABPD and the triangle BPC is 10 sq cm, then the area, in sq cm, of the trapezium ABCD is\n\n**Options:**\n- **A**. 30 ✅\n- **B**. 40\n- **C**. 25\n- **D**. 20\n\n**Correct Answer:** 1"
+    },
+    {
+      "qid": "386450",
+      "question_text": "For all real values of x, the range of the function f ( x ) = x 2 + 2 x + 4 2 x 2 + 4 x + 9 $f(x)=\\frac{x^{2}+2x+4}{2x^{2}+4x+9}$ f ( x ) = 2 x 2 + 4 x + 9 x 2 + 2 x + 4 ​ is:",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "[ 4 9 , 8 9 ] [\\frac{4}{9},\\frac{8}{9}] [ 9 4 ​ , 9 8 ​ ]",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "[ 3 7 , 8 9 ) [\\frac{3}{7},\\frac{8}{9}) [ 7 3 ​ , 9 8 ​ )",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "( 3 7 , 1 2 ) (\\frac{3}{7},\\frac{1}{2}) ( 7 3 ​ , 2 1 ​ )",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "[ 3 7 , 1 2 ) [\\frac{3}{7},\\frac{1}{2}) [ 7 3 ​ , 2 1 ​ )",
+          "is_correct": true
+        }
+      ],
+      "correct_option_data": "4",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 386450)\n\nFor all real values of x, the range of the function f ( x ) = x 2 + 2 x + 4 2 x 2 + 4 x + 9 $f(x)=\\frac{x^{2}+2x+4}{2x^{2}+4x+9}$ f ( x ) = 2 x 2 + 4 x + 9 x 2 + 2 x + 4 ​ is:\n\n**Options:**\n- **A**. [ 4 9 , 8 9 ] [\\frac{4}{9},\\frac{8}{9}] [ 9 4 ​ , 9 8 ​ ]\n- **B**. [ 3 7 , 8 9 ) [\\frac{3}{7},\\frac{8}{9}) [ 7 3 ​ , 9 8 ​ )\n- **C**. ( 3 7 , 1 2 ) (\\frac{3}{7},\\frac{1}{2}) ( 7 3 ​ , 2 1 ​ )\n- **D**. [ 3 7 , 1 2 ) [\\frac{3}{7},\\frac{1}{2}) [ 7 3 ​ , 2 1 ​ ) ✅\n\n**Correct Answer:** 4"
+    },
+    {
+      "qid": "386451",
+      "question_text": "For a sequence of real numbers x 1 , x 2 , . . . x n $x_{1},x_{2},...x_{n}$ x 1 ​ , x 2 ​ , . . . x n ​ , If x 1 − x 2 + x 3 − . . . . + ( − 1 ) n + 1 x n = n 2 + 2 n $x_{1}-x_{2}+x_{3}-....+(-1)^{n+1}x_{n}=n^{2}+2n$ x 1 ​ − x 2 ​ + x 3 ​ − . . . . + ( − 1 ) n + 1 x n ​ = n 2 + 2 n for all natural numbers n, then the sum x 49 + x 50 $x_{49}+x_{50}$ x 4 9 ​ + x 5 0 ​ equals",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "200",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "2",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "-200",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "-2",
+          "is_correct": true
+        }
+      ],
+      "correct_option_data": "4",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 386451)\n\nFor a sequence of real numbers x 1 , x 2 , . . . x n $x_{1},x_{2},...x_{n}$ x 1 ​ , x 2 ​ , . . . x n ​ , If x 1 − x 2 + x 3 − . . . . + ( − 1 ) n + 1 x n = n 2 + 2 n $x_{1}-x_{2}+x_{3}-....+(-1)^{n+1}x_{n}=n^{2}+2n$ x 1 ​ − x 2 ​ + x 3 ​ − . . . . + ( − 1 ) n + 1 x n ​ = n 2 + 2 n for all natural numbers n, then the sum x 49 + x 50 $x_{49}+x_{50}$ x 4 9 ​ + x 5 0 ​ equals\n\n**Options:**\n- **A**. 200\n- **B**. 2\n- **C**. -200\n- **D**. -2 ✅\n\n**Correct Answer:** 4"
+    },
+    {
+      "qid": "386452",
+      "question_text": "For a real number x the condition ∣ 3 x − 20 ∣ + ∣ 3 x − 40 ∣ = 20 $\\mid3x-20\\mid+\\mid3x-40\\mid=20$ ∣ 3 x − 2 0 ∣ + ∣ 3 x − 4 0 ∣ = 2 0 necessarily holds if",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "10 < x < 15 10<x<15 1 0 < x < 1 5",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "9 < x < 14 9<x<14 9 < x < 1 4",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "7 < x < 12 7<x<12 7 < x < 1 2",
+          "is_correct": true
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "6 < x < 11 6<x<11 6 < x < 1 1",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "3",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 386452)\n\nFor a real number x the condition ∣ 3 x − 20 ∣ + ∣ 3 x − 40 ∣ = 20 $\\mid3x-20\\mid+\\mid3x-40\\mid=20$ ∣ 3 x − 2 0 ∣ + ∣ 3 x − 4 0 ∣ = 2 0 necessarily holds if\n\n**Options:**\n- **A**. 10 < x < 15 10<x<15 1 0 < x < 1 5\n- **B**. 9 < x < 14 9<x<14 9 < x < 1 4\n- **C**. 7 < x < 12 7<x<12 7 < x < 1 2 ✅\n- **D**. 6 < x < 11 6<x<11 6 < x < 1 1\n\n**Correct Answer:** 3"
+    },
+    {
+      "qid": "386453",
+      "question_text": "Anil can paint a house in 60 days while Bimal can paint it in 84 days. Anil starts painting and after 10 days, Bimal and Charu join him. Together, they complete the painting in 14 more days. If they are paid a total of ₹ 21000 for the job, then the share of Charu, in INR, proportionate to the work done by him, is",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "9000",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "9200",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "9100",
+          "is_correct": true
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "9150",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "3",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 386453)\n\nAnil can paint a house in 60 days while Bimal can paint it in 84 days. Anil starts painting and after 10 days, Bimal and Charu join him. Together, they complete the painting in 14 more days. If they are paid a total of ₹ 21000 for the job, then the share of Charu, in INR, proportionate to the work done by him, is\n\n**Options:**\n- **A**. 9000\n- **B**. 9200\n- **C**. 9100 ✅\n- **D**. 9150\n\n**Correct Answer:** 3"
+    },
+    {
+      "qid": null,
+      "question_text": "A box has 450 balls, each either white or black, there being as many metallic white balls as metallic black balls. If 40% of the white balls and 50% of the black balls are metallic, then the number of non-metallic balls in the box is",
+      "options": [],
+      "correct_option_data": "250",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nA box has 450 balls, each either white or black, there being as many metallic white balls as metallic black balls. If 40% of the white balls and 50% of the black balls are metallic, then the number of non-metallic balls in the box is\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 250"
+    },
+    {
+      "qid": null,
+      "question_text": "In a football tournament, a player has played a certain number of matches and 10 more matches are to be played. If he scores a total of one goal over the next 10 matches, his overall average will be 0.15 goals per match. On the other hand, if he scores a total of two goals over the next 10 matches, his overall average will be 0.2 goals per match. The number of matches he has played is",
+      "options": [],
+      "correct_option_data": "10",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nIn a football tournament, a player has played a certain number of matches and 10 more matches are to be played. If he scores a total of one goal over the next 10 matches, his overall average will be 0.15 goals per match. On the other hand, if he scores a total of two goals over the next 10 matches, his overall average will be 0.2 goals per match. The number of matches he has played is\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 10"
+    },
+    {
+      "qid": "386456",
+      "question_text": "A person buys tea of three different qualities at ₹ 800, ₹ 500, and ₹ 300 per kg, respectively, and the amounts bought are in the proportion 2 : 3 : 5. She mixes all the tea and sells one-sixth of the mixture at ₹ 700 per kg. The price, in INR per kg, at which she should sell the remaining tea, to make an overall profit of 50%, is",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "653",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "688",
+          "is_correct": true
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "692",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "675",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "2",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 386456)\n\nA person buys tea of three different qualities at ₹ 800, ₹ 500, and ₹ 300 per kg, respectively, and the amounts bought are in the proportion 2 : 3 : 5. She mixes all the tea and sells one-sixth of the mixture at ₹ 700 per kg. The price, in INR per kg, at which she should sell the remaining tea, to make an overall profit of 50%, is\n\n**Options:**\n- **A**. 653\n- **B**. 688 ✅\n- **C**. 692\n- **D**. 675\n\n**Correct Answer:** 2"
+    },
+    {
+      "qid": "386457",
+      "question_text": "Consider the pair of equations: x 2 − x y − x = 22 $x^{2}-xy-x=22$ x 2 − x y − x = 2 2 and y 2 − x y + y = 34 $y^{2}-xy+y=34$ y 2 − x y + y = 3 4 . If x > y $x>y$ x > y , then x − y $x-y$ x − y equals",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "6",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "4",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "7",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "8",
+          "is_correct": true
+        }
+      ],
+      "correct_option_data": "4",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 386457)\n\nConsider the pair of equations: x 2 − x y − x = 22 $x^{2}-xy-x=22$ x 2 − x y − x = 2 2 and y 2 − x y + y = 34 $y^{2}-xy+y=34$ y 2 − x y + y = 3 4 . If x > y $x>y$ x > y , then x − y $x-y$ x − y equals\n\n**Options:**\n- **A**. 6\n- **B**. 4\n- **C**. 7\n- **D**. 8 ✅\n\n**Correct Answer:** 4"
+    },
+    {
+      "qid": null,
+      "question_text": "Let D and E be points on sides AB and AC, respectively, of a triangle ABC, such that AD : BD = 2 : 1 and AE : CE = 2 : 3. If the area of the triangle ADE is 8 sq cm, then the area of the triangle ABC, in sq cm, is",
+      "options": [],
+      "correct_option_data": "30",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nLet D and E be points on sides AB and AC, respectively, of a triangle ABC, such that AD : BD = 2 : 1 and AE : CE = 2 : 3. If the area of the triangle ADE is 8 sq cm, then the area of the triangle ABC, in sq cm, is\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 30"
+    },
+    {
+      "qid": "386459",
+      "question_text": "Anil, Bobby, and Chintu jointly invest in a business and agree to share the overall profit in proportion to their investments. Anil’s share of investment is 70%. His share of profit decreases by ₹ 420 if the overall profit goes down from 18% to 15%. Chintu’s share of profit increases by ₹ 80 if the overall profit goes up from 15% to 17%. The amount, in INR, invested by Bobby is",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "2000",
+          "is_correct": true
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "2400",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "2200",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "1800",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "1",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 386459)\n\nAnil, Bobby, and Chintu jointly invest in a business and agree to share the overall profit in proportion to their investments. Anil’s share of investment is 70%. His share of profit decreases by ₹ 420 if the overall profit goes down from 18% to 15%. Chintu’s share of profit increases by ₹ 80 if the overall profit goes up from 15% to 17%. The amount, in INR, invested by Bobby is\n\n**Options:**\n- **A**. 2000 ✅\n- **B**. 2400\n- **C**. 2200\n- **D**. 1800\n\n**Correct Answer:** 1"
+    },
+    {
+      "qid": "386460",
+      "question_text": "Two pipes A and B are attached to an empty water tank. Pipe A fills the tank while pipe B drains it. If pipe A is opened at 2 pm and pipe B is opened at 3 pm, then the tank becomes full at 10 pm. Instead, if pipe A is opened at 2 pm and pipe B is opened at 4 pm, then the tank becomes full at 6 pm. If pipe B is not opened at all, then the time, in minutes, taken to fill the tank is",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "144",
+          "is_correct": true
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "140",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "264",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "120",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "1",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 386460)\n\nTwo pipes A and B are attached to an empty water tank. Pipe A fills the tank while pipe B drains it. If pipe A is opened at 2 pm and pipe B is opened at 3 pm, then the tank becomes full at 10 pm. Instead, if pipe A is opened at 2 pm and pipe B is opened at 4 pm, then the tank becomes full at 6 pm. If pipe B is not opened at all, then the time, in minutes, taken to fill the tank is\n\n**Options:**\n- **A**. 144 ✅\n- **B**. 140\n- **C**. 264\n- **D**. 120\n\n**Correct Answer:** 1"
+    }
+  ]
+}

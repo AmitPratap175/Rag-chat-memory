@@ -1,0 +1,532 @@
+{
+  "url": "https://cracku.in/cat-2022-slot-1-quant-question-paper-solved",
+  "num_questions_found": 22,
+  "questions": [
+    {
+      "qid": null,
+      "question_text": "In a village, the ratio of number of males to females is 5 : 4. The ratio of number of literate males to literate females is 2 : 3. The ratio of the number of illiterate males to illiterate females is 4 : 3. If 3600 males in the village are literate, then the total number of females in the village is",
+      "options": [],
+      "correct_option_data": "43200",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nIn a village, the ratio of number of males to females is 5 : 4. The ratio of number of literate males to literate females is 2 : 3. The ratio of the number of illiterate males to illiterate females is 4 : 3. If 3600 males in the village are literate, then the total number of females in the village is\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 43200"
+    },
+    {
+      "qid": "423983",
+      "question_text": "The average weight of students in a class increases by 600 gm when some new students join the class. If the average weight of the new students is 3 kg more than the average weight of the original students, then the ratio of the number of original students to the number of new students is",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "1 : 4",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "1 : 2",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "4 : 1",
+          "is_correct": true
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "3 : 1",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "3",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 423983)\n\nThe average weight of students in a class increases by 600 gm when some new students join the class. If the average weight of the new students is 3 kg more than the average weight of the original students, then the ratio of the number of original students to the number of new students is\n\n**Options:**\n- **A**. 1 : 4\n- **B**. 1 : 2\n- **C**. 4 : 1 ✅\n- **D**. 3 : 1\n\n**Correct Answer:** 3"
+    },
+    {
+      "qid": "423984",
+      "question_text": "For any natural number n, suppose the sum of the first n terms of an arithmetic progression is ( n + 2 n 2 ) $(n + 2n^2)$ ( n + 2 n 2 ) . If the n t h $n^{th}$ n t h term of the progression is divisible by 9, then the smallest possible value of n is",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "9",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "4",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "7",
+          "is_correct": true
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "8",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "3",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 423984)\n\nFor any natural number n, suppose the sum of the first n terms of an arithmetic progression is ( n + 2 n 2 ) $(n + 2n^2)$ ( n + 2 n 2 ) . If the n t h $n^{th}$ n t h term of the progression is divisible by 9, then the smallest possible value of n is\n\n**Options:**\n- **A**. 9\n- **B**. 4\n- **C**. 7 ✅\n- **D**. 8\n\n**Correct Answer:** 3"
+    },
+    {
+      "qid": "423985",
+      "question_text": "Let 0 ≤ a ≤ x ≤ 100 $0 \\leq a \\leq x \\leq 100$ 0 ≤ a ≤ x ≤ 1 0 0 and f ( x ) = ∣ x − a ∣ + ∣ x − 100 ∣ + ∣ x − a − 50 ∣ $f(x) = \\mid x - a \\mid + \\mid x - 100 \\mid + \\mid x - a - 50\\mid$ f ( x ) = ∣ x − a ∣ + ∣ x − 1 0 0 ∣ + ∣ x − a − 5 0 ∣ . Then the maximum value of f(x) becomes 100 when a is equal to",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "25",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "100",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "50",
+          "is_correct": true
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "0",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "3",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 423985)\n\nLet 0 ≤ a ≤ x ≤ 100 $0 \\leq a \\leq x \\leq 100$ 0 ≤ a ≤ x ≤ 1 0 0 and f ( x ) = ∣ x − a ∣ + ∣ x − 100 ∣ + ∣ x − a − 50 ∣ $f(x) = \\mid x - a \\mid + \\mid x - 100 \\mid + \\mid x - a - 50\\mid$ f ( x ) = ∣ x − a ∣ + ∣ x − 1 0 0 ∣ + ∣ x − a − 5 0 ∣ . Then the maximum value of f(x) becomes 100 when a is equal to\n\n**Options:**\n- **A**. 25\n- **B**. 100\n- **C**. 50 ✅\n- **D**. 0\n\n**Correct Answer:** 3"
+    },
+    {
+      "qid": "423986",
+      "question_text": "Trains A and B start traveling at the same time towards each other with constant speeds from stations X and Y, respectively. Train A reaches station Y in 10 minutes while train B takes 9 minutes to reach station X after meeting train A. Then the total time taken, in minutes, by train B to travel from station Y to station X is",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "6",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "15",
+          "is_correct": true
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "10",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "12",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "2",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 423986)\n\nTrains A and B start traveling at the same time towards each other with constant speeds from stations X and Y, respectively. Train A reaches station Y in 10 minutes while train B takes 9 minutes to reach station X after meeting train A. Then the total time taken, in minutes, by train B to travel from station Y to station X is\n\n**Options:**\n- **A**. 6\n- **B**. 15 ✅\n- **C**. 10\n- **D**. 12\n\n**Correct Answer:** 2"
+    },
+    {
+      "qid": null,
+      "question_text": "A trapezium A B C D $ABCD$ A B C D has side A D $AD$ A D parallel to B C , ∠ B A D = 9 0 ∘ , B C = 3 $BC, \\angle BAD = 90^\\circ, BC = 3$ B C , ∠ B A D = 9 0 ∘ , B C = 3 cm and A D = 8 $AD= 8$ A D = 8 cm. If the perimeter of this trapezium is 36 cm, then its area, in sq. cm, is",
+      "options": [],
+      "correct_option_data": "66",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nA trapezium A B C D $ABCD$ A B C D has side A D $AD$ A D parallel to B C , ∠ B A D = 9 0 ∘ , B C = 3 $BC, \\angle BAD = 90^\\circ, BC = 3$ B C , ∠ B A D = 9 0 ∘ , B C = 3 cm and A D = 8 $AD= 8$ A D = 8 cm. If the perimeter of this trapezium is 36 cm, then its area, in sq. cm, is\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 66"
+    },
+    {
+      "qid": "423988",
+      "question_text": "Ankita buys 4 kg cashews, 14 kg peanuts and 6 kg almonds when the cost of 7 kg cashews is the same as that of 30 kg peanuts or 9 kg almonds. She mixes all the three nuts and marks a price for the mixture in order to make a profit of ₹1752. She sells 4 kg of the mixture at this marked price and the remaining at a 20% discount on the marked price, thus making a total profit of ₹744. Then the amount, in rupees, that she had spent in buying almonds is",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "1680",
+          "is_correct": true
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "1176",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "2520",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "1440",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "1",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 423988)\n\nAnkita buys 4 kg cashews, 14 kg peanuts and 6 kg almonds when the cost of 7 kg cashews is the same as that of 30 kg peanuts or 9 kg almonds. She mixes all the three nuts and marks a price for the mixture in order to make a profit of ₹1752. She sells 4 kg of the mixture at this marked price and the remaining at a 20% discount on the marked price, thus making a total profit of ₹744. Then the amount, in rupees, that she had spent in buying almonds is\n\n**Options:**\n- **A**. 1680 ✅\n- **B**. 1176\n- **C**. 2520\n- **D**. 1440\n\n**Correct Answer:** 1"
+    },
+    {
+      "qid": null,
+      "question_text": "Let A be the largest positive integer that divides all the numbers of the form 3 k + 4 k + 5 k $3^k + 4^k + 5^k$ 3 k + 4 k + 5 k , and B be the largest positive integer that divides all the numbers of the form 4 k + 3 ( 4 k ) + 4 k + 2 $4^k + 3(4^k) + 4^{k + 2}$ 4 k + 3 ( 4 k ) + 4 k + 2 , where k is any positive integer. Then (A + B) equals",
+      "options": [],
+      "correct_option_data": "82",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nLet A be the largest positive integer that divides all the numbers of the form 3 k + 4 k + 5 k $3^k + 4^k + 5^k$ 3 k + 4 k + 5 k , and B be the largest positive integer that divides all the numbers of the form 4 k + 3 ( 4 k ) + 4 k + 2 $4^k + 3(4^k) + 4^{k + 2}$ 4 k + 3 ( 4 k ) + 4 k + 2 , where k is any positive integer. Then (A + B) equals\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 82"
+    },
+    {
+      "qid": "423990",
+      "question_text": "Let a, b, c be non-zero real numbers such that b 2 < 4 a c $b^2 < 4ac$ b 2 < 4 a c , and f ( x ) = a x 2 + b x + c $f(x) = ax^2 + bx + c$ f ( x ) = a x 2 + b x + c . If the set S consists of all integers m such that f(m) < 0, then the set S must necessarily be",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "the set of al!I positive integers",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "the set of all integers",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "either the empty set or the set of all integers",
+          "is_correct": true
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "the empty set",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "3",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 423990)\n\nLet a, b, c be non-zero real numbers such that b 2 < 4 a c $b^2 < 4ac$ b 2 < 4 a c , and f ( x ) = a x 2 + b x + c $f(x) = ax^2 + bx + c$ f ( x ) = a x 2 + b x + c . If the set S consists of all integers m such that f(m) < 0, then the set S must necessarily be\n\n**Options:**\n- **A**. the set of al!I positive integers\n- **B**. the set of all integers\n- **C**. either the empty set or the set of all integers ✅\n- **D**. the empty set\n\n**Correct Answer:** 3"
+    },
+    {
+      "qid": null,
+      "question_text": "The number of ways of distributing 20 identical balloons among 4 children such that each child gets some balloons but no child gets an odd number of balloons, is",
+      "options": [],
+      "correct_option_data": "84",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nThe number of ways of distributing 20 identical balloons among 4 children such that each child gets some balloons but no child gets an odd number of balloons, is\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 84"
+    },
+    {
+      "qid": "423992",
+      "question_text": "Let a and b be natural numbers. If a 2 + a b + a = 14 $a^2 + ab + a = 14$ a 2 + a b + a = 1 4 and b 2 + a b + b = 28 $b^2 + ab + b = 28$ b 2 + a b + b = 2 8 , then ( 2 a + b ) $(2a + b)$ ( 2 a + b ) equals",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "8",
+          "is_correct": true
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "7",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "10",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "9",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "1",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 423992)\n\nLet a and b be natural numbers. If a 2 + a b + a = 14 $a^2 + ab + a = 14$ a 2 + a b + a = 1 4 and b 2 + a b + b = 28 $b^2 + ab + b = 28$ b 2 + a b + b = 2 8 , then ( 2 a + b ) $(2a + b)$ ( 2 a + b ) equals\n\n**Options:**\n- **A**. 8 ✅\n- **B**. 7\n- **C**. 10\n- **D**. 9\n\n**Correct Answer:** 1"
+    },
+    {
+      "qid": null,
+      "question_text": "Amal buys 110 kg of syrup and 120 kg of juice, syrup being 20% less costly than juice, per kg. He sells 10 kg of syrup at 10% profit and 20 kg of juice at 20% profit. Mixing the remaining juice and syrup, Amal sells the mixture at ₹ 308.32 per kg and makes an overall profit of 64%. Then, Amal’s cost price for syrup, in rupees per kg, is",
+      "options": [],
+      "correct_option_data": "160",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nAmal buys 110 kg of syrup and 120 kg of juice, syrup being 20% less costly than juice, per kg. He sells 10 kg of syrup at 10% profit and 20 kg of juice at 20% profit. Mixing the remaining juice and syrup, Amal sells the mixture at ₹ 308.32 per kg and makes an overall profit of 64%. Then, Amal’s cost price for syrup, in rupees per kg, is\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 160"
+    },
+    {
+      "qid": "423994",
+      "question_text": "All the vertices of a rectangle lie on a circle of radius R. If the perimeter of the rectangle is P, then the area of the rectangle is",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "P 2 16 − R 2 \\frac{P^2}{16} - R^2 1 6 P 2 ​ − R 2",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "P 2 8 − 2 R 2 \\frac{P^2}{8} - 2R^2 8 P 2 ​ − 2 R 2",
+          "is_correct": true
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "P 2 2 − 2 P R \\frac{P^2}{2} - 2PR 2 P 2 ​ − 2 P R",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "P 2 8 − R 2 2 \\frac{P^2}{8} - \\frac{R^2}{2} 8 P 2 ​ − 2 R 2 ​",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "2",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 423994)\n\nAll the vertices of a rectangle lie on a circle of radius R. If the perimeter of the rectangle is P, then the area of the rectangle is\n\n**Options:**\n- **A**. P 2 16 − R 2 \\frac{P^2}{16} - R^2 1 6 P 2 ​ − R 2\n- **B**. P 2 8 − 2 R 2 \\frac{P^2}{8} - 2R^2 8 P 2 ​ − 2 R 2 ✅\n- **C**. P 2 2 − 2 P R \\frac{P^2}{2} - 2PR 2 P 2 ​ − 2 P R\n- **D**. P 2 8 − R 2 2 \\frac{P^2}{8} - \\frac{R^2}{2} 8 P 2 ​ − 2 R 2 ​\n\n**Correct Answer:** 2"
+    },
+    {
+      "qid": "423995",
+      "question_text": "The average of three integers is 13. When a natural number n is included, the average of these four integers remains an odd integer. The minimum possible value of n is",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "3",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "4",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "5",
+          "is_correct": true
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "1",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "3",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 423995)\n\nThe average of three integers is 13. When a natural number n is included, the average of these four integers remains an odd integer. The minimum possible value of n is\n\n**Options:**\n- **A**. 3\n- **B**. 4\n- **C**. 5 ✅\n- **D**. 1\n\n**Correct Answer:** 3"
+    },
+    {
+      "qid": "423996",
+      "question_text": "A mixture contains lemon juice and sugar syrup in equal proportion. If a new mixture is created by adding this mixture and sugar syrup in the ratio 1 : 3, then the ratio of lemon juice and sugar syrup in the new mixture is",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "1 : 4",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "1 : 5",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "1 : 6",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "1 : 7",
+          "is_correct": true
+        }
+      ],
+      "correct_option_data": "4",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 423996)\n\nA mixture contains lemon juice and sugar syrup in equal proportion. If a new mixture is created by adding this mixture and sugar syrup in the ratio 1 : 3, then the ratio of lemon juice and sugar syrup in the new mixture is\n\n**Options:**\n- **A**. 1 : 4\n- **B**. 1 : 5\n- **C**. 1 : 6\n- **D**. 1 : 7 ✅\n\n**Correct Answer:** 4"
+    },
+    {
+      "qid": "423997",
+      "question_text": "The largest real value of a for which the equation ∣ x + a ∣ + ∣ x − 1 ∣ = 2 $\\mid x + a \\mid + \\mid x - 1 \\mid = 2$ ∣ x + a ∣ + ∣ x − 1 ∣ = 2 has an infinite number of solutions for x is",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "-1",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "0",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "1",
+          "is_correct": true
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "2",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "3",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 423997)\n\nThe largest real value of a for which the equation ∣ x + a ∣ + ∣ x − 1 ∣ = 2 $\\mid x + a \\mid + \\mid x - 1 \\mid = 2$ ∣ x + a ∣ + ∣ x − 1 ∣ = 2 has an infinite number of solutions for x is\n\n**Options:**\n- **A**. -1\n- **B**. 0\n- **C**. 1 ✅\n- **D**. 2\n\n**Correct Answer:** 3"
+    },
+    {
+      "qid": "423998",
+      "question_text": "In a class of 100 students, 73 like coffee, 80 like tea and 52 like lemonade. It may be possible that some students do not like any of these three drinks. Then the difference between the maximum and minimum possible number of students who like all the three drinks is",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "47",
+          "is_correct": true
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "53",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "52",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "48",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "1",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 423998)\n\nIn a class of 100 students, 73 like coffee, 80 like tea and 52 like lemonade. It may be possible that some students do not like any of these three drinks. Then the difference between the maximum and minimum possible number of students who like all the three drinks is\n\n**Options:**\n- **A**. 47 ✅\n- **B**. 53\n- **C**. 52\n- **D**. 48\n\n**Correct Answer:** 1"
+    },
+    {
+      "qid": "423999",
+      "question_text": "Let ABCD be a parallelogram such that the coordinates of its three vertices A, B, C are (1, 1), (3, 4) and (−2, 8), respectively. Then, the coordinates of the vertex D are",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "(0, 11)",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "(4, 5)",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "(−3, 4)",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "(−4, 5)",
+          "is_correct": true
+        }
+      ],
+      "correct_option_data": "4",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 423999)\n\nLet ABCD be a parallelogram such that the coordinates of its three vertices A, B, C are (1, 1), (3, 4) and (−2, 8), respectively. Then, the coordinates of the vertex D are\n\n**Options:**\n- **A**. (0, 11)\n- **B**. (4, 5)\n- **C**. (−3, 4)\n- **D**. (−4, 5) ✅\n\n**Correct Answer:** 4"
+    },
+    {
+      "qid": null,
+      "question_text": "For natural numbers x, y, and z, if xy + yz = 19 and yz + xz = 51, then the minimum possible value of xyz is",
+      "options": [],
+      "correct_option_data": "34",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nFor natural numbers x, y, and z, if xy + yz = 19 and yz + xz = 51, then the minimum possible value of xyz is\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 34"
+    },
+    {
+      "qid": "424001",
+      "question_text": "Alex invested his savings in two parts. The simple interest earned on the first part at 15% per annum for 4 years is the same as the simple interest earned on the second part at 12% per annum for 3 years. Then, the percentage of his savings invested in the first part is",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "37.5%",
+          "is_correct": true
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "62.5%",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "60%",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "40%",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "1",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 424001)\n\nAlex invested his savings in two parts. The simple interest earned on the first part at 15% per annum for 4 years is the same as the simple interest earned on the second part at 12% per annum for 3 years. Then, the percentage of his savings invested in the first part is\n\n**Options:**\n- **A**. 37.5% ✅\n- **B**. 62.5%\n- **C**. 60%\n- **D**. 40%\n\n**Correct Answer:** 1"
+    },
+    {
+      "qid": null,
+      "question_text": "Pinky is standing in a queue at a ticket counter. Suppose the ratio of the number of persons standing ahead of Pinky to the number of persons standing behind her in the queue is 3 : 5. If the total number of persons in the queue is less than 300, then the maximum possible number of persons standing ahead of Pinky is",
+      "options": [],
+      "correct_option_data": "111",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nPinky is standing in a queue at a ticket counter. Suppose the ratio of the number of persons standing ahead of Pinky to the number of persons standing behind her in the queue is 3 : 5. If the total number of persons in the queue is less than 300, then the maximum possible number of persons standing ahead of Pinky is\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 111"
+    },
+    {
+      "qid": null,
+      "question_text": "For any real number x, let [x] be the largest integer less than or equal to x. If ∑ n = 1 N [ 1 5 + n 25 ] = 25 $\\sum_{n=1}^N \\left[\\frac{1}{5} + \\frac{n}{25}\\right] = 25$ ∑ n = 1 N ​ [ 5 1 ​ + 2 5 n ​ ] = 2 5 then N is",
+      "options": [],
+      "correct_option_data": "44",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nFor any real number x, let [x] be the largest integer less than or equal to x. If ∑ n = 1 N [ 1 5 + n 25 ] = 25 $\\sum_{n=1}^N \\left[\\frac{1}{5} + \\frac{n}{25}\\right] = 25$ ∑ n = 1 N ​ [ 5 1 ​ + 2 5 n ​ ] = 2 5 then N is\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 44"
+    }
+  ]
+}

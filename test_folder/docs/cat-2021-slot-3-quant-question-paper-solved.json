@@ -1,0 +1,532 @@
+{
+  "url": "https://cracku.in/cat-2021-slot-3-quant-question-paper-solved",
+  "num_questions_found": 22,
+  "questions": [
+    {
+      "qid": "386505",
+      "question_text": "A shop owner bought a total of 64 shirts from a wholesale market that came in two sizes, small and large. The price of a small shirt was INR 50 less than that of a large shirt. She paid a total of INR 5000 for the large shirts, and a total of INR 1800 for the small shirts. Then, the price of a large shirt and a small shirt together, in INR, is",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "175",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "150",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "200",
+          "is_correct": true
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "225",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "3",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 386505)\n\nA shop owner bought a total of 64 shirts from a wholesale market that came in two sizes, small and large. The price of a small shirt was INR 50 less than that of a large shirt. She paid a total of INR 5000 for the large shirts, and a total of INR 1800 for the small shirts. Then, the price of a large shirt and a small shirt together, in INR, is\n\n**Options:**\n- **A**. 175\n- **B**. 150\n- **C**. 200 ✅\n- **D**. 225\n\n**Correct Answer:** 3"
+    },
+    {
+      "qid": "386506",
+      "question_text": "One day, Rahul started a work at 9 AM and Gautam joined him two hours later. They then worked together and completed the work at 5 PM the same day. If both had started at 9 AM and worked together, the work would have been completed 30 minutes earlier. Working alone, the time Rahul would have taken, in hours, to complete the work is",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "11.5",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "10",
+          "is_correct": true
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "12.5",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "12",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "2",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 386506)\n\nOne day, Rahul started a work at 9 AM and Gautam joined him two hours later. They then worked together and completed the work at 5 PM the same day. If both had started at 9 AM and worked together, the work would have been completed 30 minutes earlier. Working alone, the time Rahul would have taken, in hours, to complete the work is\n\n**Options:**\n- **A**. 11.5\n- **B**. 10 ✅\n- **C**. 12.5\n- **D**. 12\n\n**Correct Answer:** 2"
+    },
+    {
+      "qid": "386507",
+      "question_text": "In a tournament, a team has played 40 matches so far and won 30% of them. If they win 60% of the remaining matches, their overall win percentage will be 50%. Suppose they win 90% of the remaining matches, then the total number of matches won by the team in the tournament will be",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "80",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "78",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "84",
+          "is_correct": true
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "86",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "3",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 386507)\n\nIn a tournament, a team has played 40 matches so far and won 30% of them. If they win 60% of the remaining matches, their overall win percentage will be 50%. Suppose they win 90% of the remaining matches, then the total number of matches won by the team in the tournament will be\n\n**Options:**\n- **A**. 80\n- **B**. 78\n- **C**. 84 ✅\n- **D**. 86\n\n**Correct Answer:** 3"
+    },
+    {
+      "qid": null,
+      "question_text": "The number of distinct pairs of integers (m,n), satisfying ∣ 1 + m n ∣ < ∣ m + n ∣ < 5 $\\mid1+mn\\mid<\\mid m+n\\mid<5$ ∣ 1 + m n ∣ < ∣ m + n ∣ < 5 is:",
+      "options": [],
+      "correct_option_data": "12",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nThe number of distinct pairs of integers (m,n), satisfying ∣ 1 + m n ∣ < ∣ m + n ∣ < 5 $\\mid1+mn\\mid<\\mid m+n\\mid<5$ ∣ 1 + m n ∣ < ∣ m + n ∣ < 5 is:\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 12"
+    },
+    {
+      "qid": "386509",
+      "question_text": "For a real number a, if log ⁡ 15 a + log ⁡ 32 a ( log ⁡ 15 a ) ( log ⁡ 32 a ) = 4 $\\frac{\\log_{15}{a}+\\log_{32}{a}}{(\\log_{15}{a})(\\log_{32}{a})}=4$ ( l o g 1 5 ​ a ) ( l o g 3 2 ​ a ) l o g 1 5 ​ a + l o g 3 2 ​ a ​ = 4 then a must lie in the range",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "2 < a < 3 2<a<3 2 < a < 3",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "3 < a < 4 3<a<4 3 < a < 4",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "4 < a < 5 4<a<5 4 < a < 5",
+          "is_correct": true
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "a > 5 a>5 a > 5",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "3",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 386509)\n\nFor a real number a, if log ⁡ 15 a + log ⁡ 32 a ( log ⁡ 15 a ) ( log ⁡ 32 a ) = 4 $\\frac{\\log_{15}{a}+\\log_{32}{a}}{(\\log_{15}{a})(\\log_{32}{a})}=4$ ( l o g 1 5 ​ a ) ( l o g 3 2 ​ a ) l o g 1 5 ​ a + l o g 3 2 ​ a ​ = 4 then a must lie in the range\n\n**Options:**\n- **A**. 2 < a < 3 2<a<3 2 < a < 3\n- **B**. 3 < a < 4 3<a<4 3 < a < 4\n- **C**. 4 < a < 5 4<a<5 4 < a < 5 ✅\n- **D**. a > 5 a>5 a > 5\n\n**Correct Answer:** 3"
+    },
+    {
+      "qid": "386510",
+      "question_text": "The total of male and female populations in a city increased by 25% from 1970 to 1980. During the same period, the male population increased by 40% while the female population increased by 20%. From 1980 to 1990, the female population increased by 25%. In 1990, if the female population is twice the male population, then the percentage increase in the total of male and female populations in the city from 1970 to 1990 is",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "68.25",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "68.75",
+          "is_correct": true
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "68.50",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "69.25",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "2",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 386510)\n\nThe total of male and female populations in a city increased by 25% from 1970 to 1980. During the same period, the male population increased by 40% while the female population increased by 20%. From 1980 to 1990, the female population increased by 25%. In 1990, if the female population is twice the male population, then the percentage increase in the total of male and female populations in the city from 1970 to 1990 is\n\n**Options:**\n- **A**. 68.25\n- **B**. 68.75 ✅\n- **C**. 68.50\n- **D**. 69.25\n\n**Correct Answer:** 2"
+    },
+    {
+      "qid": "386511",
+      "question_text": "Consider a sequence of real numbers, x 1 , x 2 , x 3 , . . . $x_{1},x_{2},x_{3},...$ x 1 ​ , x 2 ​ , x 3 ​ , . . . such that x n + 1 = x n + n − 1 $x_{n+1}=x_{n}+n-1$ x n + 1 ​ = x n ​ + n − 1 for all n ≥ 1 $n\\geq1$ n ≥ 1 . If x 1 = − 1 $x_{1}=-1$ x 1 ​ = − 1 then x 100 $x_{100}$ x 1 0 0 ​ is equal to",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "4849",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "4949",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "4950",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "4850",
+          "is_correct": true
+        }
+      ],
+      "correct_option_data": "4",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 386511)\n\nConsider a sequence of real numbers, x 1 , x 2 , x 3 , . . . $x_{1},x_{2},x_{3},...$ x 1 ​ , x 2 ​ , x 3 ​ , . . . such that x n + 1 = x n + n − 1 $x_{n+1}=x_{n}+n-1$ x n + 1 ​ = x n ​ + n − 1 for all n ≥ 1 $n\\geq1$ n ≥ 1 . If x 1 = − 1 $x_{1}=-1$ x 1 ​ = − 1 then x 100 $x_{100}$ x 1 0 0 ​ is equal to\n\n**Options:**\n- **A**. 4849\n- **B**. 4949\n- **C**. 4950\n- **D**. 4850 ✅\n\n**Correct Answer:** 4"
+    },
+    {
+      "qid": null,
+      "question_text": "The arithmetic mean of scores of 25 students in an examination is 50. Five of these students top the examination with the same score. If the scores of the other students are distinct integers with the lowest being 30, then the maximum possible score of the toppers is",
+      "options": [],
+      "correct_option_data": "92",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nThe arithmetic mean of scores of 25 students in an examination is 50. Five of these students top the examination with the same score. If the scores of the other students are distinct integers with the lowest being 30, then the maximum possible score of the toppers is\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 92"
+    },
+    {
+      "qid": "386513",
+      "question_text": "One part of a hostel’s monthly expenses is fixed, and the other part is proportional to the number of its boarders. The hostel collects ₹ 1600 per month from each boarder. When the number of boarders is 50, the profit of the hostel is ₹ 200 per boarder, and when the number of boarders is 75, the profit of the hostel is ₹ 250 per boarder. When the number of boarders is 80, the total profit of the hostel, in INR, will be",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "20200",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "20500",
+          "is_correct": true
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "20800",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "20000",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "2",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 386513)\n\nOne part of a hostel’s monthly expenses is fixed, and the other part is proportional to the number of its boarders. The hostel collects ₹ 1600 per month from each boarder. When the number of boarders is 50, the profit of the hostel is ₹ 200 per boarder, and when the number of boarders is 75, the profit of the hostel is ₹ 250 per boarder. When the number of boarders is 80, the total profit of the hostel, in INR, will be\n\n**Options:**\n- **A**. 20200\n- **B**. 20500 ✅\n- **C**. 20800\n- **D**. 20000\n\n**Correct Answer:** 2"
+    },
+    {
+      "qid": "386514",
+      "question_text": "The cost of fencing a rectangular plot is ₹ 200 per ft along one side, and ₹ 100 per ft along the three other sides. If the area of the rectangular plot is 60000 sq. ft, then the lowest possible cost of fencing all four sides, in INR, is",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "120000",
+          "is_correct": true
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "90000",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "100000",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "160000",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "1",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 386514)\n\nThe cost of fencing a rectangular plot is ₹ 200 per ft along one side, and ₹ 100 per ft along the three other sides. If the area of the rectangular plot is 60000 sq. ft, then the lowest possible cost of fencing all four sides, in INR, is\n\n**Options:**\n- **A**. 120000 ✅\n- **B**. 90000\n- **C**. 100000\n- **D**. 160000\n\n**Correct Answer:** 1"
+    },
+    {
+      "qid": null,
+      "question_text": "A park is shaped like a rhombus and has area 96 sq m. If 40 m of fencing is needed to enclose the park, the cost, in INR, of laying electric wires along its two diagonals, at the rate of ₹125 per m, is",
+      "options": [],
+      "correct_option_data": "3500",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nA park is shaped like a rhombus and has area 96 sq m. If 40 m of fencing is needed to enclose the park, the cost, in INR, of laying electric wires along its two diagonals, at the rate of ₹125 per m, is\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 3500"
+    },
+    {
+      "qid": null,
+      "question_text": "A tea shop offers tea in cups of three different sizes. The product of the prices, in INR, of three different sizes is equal to 800. The prices of the smallest size and the medium size are in the ratio 2 : 5. If the shop owner decides to increase the prices of the smallest and the medium ones by INR 6 keeping the price of the largest size unchanged, the product then changes to 3200. The sum of the original prices of three different sizes, in INR, is",
+      "options": [],
+      "correct_option_data": "34",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nA tea shop offers tea in cups of three different sizes. The product of the prices, in INR, of three different sizes is equal to 800. The prices of the smallest size and the medium size are in the ratio 2 : 5. If the shop owner decides to increase the prices of the smallest and the medium ones by INR 6 keeping the price of the largest size unchanged, the product then changes to 3200. The sum of the original prices of three different sizes, in INR, is\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 34"
+    },
+    {
+      "qid": null,
+      "question_text": "Mira and Amal walk along a circular track, starting from the same point at the same time. If they walk in the same direction, then in 45 minutes, Amal completes exactly 3 more rounds than Mira. If they walk in opposite directions, then they meet for the first time exactly after 3 minutes. The number of rounds Mira walks in one hour is",
+      "options": [],
+      "correct_option_data": "8",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nMira and Amal walk along a circular track, starting from the same point at the same time. If they walk in the same direction, then in 45 minutes, Amal completes exactly 3 more rounds than Mira. If they walk in opposite directions, then they meet for the first time exactly after 3 minutes. The number of rounds Mira walks in one hour is\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 8"
+    },
+    {
+      "qid": "386518",
+      "question_text": "If a certain weight of an alloy of silver and copper is mixed with 3 kg of pure silver, the resulting alloy will have 90% silver by weight. If the same weight of the initial alloy is mixed with 2 kg of another alloy which has 90% silver by weight, the resulting alloy will have 84% silver by weight. Then, the weight of the initial alloy, in kg, is",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "3.5",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "2.5",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "3",
+          "is_correct": true
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "4",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "3",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 386518)\n\nIf a certain weight of an alloy of silver and copper is mixed with 3 kg of pure silver, the resulting alloy will have 90% silver by weight. If the same weight of the initial alloy is mixed with 2 kg of another alloy which has 90% silver by weight, the resulting alloy will have 84% silver by weight. Then, the weight of the initial alloy, in kg, is\n\n**Options:**\n- **A**. 3.5\n- **B**. 2.5\n- **C**. 3 ✅\n- **D**. 4\n\n**Correct Answer:** 3"
+    },
+    {
+      "qid": "386519",
+      "question_text": "If a triangle ABC, ∠ B C A = 5 0 0 $\\angle BCA=50^{0}$ ∠ B C A = 5 0 0 . D and E are points on A B $AB$ A B and A C $AC$ A C , respectively, such that A D = D E $AD=DE$ A D = D E . If F is a point on B C $BC$ B C such that B D = D F $BD=DF$ B D = D F , then ∠ F D E $\\angle FDE$ ∠ F D E , in degrees, is equal to",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "72",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "80",
+          "is_correct": true
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "100",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "96",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "2",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 386519)\n\nIf a triangle ABC, ∠ B C A = 5 0 0 $\\angle BCA=50^{0}$ ∠ B C A = 5 0 0 . D and E are points on A B $AB$ A B and A C $AC$ A C , respectively, such that A D = D E $AD=DE$ A D = D E . If F is a point on B C $BC$ B C such that B D = D F $BD=DF$ B D = D F , then ∠ F D E $\\angle FDE$ ∠ F D E , in degrees, is equal to\n\n**Options:**\n- **A**. 72\n- **B**. 80 ✅\n- **C**. 100\n- **D**. 96\n\n**Correct Answer:** 2"
+    },
+    {
+      "qid": "386520",
+      "question_text": "Bank A offers 6% interest rate per annum compounded half-yearly. Bank B and Bank C offer simple interest but the annual interest rate offered by Bank C is twice that of Bank B. Raju invests a certain amount in Bank B for a certain period and Rupa invests ₹ 10,000 in Bank C for twice that period. The interest that would accrue to Raju during that period is equal to the interest that would have accrued had he invested the same amount in Bank A for one year. The interest accrued, in INR, to Rupa is",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "3436",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "2436",
+          "is_correct": true
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "2346",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "1436",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "2",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 386520)\n\nBank A offers 6% interest rate per annum compounded half-yearly. Bank B and Bank C offer simple interest but the annual interest rate offered by Bank C is twice that of Bank B. Raju invests a certain amount in Bank B for a certain period and Rupa invests ₹ 10,000 in Bank C for twice that period. The interest that would accrue to Raju during that period is equal to the interest that would have accrued had he invested the same amount in Bank A for one year. The interest accrued, in INR, to Rupa is\n\n**Options:**\n- **A**. 3436\n- **B**. 2436 ✅\n- **C**. 2346\n- **D**. 1436\n\n**Correct Answer:** 2"
+    },
+    {
+      "qid": "386521",
+      "question_text": "If f ( x ) = x 2 − 7 x $f(x)=x^{2}-7x$ f ( x ) = x 2 − 7 x and g ( x ) = x + 3 $g(x)=x+3$ g ( x ) = x + 3 , then the minimum value of f ( g ( x ) ) − 3 x $f(g(x))-3x$ f ( g ( x ) ) − 3 x is:",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "-20",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "-12",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "-15",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "-16",
+          "is_correct": true
+        }
+      ],
+      "correct_option_data": "4",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 386521)\n\nIf f ( x ) = x 2 − 7 x $f(x)=x^{2}-7x$ f ( x ) = x 2 − 7 x and g ( x ) = x + 3 $g(x)=x+3$ g ( x ) = x + 3 , then the minimum value of f ( g ( x ) ) − 3 x $f(g(x))-3x$ f ( g ( x ) ) − 3 x is:\n\n**Options:**\n- **A**. -20\n- **B**. -12\n- **C**. -15\n- **D**. -16 ✅\n\n**Correct Answer:** 4"
+    },
+    {
+      "qid": null,
+      "question_text": "Anil can paint a house in 12 days while Barun can paint it in 16 days. Anil, Barun, and Chandu undertake to paint the house for ₹ 24000 and the three of them together complete the painting in 6 days. If Chandu is paid in proportion to the work done by him, then the amount in INR received by him is",
+      "options": [],
+      "correct_option_data": "3000",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nAnil can paint a house in 12 days while Barun can paint it in 16 days. Anil, Barun, and Chandu undertake to paint the house for ₹ 24000 and the three of them together complete the painting in 6 days. If Chandu is paid in proportion to the work done by him, then the amount in INR received by him is\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 3000"
+    },
+    {
+      "qid": null,
+      "question_text": "If n is a positive integer such that ( 10 7 ) ( 10 7 ) 2 . . . ( 10 7 ) n > 999 $(\\sqrt[7]{10})(\\sqrt[7]{10})^{2}...(\\sqrt[7]{10})^{n}>999$ ( 7 1 0 ​ ) ( 7 1 0 ​ ) 2 . . . ( 7 1 0 ​ ) n > 9 9 9 , then the smallest value of n is",
+      "options": [],
+      "correct_option_data": "6",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nIf n is a positive integer such that ( 10 7 ) ( 10 7 ) 2 . . . ( 10 7 ) n > 999 $(\\sqrt[7]{10})(\\sqrt[7]{10})^{2}...(\\sqrt[7]{10})^{n}>999$ ( 7 1 0 ​ ) ( 7 1 0 ​ ) 2 . . . ( 7 1 0 ​ ) n > 9 9 9 , then the smallest value of n is\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 6"
+    },
+    {
+      "qid": null,
+      "question_text": "A four-digit number is formed by using only the digits 1, 2 and 3 such that both 2 and 3 appear at least once. The number of all such four-digit numbers is",
+      "options": [],
+      "correct_option_data": "50",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nA four-digit number is formed by using only the digits 1, 2 and 3 such that both 2 and 3 appear at least once. The number of all such four-digit numbers is\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 50"
+    },
+    {
+      "qid": "386525",
+      "question_text": "Let ABCD be a parallelogram. The lengths of the side AD and the diagonal AC are 10cm and 20cm, respectively. If the angle ∠ A D C $\\angle ADC$ ∠ A D C is equal to 3 0 0 $30^{0}$ 3 0 0 then the area of the parallelogram, in sq.cm is",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "25 ( 5 + 15 ) 2 \\frac{25(\\sqrt{5}+\\sqrt{15})}{2} 2 2 5 ( 5 ​ + 1 5 ​ ) ​",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "25 ( 3 + 15 ) 25(\\sqrt{3}+\\sqrt{15}) 2 5 ( 3 ​ + 1 5 ​ )",
+          "is_correct": true
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "25 ( 3 + 15 ) 2 \\frac{25(\\sqrt{3}+\\sqrt{15})}{2} 2 2 5 ( 3 ​ + 1 5 ​ ) ​",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "25 ( 5 + 15 ) {25(\\sqrt{5}+\\sqrt{15})} 2 5 ( 5 ​ + 1 5 ​ )",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "2",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 386525)\n\nLet ABCD be a parallelogram. The lengths of the side AD and the diagonal AC are 10cm and 20cm, respectively. If the angle ∠ A D C $\\angle ADC$ ∠ A D C is equal to 3 0 0 $30^{0}$ 3 0 0 then the area of the parallelogram, in sq.cm is\n\n**Options:**\n- **A**. 25 ( 5 + 15 ) 2 \\frac{25(\\sqrt{5}+\\sqrt{15})}{2} 2 2 5 ( 5 ​ + 1 5 ​ ) ​\n- **B**. 25 ( 3 + 15 ) 25(\\sqrt{3}+\\sqrt{15}) 2 5 ( 3 ​ + 1 5 ​ ) ✅\n- **C**. 25 ( 3 + 15 ) 2 \\frac{25(\\sqrt{3}+\\sqrt{15})}{2} 2 2 5 ( 3 ​ + 1 5 ​ ) ​\n- **D**. 25 ( 5 + 15 ) {25(\\sqrt{5}+\\sqrt{15})} 2 5 ( 5 ​ + 1 5 ​ )\n\n**Correct Answer:** 2"
+    },
+    {
+      "qid": "386526",
+      "question_text": "If 3 x + 2 ∣ y ∣ + y = 7 $3x+2\\mid y\\mid+y=7$ 3 x + 2 ∣ y ∣ + y = 7 and x + ∣ x ∣ + 3 y = 1 $x+\\mid x \\mid+3y=1$ x + ∣ x ∣ + 3 y = 1 then x + 2 y $x+2y$ x + 2 y is:",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "− 4 3 -\\frac{4}{3} − 3 4 ​",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "8 3 \\frac{8}{3} 3 8 ​",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "0 0 0",
+          "is_correct": true
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "1 1 1",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "3",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 386526)\n\nIf 3 x + 2 ∣ y ∣ + y = 7 $3x+2\\mid y\\mid+y=7$ 3 x + 2 ∣ y ∣ + y = 7 and x + ∣ x ∣ + 3 y = 1 $x+\\mid x \\mid+3y=1$ x + ∣ x ∣ + 3 y = 1 then x + 2 y $x+2y$ x + 2 y is:\n\n**Options:**\n- **A**. − 4 3 -\\frac{4}{3} − 3 4 ​\n- **B**. 8 3 \\frac{8}{3} 3 8 ​\n- **C**. 0 0 0 ✅\n- **D**. 1 1 1\n\n**Correct Answer:** 3"
+    }
+  ]
+}

@@ -1,0 +1,664 @@
+{
+  "url": "https://cracku.in/cat-2020-slot-1-quant-question-paper-solved",
+  "num_questions_found": 26,
+  "questions": [
+    {
+      "qid": "348327",
+      "question_text": "If Y is a negative number such that 2 Y 2 ( log ⁡ 3 5 ) = 5 log ⁡ 2 3 $2^{Y^2({\\log_{3}{5})}}=5^{\\log_{2}{3}}$ 2 Y 2 ( l o g 3 ​ 5 ) = 5 l o g 2 ​ 3 , then Y equals to:",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "log ⁡ 2 ( 1 5 ) \\log_{2}(\\frac{1}{5}) lo g 2 ​ ( 5 1 ​ )",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "log ⁡ 2 ( 1 3 ) \\log_{2}(\\frac{1}{3}) lo g 2 ​ ( 3 1 ​ )",
+          "is_correct": true
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "− log ⁡ 2 ( 1 5 ) -\\log_{2}(\\frac{1}{5}) − lo g 2 ​ ( 5 1 ​ )",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "− log ⁡ 2 ( 1 3 ) -\\log_{2}(\\frac{1}{3}) − lo g 2 ​ ( 3 1 ​ )",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "2",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 348327)\n\nIf Y is a negative number such that 2 Y 2 ( log ⁡ 3 5 ) = 5 log ⁡ 2 3 $2^{Y^2({\\log_{3}{5})}}=5^{\\log_{2}{3}}$ 2 Y 2 ( l o g 3 ​ 5 ) = 5 l o g 2 ​ 3 , then Y equals to:\n\n**Options:**\n- **A**. log ⁡ 2 ( 1 5 ) \\log_{2}(\\frac{1}{5}) lo g 2 ​ ( 5 1 ​ )\n- **B**. log ⁡ 2 ( 1 3 ) \\log_{2}(\\frac{1}{3}) lo g 2 ​ ( 3 1 ​ ) ✅\n- **C**. − log ⁡ 2 ( 1 5 ) -\\log_{2}(\\frac{1}{5}) − lo g 2 ​ ( 5 1 ​ )\n- **D**. − log ⁡ 2 ( 1 3 ) -\\log_{2}(\\frac{1}{3}) − lo g 2 ​ ( 3 1 ​ )\n\n**Correct Answer:** 2"
+    },
+    {
+      "qid": null,
+      "question_text": "A gentleman decided to treat a few children in the following manner. He gives half of his total stock of toffees and one extra to the first child, and then the half of the remaining stock along with one extra to the second and continues giving away in this fashion. His total stock exhausts after he takes care of 5 children. How many toffees were there in his stock initially?",
+      "options": [],
+      "correct_option_data": "62",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nA gentleman decided to treat a few children in the following manner. He gives half of his total stock of toffees and one extra to the first child, and then the half of the remaining stock along with one extra to the second and continues giving away in this fashion. His total stock exhausts after he takes care of 5 children. How many toffees were there in his stock initially?\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 62"
+    },
+    {
+      "qid": null,
+      "question_text": "How many 3-digit numbers are there, for which the product of their digits is more than 2 but less than 7?",
+      "options": [],
+      "correct_option_data": "21",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nHow many 3-digit numbers are there, for which the product of their digits is more than 2 but less than 7?\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 21"
+    },
+    {
+      "qid": "348330",
+      "question_text": "The number of real-valued solutions of the equation 2 x + 2 − x = 2 − ( x − 2 ) 2 $2^{x}+2^{-x}=2-(x-2)^{2}$ 2 x + 2 − x = 2 − ( x − 2 ) 2 is:",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "1",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "2",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "infinite",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "0",
+          "is_correct": true
+        }
+      ],
+      "correct_option_data": "4",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 348330)\n\nThe number of real-valued solutions of the equation 2 x + 2 − x = 2 − ( x − 2 ) 2 $2^{x}+2^{-x}=2-(x-2)^{2}$ 2 x + 2 − x = 2 − ( x − 2 ) 2 is:\n\n**Options:**\n- **A**. 1\n- **B**. 2\n- **C**. infinite\n- **D**. 0 ✅\n\n**Correct Answer:** 4"
+    },
+    {
+      "qid": "348331",
+      "question_text": "How many disticnt positive integer-valued solutions exist to the equation ( x 2 − 7 x + 11 ) ( x 2 − 13 x + 42 ) = 1 $(x^{2}-7x+11)^{(x^{2}-13x+42)}=1$ ( x 2 − 7 x + 1 1 ) ( x 2 − 1 3 x + 4 2 ) = 1 ?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "8",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "4",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "2",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "6",
+          "is_correct": true
+        }
+      ],
+      "correct_option_data": "4",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 348331)\n\nHow many disticnt positive integer-valued solutions exist to the equation ( x 2 − 7 x + 11 ) ( x 2 − 13 x + 42 ) = 1 $(x^{2}-7x+11)^{(x^{2}-13x+42)}=1$ ( x 2 − 7 x + 1 1 ) ( x 2 − 1 3 x + 4 2 ) = 1 ?\n\n**Options:**\n- **A**. 8\n- **B**. 4\n- **C**. 2\n- **D**. 6 ✅\n\n**Correct Answer:** 4"
+    },
+    {
+      "qid": "348332",
+      "question_text": "A solid right circular cone of height 27 cm is cut into two pieces along a plane parallel to its base at a height of 18 cm from the base. If the difference in volume of the two pieces is 225 cc, the volume, in cc, of the original cone is",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "243",
+          "is_correct": true
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "232",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "256",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "264",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "1",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 348332)\n\nA solid right circular cone of height 27 cm is cut into two pieces along a plane parallel to its base at a height of 18 cm from the base. If the difference in volume of the two pieces is 225 cc, the volume, in cc, of the original cone is\n\n**Options:**\n- **A**. 243 ✅\n- **B**. 232\n- **C**. 256\n- **D**. 264\n\n**Correct Answer:** 1"
+    },
+    {
+      "qid": null,
+      "question_text": "The area of the region satisfying the inequalities ∣ x ∣ − y ≤ 1 , y ≥ 0 $\\mid x\\mid-y\\leq1,y\\geq0$ ∣ x ∣ − y ≤ 1 , y ≥ 0 and y ≤ 1 $y\\leq1$ y ≤ 1 is",
+      "options": [],
+      "correct_option_data": "3",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nThe area of the region satisfying the inequalities ∣ x ∣ − y ≤ 1 , y ≥ 0 $\\mid x\\mid-y\\leq1,y\\geq0$ ∣ x ∣ − y ≤ 1 , y ≥ 0 and y ≤ 1 $y\\leq1$ y ≤ 1 is\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 3"
+    },
+    {
+      "qid": "348334",
+      "question_text": "On a rectangular metal sheet of area 135 sq in, a circle is painted such that the circle touches two opposite sides. If the area of the sheet left unpainted is two-thirds of the painted area then the perimeter of the rectangle in inches is",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "3 π ( 5 + 12 π ) 3\\sqrt{\\pi}(5+\\frac{12}{\\pi}) 3 π ​ ( 5 + π 1 2 ​ )",
+          "is_correct": true
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "4 π ( 3 + 9 π ) 4\\sqrt{\\pi}(3+\\frac{9}{\\pi}) 4 π ​ ( 3 + π 9 ​ )",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "3 π ( 5 2 + 6 π ) 3\\sqrt{\\pi}(\\frac{5}{2}+\\frac{6}{\\pi}) 3 π ​ ( 2 5 ​ + π 6 ​ )",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "5 π ( 3 + 9 π ) 5\\sqrt{\\pi}(3+\\frac{9}{\\pi}) 5 π ​ ( 3 + π 9 ​ )",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "1",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 348334)\n\nOn a rectangular metal sheet of area 135 sq in, a circle is painted such that the circle touches two opposite sides. If the area of the sheet left unpainted is two-thirds of the painted area then the perimeter of the rectangle in inches is\n\n**Options:**\n- **A**. 3 π ( 5 + 12 π ) 3\\sqrt{\\pi}(5+\\frac{12}{\\pi}) 3 π ​ ( 5 + π 1 2 ​ ) ✅\n- **B**. 4 π ( 3 + 9 π ) 4\\sqrt{\\pi}(3+\\frac{9}{\\pi}) 4 π ​ ( 3 + π 9 ​ )\n- **C**. 3 π ( 5 2 + 6 π ) 3\\sqrt{\\pi}(\\frac{5}{2}+\\frac{6}{\\pi}) 3 π ​ ( 2 5 ​ + π 6 ​ )\n- **D**. 5 π ( 3 + 9 π ) 5\\sqrt{\\pi}(3+\\frac{9}{\\pi}) 5 π ​ ( 3 + π 9 ​ )\n\n**Correct Answer:** 1"
+    },
+    {
+      "qid": "348335",
+      "question_text": "A circle is inscribed in a rhombus with diagonals 12 cm and 16 cm. The ratio of the area of circle to the area of rhombus is",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "6 π 25 \\frac{6\\pi}{25} 2 5 6 π ​",
+          "is_correct": true
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "5 π 18 \\frac{5\\pi}{18} 1 8 5 π ​",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "3 π 25 \\frac{3\\pi}{25} 2 5 3 π ​",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "2 π 15 \\frac{2\\pi}{15} 1 5 2 π ​",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "1",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 348335)\n\nA circle is inscribed in a rhombus with diagonals 12 cm and 16 cm. The ratio of the area of circle to the area of rhombus is\n\n**Options:**\n- **A**. 6 π 25 \\frac{6\\pi}{25} 2 5 6 π ​ ✅\n- **B**. 5 π 18 \\frac{5\\pi}{18} 1 8 5 π ​\n- **C**. 3 π 25 \\frac{3\\pi}{25} 2 5 3 π ​\n- **D**. 2 π 15 \\frac{2\\pi}{15} 1 5 2 π ​\n\n**Correct Answer:** 1"
+    },
+    {
+      "qid": "348336",
+      "question_text": "Among 100 students, x 1 $x_1$ x 1 ​ have birthdays in January, X 2 $X_2$ X 2 ​ have birthdays in February, and so on. If x 0 = m a x ( x 1 , x 2 , . . . . , x 12 ) $x_0=max(x_1,x_2,....,x_{12})$ x 0 ​ = m a x ( x 1 ​ , x 2 ​ , . . . . , x 1 2 ​ ) , then the smallest possible value of x 0 $x_0$ x 0 ​ is",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "8",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "9",
+          "is_correct": true
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "10",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "12",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "2",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 348336)\n\nAmong 100 students, x 1 $x_1$ x 1 ​ have birthdays in January, X 2 $X_2$ X 2 ​ have birthdays in February, and so on. If x 0 = m a x ( x 1 , x 2 , . . . . , x 12 ) $x_0=max(x_1,x_2,....,x_{12})$ x 0 ​ = m a x ( x 1 ​ , x 2 ​ , . . . . , x 1 2 ​ ) , then the smallest possible value of x 0 $x_0$ x 0 ​ is\n\n**Options:**\n- **A**. 8\n- **B**. 9 ✅\n- **C**. 10\n- **D**. 12\n\n**Correct Answer:** 2"
+    },
+    {
+      "qid": "348337",
+      "question_text": "A straight road connects points A and B. Car 1 travels from A to B and Car 2 travels from B to A, both leaving at the same time. After meeting each other, they take 45 minutes and 20 minutes, respectively, to complete their journeys. If Car 1 travels at the speed of 60 km/hr, then the speed of Car 2, in km/hr, is",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "100",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "90",
+          "is_correct": true
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "80",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "70",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "2",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 348337)\n\nA straight road connects points A and B. Car 1 travels from A to B and Car 2 travels from B to A, both leaving at the same time. After meeting each other, they take 45 minutes and 20 minutes, respectively, to complete their journeys. If Car 1 travels at the speed of 60 km/hr, then the speed of Car 2, in km/hr, is\n\n**Options:**\n- **A**. 100\n- **B**. 90 ✅\n- **C**. 80\n- **D**. 70\n\n**Correct Answer:** 2"
+    },
+    {
+      "qid": null,
+      "question_text": "A person spent Rs 50000 to purchase a desktop computer and a laptop computer. He sold the desktop at 20% profit and the laptop at 10% loss. If overall he made a 2% profit then the purchase price, in rupees, of the desktop is",
+      "options": [],
+      "correct_option_data": "20000",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nA person spent Rs 50000 to purchase a desktop computer and a laptop computer. He sold the desktop at 20% profit and the laptop at 10% loss. If overall he made a 2% profit then the purchase price, in rupees, of the desktop is\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 20000"
+    },
+    {
+      "qid": null,
+      "question_text": "A solution, of volume 40 litres, has dye and water in the proportion 2 : 3. Water is added to the solution to change this proportion to 2 : 5. If one fourths of this diluted solution is taken out, how many litres of dye must be added to the remaining solution to bring the proportion back to 2 : 3?",
+      "options": [],
+      "correct_option_data": "8",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nA solution, of volume 40 litres, has dye and water in the proportion 2 : 3. Water is added to the solution to change this proportion to 2 : 5. If one fourths of this diluted solution is taken out, how many litres of dye must be added to the remaining solution to bring the proportion back to 2 : 3?\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 8"
+    },
+    {
+      "qid": "348340",
+      "question_text": "If x = ( 4096 ) 7 + 4 3 $x=(4096)^{7+4\\sqrt{3}}$ x = ( 4 0 9 6 ) 7 + 4 3 ​ , then which of the following equals to 64?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "x 7 x 2 3 \\frac{x^{7}}{x^{2\\sqrt{3}}} x 2 3 ​ x 7 ​",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "x 7 2 x 4 3 \\frac{x^{\\frac{7}{2}}}{x^{\\frac{4}{\\sqrt{3}}}} x 3 ​ 4 ​ x 2 7 ​ ​",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "x 7 2 x 2 3 \\frac{x^{\\frac{7}{2}}}{x^{2{\\sqrt{3}}}} x 2 3 ​ x 2 7 ​ ​",
+          "is_correct": true
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "x 7 x 4 3 \\frac{x^{7}}{x^{4\\sqrt{3}}} x 4 3 ​ x 7 ​",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "3",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 348340)\n\nIf x = ( 4096 ) 7 + 4 3 $x=(4096)^{7+4\\sqrt{3}}$ x = ( 4 0 9 6 ) 7 + 4 3 ​ , then which of the following equals to 64?\n\n**Options:**\n- **A**. x 7 x 2 3 \\frac{x^{7}}{x^{2\\sqrt{3}}} x 2 3 ​ x 7 ​\n- **B**. x 7 2 x 4 3 \\frac{x^{\\frac{7}{2}}}{x^{\\frac{4}{\\sqrt{3}}}} x 3 ​ 4 ​ x 2 7 ​ ​\n- **C**. x 7 2 x 2 3 \\frac{x^{\\frac{7}{2}}}{x^{2{\\sqrt{3}}}} x 2 3 ​ x 2 7 ​ ​ ✅\n- **D**. x 7 x 4 3 \\frac{x^{7}}{x^{4\\sqrt{3}}} x 4 3 ​ x 7 ​\n\n**Correct Answer:** 3"
+    },
+    {
+      "qid": "348341",
+      "question_text": "An alloy is prepared by mixing three metals A, B and C in the proportion 3 : 4 : 7 by volume. Weights of the same volume of the metals A. B and C are in the ratio 5 : 2 : 6. In 130 kg of the alloy, the weight, in kg. of the metal C is",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "48",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "84",
+          "is_correct": true
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "70",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "96",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "2",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 348341)\n\nAn alloy is prepared by mixing three metals A, B and C in the proportion 3 : 4 : 7 by volume. Weights of the same volume of the metals A. B and C are in the ratio 5 : 2 : 6. In 130 kg of the alloy, the weight, in kg. of the metal C is\n\n**Options:**\n- **A**. 48\n- **B**. 84 ✅\n- **C**. 70\n- **D**. 96\n\n**Correct Answer:** 2"
+    },
+    {
+      "qid": null,
+      "question_text": "The number of distinct real roots of the equation ( x + 1 x ) 2 − 3 ( x + 1 x ) + 2 = 0 $(x+\\frac{1}{x})^{2}-3(x+\\frac{1}{x})+2=0$ ( x + x 1 ​ ) 2 − 3 ( x + x 1 ​ ) + 2 = 0 equals",
+      "options": [],
+      "correct_option_data": "1",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nThe number of distinct real roots of the equation ( x + 1 x ) 2 − 3 ( x + 1 x ) + 2 = 0 $(x+\\frac{1}{x})^{2}-3(x+\\frac{1}{x})+2=0$ ( x + x 1 ​ ) 2 − 3 ( x + x 1 ​ ) + 2 = 0 equals\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 1"
+    },
+    {
+      "qid": null,
+      "question_text": "If log ⁡ 4 5 = ( log ⁡ 4 y ) ( log ⁡ 6 5 ) $\\log_{4}{5}=(\\log_{4}{y})(\\log_{6}{\\sqrt{5}})$ lo g 4 ​ 5 = ( lo g 4 ​ y ) ( lo g 6 ​ 5 ​ ) , then y equals",
+      "options": [],
+      "correct_option_data": "36",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nIf log ⁡ 4 5 = ( log ⁡ 4 y ) ( log ⁡ 6 5 ) $\\log_{4}{5}=(\\log_{4}{y})(\\log_{6}{\\sqrt{5}})$ lo g 4 ​ 5 = ( lo g 4 ​ y ) ( lo g 6 ​ 5 ​ ) , then y equals\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 36"
+    },
+    {
+      "qid": "348344",
+      "question_text": "Leaving home at the same time, Amal reaches the office at 10:15 am if he travels at 8 km/hr, and at 9:40 am if he travels at 15 km/hr. Leaving home at 9.10 am, at what speed, in km/hr, must he travel so as to reach office exactly at 10 am?",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "13",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "12",
+          "is_correct": true
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "14",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "11",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "2",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 348344)\n\nLeaving home at the same time, Amal reaches the office at 10:15 am if he travels at 8 km/hr, and at 9:40 am if he travels at 15 km/hr. Leaving home at 9.10 am, at what speed, in km/hr, must he travel so as to reach office exactly at 10 am?\n\n**Options:**\n- **A**. 13\n- **B**. 12 ✅\n- **C**. 14\n- **D**. 11\n\n**Correct Answer:** 2"
+    },
+    {
+      "qid": "348345",
+      "question_text": "A train travelled at one-thirds of its usual speed, and hence reached the destination 30 minutes after the scheduled time. On its return journey, the train initially travelled at its usual speed for 5 minutes but then stopped for 4 minutes for an emergency. The percentage by which the train must now increase its usual speed so as to reach the destination at the scheduled time, is nearest to",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "50",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "58",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "67",
+          "is_correct": true
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "61",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "3",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 348345)\n\nA train travelled at one-thirds of its usual speed, and hence reached the destination 30 minutes after the scheduled time. On its return journey, the train initially travelled at its usual speed for 5 minutes but then stopped for 4 minutes for an emergency. The percentage by which the train must now increase its usual speed so as to reach the destination at the scheduled time, is nearest to\n\n**Options:**\n- **A**. 50\n- **B**. 58\n- **C**. 67 ✅\n- **D**. 61\n\n**Correct Answer:** 3"
+    },
+    {
+      "qid": "348346",
+      "question_text": "The mean of all 4-digit even natural numbers of the form 'aabb',where a > 0 $a>0$ a > 0 , is",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "4466",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "5050",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "4864",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "5544",
+          "is_correct": true
+        }
+      ],
+      "correct_option_data": "4",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 348346)\n\nThe mean of all 4-digit even natural numbers of the form 'aabb',where a > 0 $a>0$ a > 0 , is\n\n**Options:**\n- **A**. 4466\n- **B**. 5050\n- **C**. 4864\n- **D**. 5544 ✅\n\n**Correct Answer:** 4"
+    },
+    {
+      "qid": "348347",
+      "question_text": "Two persons are walking beside a railway track at respective speeds of 2 and 4 km per hour in the same direction. A train came from behind them and crossed them in 90 and 100 seconds, respectively. The time, in seconds, taken by the train to cross an electric post is nearest to",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "87",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "82",
+          "is_correct": true
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "78",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "75",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "2",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 348347)\n\nTwo persons are walking beside a railway track at respective speeds of 2 and 4 km per hour in the same direction. A train came from behind them and crossed them in 90 and 100 seconds, respectively. The time, in seconds, taken by the train to cross an electric post is nearest to\n\n**Options:**\n- **A**. 87\n- **B**. 82 ✅\n- **C**. 78\n- **D**. 75\n\n**Correct Answer:** 2"
+    },
+    {
+      "qid": "348348",
+      "question_text": "If a, b and c are positive integers such that ab = 432, bc = 96 and c < 9, then the smallest possible value of a + b + c is",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "49",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "56",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "59",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "46",
+          "is_correct": true
+        }
+      ],
+      "correct_option_data": "4",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 348348)\n\nIf a, b and c are positive integers such that ab = 432, bc = 96 and c < 9, then the smallest possible value of a + b + c is\n\n**Options:**\n- **A**. 49\n- **B**. 56\n- **C**. 59\n- **D**. 46 ✅\n\n**Correct Answer:** 4"
+    },
+    {
+      "qid": "348349",
+      "question_text": "In a group of people, 28% of the members are young while the rest are old. If 65% of the members are literates, and 25% of the literates are young, then the percentage of old people among the illiterates is nearest to",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "62",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "55",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "59",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "66",
+          "is_correct": true
+        }
+      ],
+      "correct_option_data": "4",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 348349)\n\nIn a group of people, 28% of the members are young while the rest are old. If 65% of the members are literates, and 25% of the literates are young, then the percentage of old people among the illiterates is nearest to\n\n**Options:**\n- **A**. 62\n- **B**. 55\n- **C**. 59\n- **D**. 66 ✅\n\n**Correct Answer:** 4"
+    },
+    {
+      "qid": null,
+      "question_text": "Veeru invested Rs 10000 at 5% simple annual interest, and exactly after two years, Joy invested Rs 8000 at 10% simple annual interest. How many years after Veeru’s investment, will their balances, i.e., principal plus accumulated interest, be equal?",
+      "options": [],
+      "correct_option_data": "12",
+      "solution_text": null,
+      "full_markdown": "### Question\n\nVeeru invested Rs 10000 at 5% simple annual interest, and exactly after two years, Joy invested Rs 8000 at 10% simple annual interest. How many years after Veeru’s investment, will their balances, i.e., principal plus accumulated interest, be equal?\n\n**Options:** _none listed on page_\n\n**Correct Answer:** 12"
+    },
+    {
+      "qid": "348351",
+      "question_text": "If f ( 5 + x ) = f ( 5 − x ) $f(5+x)=f(5-x)$ f ( 5 + x ) = f ( 5 − x ) for every real x, and f ( x ) = 0 $f(x)=0$ f ( x ) = 0 has four distinct real roots, then the sum of these roots is",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "0",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "40",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "10",
+          "is_correct": false
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "20",
+          "is_correct": true
+        }
+      ],
+      "correct_option_data": "4",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 348351)\n\nIf f ( 5 + x ) = f ( 5 − x ) $f(5+x)=f(5-x)$ f ( 5 + x ) = f ( 5 − x ) for every real x, and f ( x ) = 0 $f(x)=0$ f ( x ) = 0 has four distinct real roots, then the sum of these roots is\n\n**Options:**\n- **A**. 0\n- **B**. 40\n- **C**. 10\n- **D**. 20 ✅\n\n**Correct Answer:** 4"
+    },
+    {
+      "qid": "348352",
+      "question_text": "Let A, B and C be three positive integers such that the sum of A and the mean of B and C is 5. In addition, the sum of B and the mean of A and C is 7. Then the sum of A and B is",
+      "options": [
+        {
+          "data_option": "1",
+          "label": "A",
+          "option_text": "5",
+          "is_correct": false
+        },
+        {
+          "data_option": "2",
+          "label": "B",
+          "option_text": "4",
+          "is_correct": false
+        },
+        {
+          "data_option": "3",
+          "label": "C",
+          "option_text": "6",
+          "is_correct": true
+        },
+        {
+          "data_option": "4",
+          "label": "D",
+          "option_text": "7",
+          "is_correct": false
+        }
+      ],
+      "correct_option_data": "3",
+      "solution_text": null,
+      "full_markdown": "### Question (qid: 348352)\n\nLet A, B and C be three positive integers such that the sum of A and the mean of B and C is 5. In addition, the sum of B and the mean of A and C is 7. Then the sum of A and B is\n\n**Options:**\n- **A**. 5\n- **B**. 4\n- **C**. 6 ✅\n- **D**. 7\n\n**Correct Answer:** 3"
+    }
+  ]
+}
